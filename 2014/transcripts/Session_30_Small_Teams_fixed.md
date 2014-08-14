@@ -9,6 +9,7 @@ Session 30 - Making things happen with small teams
 Session Leader: Kaeti Hinck  
   
 
+
 >\>  All right, guys, let's get started.  
 
 
@@ -103,8 +104,8 @@ Session Leader: Kaeti Hinck
 
 
 >\> I'm -- I work for -- David works with us, too, but he doesn't do anything, alas.  I'm interested in seeing how small teams manage the tension between doing like long-term stuff and more time sensitive stuff, so yeah, ...    
-
   
+
 
 >\>Cool.  So how we're going to structure this is first talking about obstacles and we're going to have you guys all write down individually one obstacle that you feel prevents you from doing the work you want to do or doing it as well as you wish you could.  Because --  
 
@@ -113,18 +114,18 @@ Session Leader: Kaeti Hinck
 
 
 >\> Yes, and I speak at the same frequency as it, so so I will try to project.  After we write down obstacles, we can talk in our groups about those obstacles and write down very specific tactics or solutions, things that have worked for us or made that problem easier and then come back together at the end and do a group share around what works for us and what doesn't and ways we can work together as small teams.  There are post-it notes on every table, grab one, and just take a minute to write down one obstacle that you've encountered in your work.  
-
 [group activity]  
 All right, if you haven't started already, feel free to share what you've written with your group at the table and then from there, pick one of the obstacles you might found overlap in what you've written, but start with one and just talk through a couple of questions like you know, what's made this easier for us in the past, what didn't work when we tried it and if somebody could be a note-taker for each group and just quickly a list of solutions and tactics that you come up with as you talk about specific obstacles.  
 [group activity]  
   ... ... ... ... ...  ... ...  
 
+
 >\> Let's take a couple more minutes and then wrap up and talk as a whole group.  
 
 
 >\>  
-
 OK, let's circle back up, everyone, wrap things up:  All right, so now I want to talk as a whole group, and kind of walk through some of the things that the smaller groups talked about, and write down some of those obstacles and solutions, and then hopefully we have a lot of things to take away with us, including being connected with this whole community of people.  So if you guys want to start, what was one of the obstacles, you talked about?  
+
 
 >\>  
 
@@ -136,8 +137,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 
 >\> Mortality.  
-
 [laughter]  
+
 
 >\> That limited resource, mortality.  
 
@@ -155,8 +156,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 
 >\> You have, really?  
-
 [laughter]  
+
 
 >\> Did you talk about any others?  
 
@@ -243,8 +244,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 
 >\> It can still be an excited no.  Not, "No, screw off," but just no, but ...  
-
 [laughter]  
+
 
 >\> How about you guys?  
 
@@ -295,8 +296,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 
 >\> Give them lots of middle finger.  
-
 [laughter]  
+
 
 >\> Maybe doesn't fit the manners one, but --  
 
@@ -401,4 +402,3 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 
 >\> So we're over time, but I want to encourage you all -- I created an etherpad for this group, because it's sort of self- selected community of people who want to work.  So add your info.  I also posted it on my Twitter account did you phone want to write it down from there.  I'll post all the notes and things that you talked about.  So the note takers if you could either send me the notes or just leave them here if you did them handwritten, that would be awesome.  And thank you so much for coming ... ...   
-
