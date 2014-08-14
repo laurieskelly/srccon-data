@@ -1,4 +1,6 @@
-filenames = ['Session_18_Science_vs_Data_Journalism.md']
+import os
+
+filenames = [f for f in os.listdir('.') if f.endswith('.md') and not f.endswith('fixed.md')]
 
 for filename in filenames: 
     out = ''
