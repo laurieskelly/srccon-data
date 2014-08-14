@@ -26,3 +26,7 @@ for filename in filenames:
 
         with open(new_filename,'w') as outfile:
             outfile.write(out)
+
+
+        if filename.startswith('z'):
+            os.rename(filename,filename[2:])
