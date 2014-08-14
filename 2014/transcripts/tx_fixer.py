@@ -12,9 +12,9 @@ for filename in filenames:
 
             if line.startswith('>>'):
                 line = '\n'+line[0]+'\\'+line[1:]+'\n'
-            if line.startswith('['): 
+            # if line.startswith('['): 
                 #line = line.replace('[','  \n[')
-                line = line.replace(']',']  ')
+                #line = line.replace(']',']  ')
 
 
             out += line

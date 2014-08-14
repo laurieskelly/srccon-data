@@ -65,7 +65,7 @@ So who am I?  I'm Claire O'Neill, I work at NPR on our visuals team.  Yeah, so I
 >\>  Before CIR had done that -- I mean this is the most thorough documentation between where there's fence and where there's not, you can drill down to like street view.  So we had another brainstorming session, one idea was let's make it an interactive map, we've got a photographer there, let's have them shoot every kind of fence that they encountered along the way.  There's like 12 different kinds of fence.  Maybe we can have people explore this map and see the differences along the way, so our photographer was there with Steve Inskeep for two weeks.  She started -- this is the thing that caught my eye off the bat.  She sent this pictures which seemed real -- toothbrushes, which seemed really unusual.  All of these objects and artifacts had been left behind.  These just seemed like such an interesting way of getting at the people and the sort of humanity behind the story, and so we're like OK, we need to rethink how we're going to do this.  So we took over a back room in our office, and basically started storyboarding it almost like a magazine.  And well, this is the mobile view.  So we've got a series of stories here.  One leads to the other.  They each work on their own.  But together they sort of create this story about what it feels like to be on the border.  We also had this data about traffic.    
 
   
-[Inaudible]   [we're having technical difficulties in the room and the captioner can't hear the speaker]    
+[Inaudible] [we're having technical difficulties in the room and the captioner can't hear the speaker]  
   
 
 >\> So we had some internal debate about the ordering of these stories.  This is what we ended up doing with all of the map data.  
@@ -331,7 +331,7 @@ SESSION LEADER:  Yeah, a lot of meetings.  And product management was sort of a 
 
 >\> I don't think there's a group 6.  I think we're 5, yeah ... ...  
 
-[group activity]    
+[group activity]  
   
 SESSION LEADER:  So, what do you guys think?  
 
