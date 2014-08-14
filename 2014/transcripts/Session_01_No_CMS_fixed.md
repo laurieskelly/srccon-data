@@ -79,7 +79,6 @@ So this really is the task that we're set up with today:  How do we take that he
 >\> How big is your organization?  We're going to go around from table to table at the end talking about the solutions that you've outlined, and start potentially focusing on holes in them.  What if you were to add a new product on?  Or what if you suddenly merged with another company, how would you get around some of those kinds of questions, both organizationally and technically, logistically?  We've got a lot of people standing up in the back and open tables up front.  And as best you can, try and get into -- I guess we'll have an sixth table -- wherever there's a table, there's a group and there'll be a "tableless" nexus group of people back there.  Alexis and I will be circulating around the room to answer sort of logistical questions.  It's a centrally open ended activity and I hope you title as a challenge rather than a fear-based thing.  So you can define this as best the team has the skills to do.  As technical as you want, as organizational as you want.  Any questions before we go?  Really?  That made sense?  Awesome.  Great.  Break into your groups and start.  If you need supplies we have Post-Its over here.  
 
   
-  
 [ Discussion Groups ]    
             
 

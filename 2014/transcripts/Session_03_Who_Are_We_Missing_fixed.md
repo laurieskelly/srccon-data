@@ -481,7 +481,6 @@ Just bouncing off of that, the only reason I'm here at this conference is becaus
 
 >\> You should all pitch to source.  That is part of the work being done in this room.  So yes, send me your shit:  ... ... ... ... ...   
 
-  
 [break]    
   
   

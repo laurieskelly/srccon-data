@@ -114,10 +114,8 @@ Session Leader: Kaeti Hinck
 
 >\> Yes, and I speak at the same frequency as it, so so I will try to project.  After we write down obstacles, we can talk in our groups about those obstacles and write down very specific tactics or solutions, things that have worked for us or made that problem easier and then come back together at the end and do a group share around what works for us and what doesn't and ways we can work together as small teams.  There are post-it notes on every table, grab one, and just take a minute to write down one obstacle that you've encountered in your work.  
 
-  
 [group activity]    
 All right, if you haven't started already, feel free to share what you've written with your group at the table and then from there, pick one of the obstacles you might found overlap in what you've written, but start with one and just talk through a couple of questions like you know, what's made this easier for us in the past, what didn't work when we tried it and if somebody could be a note-taker for each group and just quickly a list of solutions and tactics that you come up with as you talk about specific obstacles.  
-  
 [group activity]    
   ... ... ... ... ...  ... ...  
 
@@ -139,7 +137,6 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 >\> Mortality.  
 
-  
 [laughter]    
 
 >\> That limited resource, mortality.  
@@ -159,7 +156,6 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 >\> You have, really?  
 
-  
 [laughter]    
 
 >\> Did you talk about any others?  
@@ -248,7 +244,6 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 >\> It can still be an excited no.  Not, "No, screw off," but just no, but ...  
 
-  
 [laughter]    
 
 >\> How about you guys?  
@@ -301,7 +296,6 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 
 >\> Give them lots of middle finger.  
 
-  
 [laughter]    
 
 >\> Maybe doesn't fit the manners one, but --  

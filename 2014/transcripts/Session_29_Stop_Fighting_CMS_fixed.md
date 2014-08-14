@@ -80,7 +80,6 @@ ANDREW:  Next... he's a developer.
 >\> I'm Daniel, I do WordPress stuff.  That's it.  I want to use a different CMS.  
 
 ANDREW:  Dude, I'm with you.  
-  
 [ Laughter ]    
 
 >\> I'm sick of WordPress.  
@@ -382,7 +381,6 @@ ANDREW:  Sounds good.  This is flexible and we have time.
 >\> I feel the structure of the room.  You guys should pick a side.  
 
 ANDREW:  That corner is collaboration and version control stuff and it looks like the content model is, like, everything else.  So you wanna go down and go over here?    
-  
 [ Group Work ]    
 All right.  Do you guys wanna start?  
 
