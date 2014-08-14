@@ -11,7 +11,7 @@ for filename in filenames:
             line = line.replace('\r\n','  \r\n')
 
             if line.startswith('>>'):
-                line = '\n\n'+line[0]+'\\'+line[1:]
+                line = '\n\n\n'+line[0]+'\\'+line[1:]
             # if line.startswith('['): 
                 #line = line.replace('[','  \n[')
                 #line = line.replace(']',']  ')
