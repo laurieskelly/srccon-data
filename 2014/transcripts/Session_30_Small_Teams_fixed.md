@@ -8,6 +8,7 @@ whitecoatcaptioning.com
 Session 30 - Making things happen with small teams
 Session Leader: Kaeti Hinck
 
+
 >\>  All right, guys, let's get started.
 
 >\> Hi, everyone ... ... OK, thanks for coming.  I'm Kaeti Hinck, if you don't know me, I work at MinnPost, and we are a small team, and one of the reasons I wanted to have this conversation with you, is just the collective wisdom of other people who are working on small teams and smaller organizations can really be of benefit to each other, so to start, I just want to quickly go around, just say your name, where you're working, where you're from, and just one sentence about something that you're hoping to get out of this session.  And if that makes you really nervous, you don't have to do that, you can just say your name, where you're from.
@@ -78,16 +79,16 @@ Session Leader: Kaeti Hinck
 >\> I'm sorry, could you speak up a little?  The cooling is really loud.
 
 >\> Yes, and I speak at the same frequency as it, so so I will try to project.  After we write down obstacles, we can talk in our groups about those obstacles and write down very specific tactics or solutions, things that have worked for us or made that problem easier and then come back together at the end and do a group share around what works for us and what doesn't and ways we can work together as small teams.  There are post-it notes on every table, grab one, and just take a minute to write down one obstacle that you've encountered in your work.
-
 [group activity]
 All right, if you haven't started already, feel free to share what you've written with your group at the table and then from there, pick one of the obstacles you might found overlap in what you've written, but start with one and just talk through a couple of questions like you know, what's made this easier for us in the past, what didn't work when we tried it and if somebody could be a note-taker for each group and just quickly a list of solutions and tactics that you come up with as you talk about specific obstacles.
 [group activity]
   ... ... ... ... ...  ... ...
+
 >\> Let's take a couple more minutes and then wrap up and talk as a whole group.
 
 >\>
-
 OK, let's circle back up, everyone, wrap things up:  All right, so now I want to talk as a whole group, and kind of walk through some of the things that the smaller groups talked about, and write down some of those obstacles and solutions, and then hopefully we have a lot of things to take away with us, including being connected with this whole community of people.  So if you guys want to start, what was one of the obstacles, you talked about?
+
 >\>
 
 >\> Time.
@@ -95,8 +96,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> Time.
 
 >\> Mortality.
-
 [laughter]
+
 >\> That limited resource, mortality.
 
 >\> So what are some of the solutions you talked about?  The tactics?
@@ -108,8 +109,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> Heard of that.
 
 >\> You have, really?
-
 [laughter]
+
 >\> Did you talk about any others?
 
 >\> We talked about like just kind of interacting with people and when you feel like they're wasting your time or you're wasting their time, just having things like manners and using bribes or customer service language to kind of just like make that something that you know is like a bad interaction to overall just feel better about that, because if you are in a small newsroom and like, you know, people can see you.
@@ -167,8 +168,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> Yeah, we explain the whys behind the nos that we have to give, I think everybody is much happier and then understands how to come back and rethink the project.
 
 >\> It can still be an excited no.  Not, "No, screw off," but just no, but ...
-
 [laughter]
+
 >\> How about you guys?
 
 >\>
@@ -202,8 +203,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> So what do people do with the folks who jump in at the end of the conversation who, say, weren't part of the stakeholder group?
 
 >\> Give them lots of middle finger.
-
 [laughter]
+
 >\> Maybe doesn't fit the manners one, but --
 
 >\> I am ill-mannered ...  How about you guys?  On the view.
@@ -273,4 +274,3 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> Yes, and the more we can undercut meetings the better, right?
 
 >\> So we're over time, but I want to encourage you all -- I created an etherpad for this group, because it's sort of self- selected community of people who want to work.  So add your info.  I also posted it on my Twitter account did you phone want to write it down from there.  I'll post all the notes and things that you talked about.  So the note takers if you could either send me the notes or just leave them here if you did them handwritten, that would be awesome.  And thank you so much for coming ... ... 
-

@@ -9,10 +9,11 @@ Session 21 - Toward web-native storytelling!
 Session Leaders: Claire O'Neill and Tyler Fisher
 
 
+
 >\>Morning, everyone:  So this session was originally called "Cool data bro', but what's the story?" and that seemed kind of mean, so I changed it to web storytelling, whatever that means.  So I guess we can introduce ourselves first.  What we're thinking of doing is we'll introduce ourselves, we'll talk a little bit about our team, and we can sort of talk about a project you did, but then we thought it might be interesting to sort of talk about our design exercise, basically the exercise we do and then break into groups and do that design exercise for a story.  
 
-
 So who am I?  I'm Claire O'Neill, I work at NPR on our visuals team.  Yeah, so I've been at NPR for about five years, I started as an intern, at the time the only department doing internet was like, well, we had web producers basically filling out radio stories and then radio team.  But so I was there for about five years, and somewhat recently our boss at that department left and Brian Boyer was hired to start a news apps team, and so at that point, our teams merged and so now we're sort of a content team of designers, photo editors, and my role is sort of more of an editor sort of content strategy.
+
 >\> I'm Chris Groskopf.  No, I'm Tyler Fisher -- I just started this month and I'm a designer developer on the team.  I also started as an intern and was hired, and I, you know, I think a lot of people assume, like because I sort of do news apps development that all I care about is data, and I just want to make charts, but I find what we do at NPR a lot more rewarding because we're telling stories with really inventive amazing visuals and trying to find the best way to tell a story, not just assume that a bar chart will do the job.  So I will be in the session to make that a more systemic thing in our field to think about what the story actually is and how it needs to be told.
 
 >\> How many people here are on similar teams like that?  Yeah, where do you work and how does your team work?
@@ -47,8 +48,8 @@ So who am I?  I'm Claire O'Neill, I work at NPR on our visuals team.  Yeah, so I
 
 >\>  Before CIR had done that -- I mean this is the most thorough documentation between where there's fence and where there's not, you can drill down to like street view.  So we had another brainstorming session, one idea was let's make it an interactive map, we've got a photographer there, let's have them shoot every kind of fence that they encountered along the way.  There's like 12 different kinds of fence.  Maybe we can have people explore this map and see the differences along the way, so our photographer was there with Steve Inskeep for two weeks.  She started -- this is the thing that caught my eye off the bat.  She sent this pictures which seemed real -- toothbrushes, which seemed really unusual.  All of these objects and artifacts had been left behind.  These just seemed like such an interesting way of getting at the people and the sort of humanity behind the story, and so we're like OK, we need to rethink how we're going to do this.  So we took over a back room in our office, and basically started storyboarding it almost like a magazine.  And well, this is the mobile view.  So we've got a series of stories here.  One leads to the other.  They each work on their own.  But together they sort of create this story about what it feels like to be on the border.  We also had this data about traffic.  
 
-
 [Inaudible] [we're having technical difficulties in the room and the captioner can't hear the speaker]
+
 
 >\> So we had some internal debate about the ordering of these stories.  This is what we ended up doing with all of the map data.
 
@@ -63,11 +64,11 @@ So who am I?  I'm Claire O'Neill, I work at NPR on our visuals team.  Yeah, so I
 
 >\>It's a story about the Ethiopian woman, $15,000 in five years to reach the border.  
 
-
 ROOM WRANGLER:  We're trying to get somebody to turn on the microphone, but it's not likely and we're trying to get the white noise turned off, but that's not likely, either.
 SESSION LEADER:  Right, so we zoom in on a person, a human who can sort of connect it us to the story and then we have a few detail shots of you knee know, recipes on border and then some action shots, you know, a story in essay proceedings speak about an actual episode that they had border control.  Some things were cool about this, some things weren't, but this is sort of our team's first collaborative project together.
 
 How many people are on the team and what were the roles that they played in helping you build this?
+
 >\> So our team in general or the team that worked on this.
 
 >\> For this project in particular.
@@ -80,8 +81,8 @@ How many people are on the team and what were the roles that they played in help
 >\> We worked on it for a few weeks, had a few iteration views, and I mean what's interesting about this is this only happened because Brian Weir was out of town.  Like basically this is what happens when people like myself and the photographer were like let's do all of these things with all of these photos, you guys can build that, right?  Which is problematic.  I mean this has been a learning experience in sort of learning better what Tyler and Chris could do in a reasonable amount of time, so yeah, I mean I feel like I don't know -- the story of my experience, and NPR and at conferencing, I feel like I'm like forcing my way in.  And trying to learn better.  
 
 >\> So I'm curious about sort of the project management aspect of it.  Because you were working with this other team as well as your own reporters, so you were really kind of working with a lot of different people.  Did you do weekly meetings?  I mean how did you kind of coordinate that all and kind of keep it rolling at the same time with everyone knowing what their tasks were and their deadlines and all of that?
-
 SESSION LEADER:  Yeah, a lot of meetings.  And product management was sort of a coteam.  Becky Lettenberger who also was on my multimedia team of photographers and videographers, she doesn't quite know how to product manage data reporters just yet, so they were sort of managing it together, but we would have weekly meetings?
+
 >\> Yeah, we had weekly iteration reviews that we meet with everybody on the project, including like Steve Inskeep would come to the meeting and see our progress.  Also Brian when he was around would also get involved.  So that keeps us in check and plans out and we work for the week and then what we get done, we present it and move on from there.  It allows us to you know, pivot when we need to.  If something didn't work.  OK, let's try this week, see if that works, go down this pathway.  Yeah.
 
 >\> What was the total time start to finish on it?
@@ -228,13 +229,13 @@ SESSION LEADER:  Yeah, a lot of meetings.  And product management was sort of a 
 >\> Group 2, other veterans.  Group 3, family members.  Group 4, let's do policymakers, group 5, people in the community and group 6, people who don't know about vets at all.
 
 >\> I don't think there's a group 6.  I think we're 5, yeah ... ...
-
 [group activity]
 
 SESSION LEADER:  So, what do you guys think?
->\> We figured it all out, so it totally works.
 
+>\> We figured it all out, so it totally works.
 SESSION LEADER:  Is there value in doing it this way?
+
 >\> I think so.  Even for us on number one, we're doing homeless vets, and so I don't think any of us have any like direct, you know, exposure to what that experience is like, and so trying to understand what that is, we made a bunch of assumptions, came up with a bunch much ideas and tried to be thoughtful a about what that would be, but I think it would be like super difficult.
 
 >\> We don't really know what the problem is because we don't have that experience.
@@ -244,8 +245,8 @@ SESSION LEADER:  Is there value in doing it this way?
 >\>
 
 >\> And I think when we do this exercise, we will probably not do homeless vets.  I imagine we will do something else.
-
 SESSION LEADER:  That's interesting that you guys say that you don't know the experience.  You need to talk to folks, right.
+
 >\> It's a really hard problem, it made us step way outside the box in terms of our experience.
 
 >\> Yeah, I think it might also give us some questions to ask.
@@ -253,8 +254,8 @@ SESSION LEADER:  That's interesting that you guys say that you don't know the ex
 >\> Yeah, yeah.
 
 >\> [inaudible]
-
 SESSION LEADER:  Anyone else?
+
 >\> I think the tricky part is probably what comes next, because you're not making five separate interactives, it's when you're going to be thinking about all of these different audiences and then you try to find the intersections of what works for more than one of them.  And there probably is plenty of crossover.
 
 >\> Did anybody start thinking about like what you would actually make?
@@ -284,7 +285,6 @@ SESSION LEADER:  Anyone else?
 >\> and I think in a lot of shops if you go too far down, you'll have others saying but we've already built we've already spent all this time there, and you might get trapped.
 
 >\> This is a before you go out in the field, let's talk about it, and then go out in the field, do whatever you have to do, and come back and let's see what you have.  Yeah.  So ...
-
 
 
 

@@ -11,7 +11,7 @@ for filename in filenames:
             line.replace('\r\n','  \r\n')
 
             if line.startswith('>>'):
-                line = line[0]+'\\'+line[1:]+'\n'
+                line = '\n'+line[0]+'\\'+line[1:]
 
             out += line
 

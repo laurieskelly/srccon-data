@@ -13,6 +13,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 We wanted to start out here by introducing ourselves, telling you very briefly about what we do.  And you know, as we said in the session discussion, we're really trying to learn from you guys, as well as sharing with you some of the things we've picked up as you go.  Feel free to jump in.  This is meant to be very participatory.  
 
 My name is Jaeah, we're both at Mother Jones Magazine on the data team there, and I started in my job about two years ago, at which point there were still plenty of reporters and editors in our newsroom who did not know what a column or a row in a spreadsheet was, and so because we were fairly short-staffed, really short-staffed...
+
 >\> It's us.
 
 >\> Yeah, it's just the two of us.  Two and a half for some time, and we're attempting to expand our team, but nonetheless, we have tons of ideas that come through the pipeline on a daily basis, so in trying to figure out ways to not have to constantly be churning out charts and behaving solely like a service desk, we tried to figure out ways early on, you know, and with Tasneem's leadership to seed these skills throughout the newsroom, and to start, you know, in somewhat sneaky ways, just saying, well, did you know that you could add these 10 columns not by hand but by using a very simple sum function, and it kind of started out from there and bloomed into more formal regular weekly skills training sessions where we -- Tasneem convinced the company to pay for pizza once a week.
@@ -36,8 +37,8 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> That is a great place to start.
 
 >\> Yeah.
-
 [laughter]
+
 >\> That's nice, I like that.
 
 >\> Two things we want to walk away with, here.  Jaeah, if you want to talk about some of this stuff?
@@ -89,8 +90,8 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> I did training.
 
 >\>
-
 [laughter]
+
 >\> Yes, I was there for that.  And like it just never like, some people they're real interested.
 
 >\> Voluntold problem.
@@ -130,8 +131,8 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> My only experience in training is J school, in teaching other students how to code and I think -- I haven't thought about or I thought about -- I haven't figured out how to do this in a newsroom, but the most successful thing I did was at the night lab, we had what we called open lab hours and they were from like 6 to 9 or 7 to 10 or something, on a random week night, which works in college because you're always at the same place.
 
 >\>
-
 [laughter]
+
 >\> But that doesn't work in a newsroom, but the thing that worked about that was that we have a physical space, and this is where you come to learn and work or your own project that may not be your day job, may not be your homework or whatever.  But having a place where you are forced to get into that mind set is really important.  People walk in, OK I'm here to learn for these three hours.  And I think that runs counter to what we were saying.  If you have a sort of collaborative space, I think -- I don't know --
 
 >\> Where you can get more like one-on-one time, as well.  Yeah, the evolution of ours, as Jaeah was saying, has really like dramatically changed over time where we as I said started with the get people in a room, you know, everybody follow along, hope the demo gods don't like strike us down.  And it was not that effective, but I think for whatever reason, people still were like excited.  And one thing that I have found to be really kind of like sneakily helpful for us is that we will actually take a byline oftentimes on pieces that we are really significantly helping out on the production and that, would because then they feel like A, they have both like a right and also like are accountable to giving you their time, because if you guys are sharing a by line, now, it's OK, oh, this is a model that they're familiar with.  OK, we are coproducers on this thing, you need me to communicate with you, I need you to know that you know about X, Y, Z, you know?  Because a lot of times things fall apart because we've spent all this time working with a reporter and we don't hear from them in a couple days and we're like, wait, what happened and they're like, oh, yeah, that got pulled and we weren't in that work flow.  That's maybe not something that is going to be appropriate for what you chieve in your company, but in our case for people who are like hybrid journalists, taking abyline was A, not a problem at all, they're like oh, yeah, that makes total sense and B is this makes it journalism.  You know, the way that you learn things from your sources and learn things from your research, is you've got to learn about how to make this stuff, too.
@@ -216,11 +217,11 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> What about sort of process?  Right?
 
 >\> Yeah,.
-
 [laughter]
+
 >\> Good question.  How do you handle that problem?
-
 [laughter]
+
 >\> I don't have that problem.  I don't work at a journalism organization, but --
 
 >\> It's I don't know, I would say we're constantly just improving it, and reworking and kind of sometimes we have to go back to the drawing board and -- I don't know, it's also, I think, depending on the project and need, the process has to change along with it, so there's never one process that will be applicable to every single project.  But that said, --
@@ -260,11 +261,11 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> There's revision history with that, as well, so you can actually go back if somebody decides to like nuke it or breaks.
 
 >\> I do want to get back to this question of like the top-down culture problem, because I think that that is so key.  And you know like Yuri, I know you've dealt with this.  For those of you who felt where the obstacle is you this is a grassroots organization, you had this mandate, did it work, did it not work?  What worked?
-
 [laughter]
+
 >\> I can tell you a lot of things that did not work.  You know, they put me in charge and I still couldn't push stuff through.  For me, fighting up is a lot easier than fighting down.  Because if it's not a shared mission, then it's hard.  The things that really worked for me was one-on-one, and then you do that with like 10 people and you get like an evangelist and then they go and say check out this cool thing I did.  When you get an evangelist, then it gets better, because then you have more and more evangelists and more and more people get excited.  But there's still going to be one desk that you can't break in.  I'll buy you lunch, I'll take you out for drinks.  What do you want?  You want a computer, here?  You don't like it because it's a Mac?  I mean, come on.
-
 [laughter]
+
 >\> There's a corollary to evangelism which is sort of competition or jealousy in some certain newsroom environments.  Like one reporter does some awesome thing with his story and the other reporter starts saying, how come I didn't do that?  Why does he get to do that?
 
 >\> We present a friendly face but we are pretty devious behind scenes and we are on this.  We get like a target.  OK, Dave is our next target.  We call it annexation, we have a list of people we have annexed, and it is a bit like Risk.
@@ -284,8 +285,8 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> Do you have enough money for that?
 
 >\> But I mean like --
-
 [laughter]
+
 >\> My executive editor has more commits at GitHub than I do, and it's crazy.  We get them to commit documentation.  Don't complain, contribute.  If you see a spelling error in documentation in code, you should have access to fix that and we want everybody to be part of this because we're all in it together, and if it tool doesn't work or a system is broken, that hurts us all.
 
 >\> That's kind of the byline philosophy for us, because they know that both of our names are going to be on the finished post here and that kind of breeds more of a sense of accountability for getting it right.
@@ -315,8 +316,8 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> I don't think so.
 
 >\>
-
 [laughter]
+
 >\>
 
 >\> I mean one of the ways was almost, not only are we kind of trying to seeds our skills at all levels, but also just, you know, buddying up with story editors who we know like if we get them to buy into it, then they like they'll almost just convince or just tell the reporter, this needs a chart component, you need to talk to these guys and the story is not complete until that's done.  And you know, I think that's -- it's been a mixed bag, but we, you know, we have -- there's one senior editor in particular who was already very data-savvy and that was just like how he thought oftentimes, so that was a natural starting point for you, just working together with him, and then from then on out, I mean even Mike mechanic, who we never thought we would convince, and he's been very much on board, really.
@@ -334,8 +335,8 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> In our training sessions it's pretty much the whole west side of the office, which is devs and reporters, and it's pretty much an open topic for everyone, and so as developers, we get talks from about like how to dress for the camera.
 
 >\>
-
 [laughter]
+
 >\>
 
 >\> Yeah, I think going back to just the whole collaboration model, I think as much as reporters and editors are learning from -- I mean we were for a long time working with one of our developers on the tech team half time, and eventually he was -- we were just having him pair up directly with the reporter.  Rather than one of us being in there, and sort of liaising, and I think he learned as much about the editorial process and how reporters think, how editors think, as much as they did about you know, how he goes about his coding, and how his code is structured and you know, all those things.  So I think it was very helpful, because as much as, you know, or nontechnical editorial folks might look at programmers in this very mystified light, the same happens on the other end and we found that you know with one of our developers, he was maybe resistant, I don't recall if he was resistant at first working direct think, he wanted this in between, us as a middle man to kind of translate, almost, you know, what they're asking for and how that transitions to exactly what he should build and how, and I think, you know, that -- so it definitely goes both ways, the sort of, you know, -- it's almost like a cultural exchange program.
@@ -359,5 +360,4 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> It's kind of a startup, your first week, no matter what your job is, you have a support person and by the end of the week, you know like probably identified four bugs you wanted to fix and like a bunch of...
 
 >\> I think we're out of time.  All right, thanks, guys, this has been really helpful.
-
 [break] 

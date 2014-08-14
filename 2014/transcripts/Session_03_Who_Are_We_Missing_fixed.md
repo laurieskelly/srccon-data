@@ -9,8 +9,8 @@ whitecoatcaptioning.com
 Session 3 -- Who are we missing? 
 Session Leader: Mandy Brown
 
->\> All right, I'm going to get started.  I think more people are going to trickle in, but since Dan told us to be on time, I'm going to adhere to that.  This is the short URL for a Google Doc which I started already, and if you would like to pop your name and like URL in there, I'm hoping to do a little SRC post about what comes out of this session and I will credit you as being a part of that if you put your name in there.  If you want to be anonymous, that's cool.  You don't have to put your name in there.  
 
+>\> All right, I'm going to get started.  I think more people are going to trickle in, but since Dan told us to be on time, I'm going to adhere to that.  This is the short URL for a Google Doc which I started already, and if you would like to pop your name and like URL in there, I'm hoping to do a little SRC post about what comes out of this session and I will credit you as being a part of that if you put your name in there.  If you want to be anonymous, that's cool.  You don't have to put your name in there.  
 
 I was going to make you guys take notes for me during this session, but it turns out we have an awesome stenographer over here named Norma, so we have professional notes, so you don't have do that, but David is going to pop in there and write down some kind of high-level themes and ideas that come out of this and you're free to contribute to that, as well.
 
@@ -19,6 +19,7 @@ Just in case you didn't remember from that whole big thing where we just introdu
 So I have a lot of questions, and I'm hoping that we -- like the people in this room have some ideas or even a way to like flesh out those questions, because I don't have the answers to any of these questions.  And partly, and I say this with a lot of my colleagues in this room, who I don't want to scare them, but one of the things that I have thought about over the last like five or six years is that I'm kind of always thinking about what my next job or career is going to be.  Not leaving my current one.  And I think that news room code and data journalism are fields which are welcoming to people of a lot of different backgrounds.  This is the kind of field that actually benefits from people coming from lots of different directions.  And I'm curious for myself how I might transition into something like that.  Whether or not I actually do that -- come on in.
 
 Whether or not I actually do that is up to question, but one of the things that I thought about is that I'm interested in the stuff but I'm not really sure how to get started so there is a wealth of skills around presenting content on the web.  HTML and CSS are kind of stable states at this point in the field.  Javascript, Ruby on Rails, and various kinds of frameworks.  There's a set of tools and skillset around actually doing like statistical analysis, so things like Python and R -- please come in -- and also just basic competencies around like how do stats work and how do you look at data and know what to do with it, and there's probably all kinds of other things, I think, around kind of the power that comes along with that data, so the ethical considerations you have to take into account, like what kinds of things you could be revealing or not revealing what it says when you're acting on it, those kinds of things.  So I will put the question out to -- let's do this.  Who actually works in either newsroom code or data journalism.  I know at least one, two, three and a half -- what do you do?
+
 >\> I help run social strategy.
 
 >\> I work on the programmer side of newsroom.
@@ -153,8 +154,8 @@ Whether or not I actually do that is up to question, but one of the things that 
 >\> Thanks, sorry.
 
 >\> I really like John Keefe at WNYC.  His story of how he became the head of this new digital apps kind of team was he just made a map right before hurricane, I guess it was hurricane Irene of the flood map area that existed as a PDF on the New York City government website and he made it interactive and that got more traffic than anything else that WNRC had seen, and they were like hey, this mapping internet stuff is it is really cool.  I'm at ProPublica, and something we've started is we have this brown bag sessions where we either bring people in or we have a little like here's how the web inspector works for everybody in the newsroom and that's like a lunch hour and because we do it often it's not a huge deal and people can come in and out and it's not super formal.  But it does get the kind of more technical skills and kind of people talking and sharing and good ideas and that kind much thing.  Noah V., when he was at the BBC, he did these little brown bags, and did that to the newsroom and they then asked him more questions and management is OK with you having like little lunch.
-
 >  They may not even know about it necessarily, right.
+
 >\> It didn't cost them anything and you're basically doing the job that they should be doing, which is training and build willing moderate staff.
 
 >\> This isn't a solution, this is just an observation, watching the industry and the jobs that are going by.  The big players, you know, they have established web development teams and they're integrating.  There's been a flood over the last like 6 months of sort of next step down papers, or news organizations looking for developers, and data journalists and what I'm seeing is that they're confused about what they're asking for, so they put in the kitchen sink.  They want a data reporter, they want a developer, they want a dev ops guy.  You must understand HTML, TTS, you know, hypertechnical stuff, and that just doesn't exist, and then I can think of two of those jobs that were literally, you know, they couldn't find anybody, because that person doesn't exist, and then the job goes away, because if you couldn't fill it, then the management says it's useless, because, you know, we lived without it for nine months, what's there.  So as I said, this is not a solution, it's an observation of like, well, how do you get past that point?  Because if you don't also we're not keeping the flow of journalist developers going, and they're all at the New York Times, now, so you know, how do you get people in at the ground level if they're expected to be seasoned journalists who are going to work for $30,000, you know, out in, you know, Redlands, California.
@@ -305,8 +306,8 @@ Whether or not I actually do that is up to question, but one of the things that 
 
 >\> Mel?  
 
-
 Just bouncing off of that, the only reason I'm here at this conference is because Erin emailed me and said you should come to this conference and you should speak at the conference and I think, you know, figuring out who those people are and inviting them with an email message whether you're hiring or trying to find sources or trying to bring people into projects, it really does a lot just to you know, I believe in like praise and reaching out to people and bringing them directly in and that's how you diversify every part of this.
+
 >\>
 
 >\> Yeah, I back that up.  I was also an invitee, and, you know, I think that they did a great job of doing that, especially considering how quick it sold out and maybe there are some ways that they can tier the registration to kind of modeled off of what they did, I think they did a great job, but expanding on that forward.
@@ -327,7 +328,6 @@ Just bouncing off of that, the only reason I'm here at this conference is becaus
 >\> Google Doc is going to stay up and stay public.  And we have a lovely transcript from our fan Norma, here.  If you put your name in this doc, I will follow up with it, because I'm going to try to write it up and pitch it to the source.  I might ask some follow-up questions.
 
 >\> You should all pitch to source.  That is part of the work being done in this room.  So yes, send me your shit:  ... ... ... ... ... 
-
 [break]
 
 
