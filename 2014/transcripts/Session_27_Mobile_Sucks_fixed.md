@@ -11,7 +11,7 @@ Session Leader: Alastair Coote
 OK, so we're round about 4:30, so we might as well start.  See if anybody comes in a couple of minutes late.  So hi, my name is Alastair Coote. I am a developer at the New York Times.  I work on the interactive news team, often working with mobile, so I've spent way too much of my time staring at these stupid devices.  And mobile is great in many ways, the things that we can do now, sort of everyone has our content in their pocket, that's fantastic, but the real truth is that actually developing for mobile is awful.  It sucks.  All the different devices, all the different browsers on those devices for a minute it felt like we had desktop browsers sorted out, even IE was relatively OK, and then suddenly we're thrown back into this wild west where everything is awful, so I thought we could come together in a sort of group therapy style and we could talk out our problems and hopefully those people in the room with questions and there will be some other people in the room with answers to these questions, even if we haven't gotten answers maybe we can demystify things a little bit.  I don't know, we'll see.  
 
 The way I'm hoping we're going to structure this is now or in a minute everyone is going to grab a post-it note or two and they're going to write down a problem they've had in working with mobile.  It can be a technical thing or a philosophical thing or a conceptual thing, whatever you think.  And then we'll talk about it in groups for a few minutes.  Hopefully not for too long because I think it will be great to bring this back to a group discussion for a greater period of time.  Step 1, everybody grab a post-it note and if you've worked on mobile and there's something that's annoyed you about it and my colleague, Tiff and I will be walking around and collecting the post-it notes.
-[group activity]
+[group activity]  
 ... ... ...
 
 >\> OK, nobody has any others?  We're all good?
@@ -21,7 +21,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >\> OK, so I've done my best, which is not great, at grouping these problems into some sort of topic areas or groups.  Quite a few people mentioned testing, cross-device testing or testing in general.  People mentioned doing both mobile and desktop at the same time.  Lots of people talking with layout.  Orientation changes.  Landscape in phones is annoying, who uses it.  A lot of people talking about multimedia as well, audio, video, both those presentations are quite difficult on mobile devices, particularly when iPhone won't play a video without you tapping it, so on and so forth.  Lots of people talking about the restrictions on devices sort of just technologically:  They're slow, that sort of the interactions tapping and clicking and battery life, connection speed, that sort of thing.  All right.  So that's five.
 
 >\> So what we're going to do, we're going to get everyone into five groups, so we've got five tables, but any of you guys in the back sort of join in that table there, and everyone will get a topic to talk about for about ten minutes or so, basically for you guys to talk about whether you have you've -- once everyone has talked about it in groups, we'll bring it back to the larger group, so each group can present what they were talking about, so maybe you can write on the sheet and add some more detail, but the hope is there might be someone who sat over there who is a great idea about testing so I want to bring it back to the group as a whole so they can still manage to give out an answer.  Who wants to talk about desktop versus mobile.  I'm just going to start assigning them to you, then.  There you are, guys, desktop and mobile layout.
-[group activity]
+[group activity]  
 ... ... ... :  OK, about two minutes left.  Maybe start thinking about one person per group who's going to talk about what you've been talking about ... :
 
 >\> OK, everybody ready to wrap up and talk to the group?  All right.  No, what I mean is you are ready to talk to the group.  All right, well, what's what's up with you guys?
@@ -102,7 +102,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >\> That's the solution, right?
 
 >\> Yeah, the solution out of this is that people should not use mobile:
-[laughter]ra, so I mean we just complained about it, I don't know how much more there is to say.
+[laughter]  ra, so I mean we just complained about it, I don't know how much more there is to say.
 
 >\> It's group therapy, it's cathartic, you can just let out.  I know we've got a couple of people from NPR here, I don't know if you guys work very much with the audio stuff.
 
@@ -139,7 +139,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >\> We heard of you.
 
 >\> Statistical outlier.
-[laughter]
+[laughter]  
 
 >\> Who's got a blackberry.
 
@@ -148,7 +148,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >\> I have a so you end up with, like, but that's not scalable across like a suite of apps, right?  How many times do you get like pinged for like can you check out these three sites?
 
 >\>
-[laughter]
+[laughter]  
 
 >\> This is definitely an NYT characteristic but it has to work on your boss' phone.Ing ...
 
@@ -177,7 +177,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >\> Yeah.
 
 >\> Not like robot fingers that.
-[laughter]
+[laughter]  
 
 >\> and also just to throw out there like if you go to --
 
@@ -238,7 +238,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >\> It's actually more than I expected to be honest with you.  And I'm assuming --
 
 >\> We find a bug and then it's low priority and then.
-[laughter]
+[laughter]  
 
 >\> Mostly by wife bugs me because she has a Nexus 7.
 

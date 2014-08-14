@@ -79,9 +79,9 @@ Session Leader: Kaeti Hinck
 >\> I'm sorry, could you speak up a little?  The cooling is really loud.
 
 >\> Yes, and I speak at the same frequency as it, so so I will try to project.  After we write down obstacles, we can talk in our groups about those obstacles and write down very specific tactics or solutions, things that have worked for us or made that problem easier and then come back together at the end and do a group share around what works for us and what doesn't and ways we can work together as small teams.  There are post-it notes on every table, grab one, and just take a minute to write down one obstacle that you've encountered in your work.
-[group activity]
+[group activity]  
 All right, if you haven't started already, feel free to share what you've written with your group at the table and then from there, pick one of the obstacles you might found overlap in what you've written, but start with one and just talk through a couple of questions like you know, what's made this easier for us in the past, what didn't work when we tried it and if somebody could be a note-taker for each group and just quickly a list of solutions and tactics that you come up with as you talk about specific obstacles.
-[group activity]
+[group activity]  
   ... ... ... ... ...  ... ...
 
 >\> Let's take a couple more minutes and then wrap up and talk as a whole group.
@@ -96,7 +96,7 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> Time.
 
 >\> Mortality.
-[laughter]
+[laughter]  
 
 >\> That limited resource, mortality.
 
@@ -109,7 +109,7 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> Heard of that.
 
 >\> You have, really?
-[laughter]
+[laughter]  
 
 >\> Did you talk about any others?
 
@@ -168,7 +168,7 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> Yeah, we explain the whys behind the nos that we have to give, I think everybody is much happier and then understands how to come back and rethink the project.
 
 >\> It can still be an excited no.  Not, "No, screw off," but just no, but ...
-[laughter]
+[laughter]  
 
 >\> How about you guys?
 
@@ -203,7 +203,7 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >\> So what do people do with the folks who jump in at the end of the conversation who, say, weren't part of the stakeholder group?
 
 >\> Give them lots of middle finger.
-[laughter]
+[laughter]  
 
 >\> Maybe doesn't fit the manners one, but --
 

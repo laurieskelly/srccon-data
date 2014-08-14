@@ -73,7 +73,7 @@ You know generally who the candidates are for a given election, and you can say,
 Because every state runs their election in their --
 
 > Don't sugar coat it, Jake.
-[laughter]
+[laughter]  
 
 JACOB: Sorry.  And usually there's just generally a slider of I mean the process of this whole thing this data is collected usually varies based on the laws of that state, the process in which the votes are tabulated, things like that.  The one thing I would say if you're ever with going to work with election data is you should acquaint yourself with the two concepts.  Which is one, you should assume nothing, you know, about the data unless you can sort of guarantee it, so a lot of people say, oh, well, I have a race one, there's only going to be one race winner for a given race, right?  Only one person can win a race.  Oh, you poor naive fool.  You know, sometimes you have races that have two winners, California has open primaries, for instance, OK, where the top two winners go on to general election, certain assembly races in New Jersey.  Sometimes states have these rules, well you have a winner if someone gets more than 50% of the vote, otherwise, we go to a runoff, OK, and then you have to say, OK, these two top candidates go for a runoff, so you have to flag for that.  Sometimes the race is literally too close to call.  You can't really put it that a race is called either.  It may not be called while you're still counting votes, OK?  It could go to recount later.  
 
@@ -149,7 +149,7 @@ RYAN: What kind of stories are you going to tell with this -- with pictures of t
 
 > You can say it's 10.5 feet off of the ground, not RGB, right, so again, right, like it's the future.
 
-[laughter]
+[laughter]  
 
 > So, yeah, and I think --
 
@@ -289,7 +289,7 @@ RYAN: Cool. Yeah?
 
 DEREK: It's actually a pretty simple guide to write:  "Don't use it."  But --
 
-[laughter]
+[laughter]  
 
 DEREK: That's actually useful information.  There's a lot of datasets that look legit, but stay away from them.
 

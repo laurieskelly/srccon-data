@@ -328,7 +328,7 @@ Just bouncing off of that, the only reason I'm here at this conference is becaus
 >\> Google Doc is going to stay up and stay public.  And we have a lovely transcript from our fan Norma, here.  If you put your name in this doc, I will follow up with it, because I'm going to try to write it up and pitch it to the source.  I might ask some follow-up questions.
 
 >\> You should all pitch to source.  That is part of the work being done in this room.  So yes, send me your shit:  ... ... ... ... ... 
-[break]
+[break]  
 
 
 
