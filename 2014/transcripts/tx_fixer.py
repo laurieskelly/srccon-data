@@ -8,12 +8,13 @@ for filename in filenames:
 
 
         for line in infile:
-            if line.startswith('['): 
-                line = line.replace(']',']  ')
             line.replace('\r\n','  \r\n')
 
             if line.startswith('>>'):
                 line = '\n'+line[0]+'\\'+line[1:]
+            if line.startswith('['): 
+                line = line.replace('[','  \n[')
+                line = line.replace(']',']  ')
 
 
             out += line

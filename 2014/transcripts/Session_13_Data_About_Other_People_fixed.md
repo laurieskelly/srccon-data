@@ -60,6 +60,7 @@ Like I said, I'd like to check out some of the features of these, the descriptio
 >\> You want us to make a list there of things that we want to do.
 
 >\> Yeah, because one, my handwriting is terrible, and two, getting up will get the blood circulating and hopefully prevent you from falling asleep.  Not guaranteed, but there's always the hope.
+  
 [group activity]  
 All right, so let's see what we've got so far.
 
@@ -70,6 +71,7 @@ All right, so let's see what we've got so far.
 >\> Supreme leader.
 
 >\> Yes.
+  
 [laughter]   
 
 Don't worry, actually, that will be adopted by the United States very soon.
@@ -133,6 +135,7 @@ Again applying the address, the nature of how -- whether it lines up with other 
 >\> I just wonder how they do it.  I also wonder if name parsing would be more important than address parsing.
 
 >\> That's the next session.
+  
 [laughter]  
 
 >\> No, I would have to buy beer for everybody to have an address parsing session, right?  That was like my backup if this was rejected.  We're going to double down.  But yeah, I mean like the address part is I think -- like my colleague Chase Davis at the Times has a toolkit that tries to standardize PEF donors.  But his done go down to the street address level.  It's basically city, state, and zip and it's good, but not perfect.  So I think there's definitely a role for that.
@@ -301,6 +304,7 @@ So I am cleaning these names, and often these are people I am familiar with, I k
 >\> Although I have seen literally children, like minor children appear in the FEC dataset.  It is under certain circumstances, yes.  It has to be their own money.  I mean like our daughter has an allowance, so she has her own money, but.
 
 >\> and how much does she contribute on an annual basis?
+  
 [laughter]  
 
 >\> Thankfully nothing yet, so I worry, though.  I do worry.  So but it is actually permissible for like if you have your own money, so and again, it's like people with trust funds essentially being able to contribute.
@@ -328,6 +332,7 @@ So I am cleaning these names, and often these are people I am familiar with, I k
 >\> of broken decks.
 
 >\> Right.
+  
 [laughter]  
 
 >\> Same thing with like restaurant reviews, for price of restaurants, one dollar sign, four dollar signs, something like that?  Are there any other licensing or voter registration databases that have information that is not in here that we might consider to be part of a nice to have set?
@@ -479,5 +484,6 @@ So I am cleaning these names, and often these are people I am familiar with, I k
 >\> Can we add a new event page?
 
 >\> Well, what we should do is we should check to we should add an etherpad page or we could start the wiki on the repo and go from there, but we should also figure out if we're going to do that, what we're going to add, like you know, free text is great, but I think we should probably have some common basis for how we're going to describe these tools. ... ... :
+  
 [group activity]  
  

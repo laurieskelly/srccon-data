@@ -37,6 +37,7 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> That is a great place to start.
 
 >\> Yeah.
+  
 [laughter]  
 
 >\> That's nice, I like that.
@@ -90,6 +91,7 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> I did training.
 
 >\>
+  
 [laughter]  
 
 >\> Yes, I was there for that.  And like it just never like, some people they're real interested.
@@ -131,6 +133,7 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> My only experience in training is J school, in teaching other students how to code and I think -- I haven't thought about or I thought about -- I haven't figured out how to do this in a newsroom, but the most successful thing I did was at the night lab, we had what we called open lab hours and they were from like 6 to 9 or 7 to 10 or something, on a random week night, which works in college because you're always at the same place.
 
 >\>
+  
 [laughter]  
 
 >\> But that doesn't work in a newsroom, but the thing that worked about that was that we have a physical space, and this is where you come to learn and work or your own project that may not be your day job, may not be your homework or whatever.  But having a place where you are forced to get into that mind set is really important.  People walk in, OK I'm here to learn for these three hours.  And I think that runs counter to what we were saying.  If you have a sort of collaborative space, I think -- I don't know --
@@ -217,9 +220,11 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> What about sort of process?  Right?
 
 >\> Yeah,.
+  
 [laughter]  
 
 >\> Good question.  How do you handle that problem?
+  
 [laughter]  
 
 >\> I don't have that problem.  I don't work at a journalism organization, but --
@@ -261,9 +266,11 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> There's revision history with that, as well, so you can actually go back if somebody decides to like nuke it or breaks.
 
 >\> I do want to get back to this question of like the top-down culture problem, because I think that that is so key.  And you know like Yuri, I know you've dealt with this.  For those of you who felt where the obstacle is you this is a grassroots organization, you had this mandate, did it work, did it not work?  What worked?
+  
 [laughter]  
 
 >\> I can tell you a lot of things that did not work.  You know, they put me in charge and I still couldn't push stuff through.  For me, fighting up is a lot easier than fighting down.  Because if it's not a shared mission, then it's hard.  The things that really worked for me was one-on-one, and then you do that with like 10 people and you get like an evangelist and then they go and say check out this cool thing I did.  When you get an evangelist, then it gets better, because then you have more and more evangelists and more and more people get excited.  But there's still going to be one desk that you can't break in.  I'll buy you lunch, I'll take you out for drinks.  What do you want?  You want a computer, here?  You don't like it because it's a Mac?  I mean, come on.
+  
 [laughter]  
 
 >\> There's a corollary to evangelism which is sort of competition or jealousy in some certain newsroom environments.  Like one reporter does some awesome thing with his story and the other reporter starts saying, how come I didn't do that?  Why does he get to do that?
@@ -285,6 +292,7 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> Do you have enough money for that?
 
 >\> But I mean like --
+  
 [laughter]  
 
 >\> My executive editor has more commits at GitHub than I do, and it's crazy.  We get them to commit documentation.  Don't complain, contribute.  If you see a spelling error in documentation in code, you should have access to fix that and we want everybody to be part of this because we're all in it together, and if it tool doesn't work or a system is broken, that hurts us all.
@@ -316,6 +324,7 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> I don't think so.
 
 >\>
+  
 [laughter]  
 
 >\>
@@ -335,6 +344,7 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> In our training sessions it's pretty much the whole west side of the office, which is devs and reporters, and it's pretty much an open topic for everyone, and so as developers, we get talks from about like how to dress for the camera.
 
 >\>
+  
 [laughter]  
 
 >\>
@@ -360,4 +370,5 @@ My name is Jaeah, we're both at Mother Jones Magazine on the data team there, an
 >\> It's kind of a startup, your first week, no matter what your job is, you have a support person and by the end of the week, you know like probably identified four bugs you wanted to fix and like a bunch of...
 
 >\> I think we're out of time.  All right, thanks, guys, this has been really helpful.
+  
 [break]   
