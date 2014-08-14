@@ -8,7 +8,7 @@ for filename in filenames:
 
 
         for line in infile:
-            line.replace('\r\n','  \r\n')
+            line = line.replace('\r\n','  \r\n')
 
             if line.startswith('>>'):
                 line = '\n'+line[0]+'\\'+line[1:]
