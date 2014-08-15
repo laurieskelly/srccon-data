@@ -28,7 +28,7 @@ for filename in filenames:
                 if named_speaker_line:
                     # special case for if there is accidentally an 
                     # angle bracket in front of a named speaker
-                    line = line[len(gt_marker)+1:].lstrip()
+                    line = line[len(gt_marker)+1:].lstrip()+'\n'
                 else:
                     line = '\n>&gt;'+line[len(gt_marker)+1:]+'\n'
 
