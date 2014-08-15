@@ -7,7 +7,7 @@ for filename in filenames:
     with open('./raw_originals/'+filename,'r') as infile:
 
         for line in infile:
-            line = line.lstrip().replace('\r\n','\r\n\n')
+            line = line.lstrip().replace('\r\n','  \r\n')
             
             for gt_marker in ['>','>>']:
                 if line.startswith(gt_marker):
