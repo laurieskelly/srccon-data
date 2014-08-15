@@ -1438,7 +1438,7 @@ Session Leader:  Chris Chang
 
 >&gt;What time do we end?  
 
-> 5:30.  
+5:30.  
 
 >&gt;I'm hoping this will live as a living resource.  As you find  
 
