@@ -1,23 +1,33 @@
 
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+>This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
-Captioning by the wonderful people of White Coat Captioning, LLC  
 
-whitecoatcaptioning.com  
+>Captioning by the wonderful people of White Coat Captioning, LLC  
 
-7/25/14  
 
-Session 27, Mobile sucks!  
+>whitecoatcaptioning.com  
 
-Session Leader: Alastair Coote  
 
-OK, so we're round about 4:30, so we might as well start.  See if anybody comes in a couple of minutes late.  So hi, my name is Alastair Coote. I am a developer at the New York Times.  I work on the interactive news team, often working with mobile, so I've spent way too much of my time staring at these stupid devices.  And mobile is great in many ways, the things that we can do now, sort of everyone has our content in their pocket, that's fantastic, but the real truth is that actually developing for mobile is awful.  It sucks.  All the different devices, all the different browsers on those devices for a minute it felt like we had desktop browsers sorted out, even IE was relatively OK, and then suddenly we're thrown back into this wild west where everything is awful, so I thought we could come together in a sort of group therapy style and we could talk out our problems and hopefully those people in the room with questions and there will be some other people in the room with answers to these questions, even if we haven't gotten answers maybe we can demystify things a little bit.  I don't know, we'll see.    
+>7/25/14  
 
-The way I'm hoping we're going to structure this is now or in a minute everyone is going to grab a post-it note or two and they're going to write down a problem they've had in working with mobile.  It can be a technical thing or a philosophical thing or a conceptual thing, whatever you think.  And then we'll talk about it in groups for a few minutes.  Hopefully not for too long because I think it will be great to bring this back to a group discussion for a greater period of time.  Step 1, everybody grab a post-it note and if you've worked on mobile and there's something that's annoyed you about it and my colleague, Tiff and I will be walking around and collecting the post-it notes.  
 
-[group activity]  
+>Session 27, Mobile sucks!  
 
-... ... ...  
+
+>Session Leader: Alastair Coote  
+
+
+>OK, so we're round about 4:30, so we might as well start.  See if anybody comes in a couple of minutes late.  So hi, my name is Alastair Coote. I am a developer at the New York Times.  I work on the interactive news team, often working with mobile, so I've spent way too much of my time staring at these stupid devices.  And mobile is great in many ways, the things that we can do now, sort of everyone has our content in their pocket, that's fantastic, but the real truth is that actually developing for mobile is awful.  It sucks.  All the different devices, all the different browsers on those devices for a minute it felt like we had desktop browsers sorted out, even IE was relatively OK, and then suddenly we're thrown back into this wild west where everything is awful, so I thought we could come together in a sort of group therapy style and we could talk out our problems and hopefully those people in the room with questions and there will be some other people in the room with answers to these questions, even if we haven't gotten answers maybe we can demystify things a little bit.  I don't know, we'll see.    
+
+
+>The way I'm hoping we're going to structure this is now or in a minute everyone is going to grab a post-it note or two and they're going to write down a problem they've had in working with mobile.  It can be a technical thing or a philosophical thing or a conceptual thing, whatever you think.  And then we'll talk about it in groups for a few minutes.  Hopefully not for too long because I think it will be great to bring this back to a group discussion for a greater period of time.  Step 1, everybody grab a post-it note and if you've worked on mobile and there's something that's annoyed you about it and my colleague, Tiff and I will be walking around and collecting the post-it notes.  
+
+
+>[group activity]  
+
+
+>... ... ...  
+
 
 >&gt;OK, nobody has any others?  We're all good?  
 
@@ -31,7 +41,8 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >&gt;So what we're going to do, we're going to get everyone into five groups, so we've got five tables, but any of you guys in the back sort of join in that table there, and everyone will get a topic to talk about for about ten minutes or so, basically for you guys to talk about whether you have you've -- once everyone has talked about it in groups, we'll bring it back to the larger group, so each group can present what they were talking about, so maybe you can write on the sheet and add some more detail, but the hope is there might be someone who sat over there who is a great idea about testing so I want to bring it back to the group as a whole so they can still manage to give out an answer.  Who wants to talk about desktop versus mobile.  I'm just going to start assigning them to you, then.  There you are, guys, desktop and mobile layout.  
 
 
-[group activity]  
+>[group activity]  
+
 
 ... ... ... :  OK, about two minutes left.  Maybe start thinking about one person per group who's going to talk about what you've been talking about ... :  
 

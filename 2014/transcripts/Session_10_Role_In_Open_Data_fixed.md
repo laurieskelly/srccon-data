@@ -1,13 +1,18 @@
 
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+>This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
-Captioning by the wonderful people of White Coat Captioning, LLC  
 
-whitecoatcaptioning.com  
+>Captioning by the wonderful people of White Coat Captioning, LLC  
 
-July 24, 2014  
 
-What is our role in the open data movement?  
+>whitecoatcaptioning.com  
+
+
+>July 24, 2014  
+
+
+>What is our role in the open data movement?  
+
 
 12:30 to 1:30 p.m.  
 

@@ -1,21 +1,30 @@
 
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+>This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
-Captioning by the wonderful people of White Coat Captioning, LLC  
 
-whitecoatcaptioning.com  
+>Captioning by the wonderful people of White Coat Captioning, LLC  
 
-SRCCON 2014  
 
-Session 29 7-25-14, 1500-1730  
+>whitecoatcaptioning.com  
 
-Franklin 2  
 
-"We can stop fighting the CMS, a round-table discussion"  
+>SRCCON 2014  
 
-Session leader(s): Chris Chang and Andrew Nacin  
 
---  
+>Session 29 7-25-14, 1500-1730  
+
+
+>Franklin 2  
+
+
+>"We can stop fighting the CMS, a round-table discussion"  
+
+
+>Session leader(s): Chris Chang and Andrew Nacin  
+
+
+>--  
+
 
 ANDREW:  All right.  Welcome to "We Need To Stop Fighting The CMS:  A Round-table Discussion."  Like all of these sessions, my name is Andy Mason.  I'm one of the lead developers for WordPress, which you may know.  So I come with a background from someone who builds software but also has been in the newsroom.  
 

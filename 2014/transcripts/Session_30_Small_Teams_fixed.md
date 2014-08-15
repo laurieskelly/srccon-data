@@ -1,15 +1,21 @@
 
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+>This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
-Captioning by the wonderful people of White Coat Captioning, LLC  
 
-whitecoatcaptioning.com  
+>Captioning by the wonderful people of White Coat Captioning, LLC  
 
-7/25/14   
 
-Session 30 - Making things happen with small teams  
+>whitecoatcaptioning.com  
 
-Session Leader: Kaeti Hinck  
+
+>7/25/14   
+
+
+>Session 30 - Making things happen with small teams  
+
+
+>Session Leader: Kaeti Hinck  
+
 
 >&gt; All right, guys, let's get started.  
 
@@ -116,13 +122,17 @@ Session Leader: Kaeti Hinck
 >&gt;Yes, and I speak at the same frequency as it, so so I will try to project.  After we write down obstacles, we can talk in our groups about those obstacles and write down very specific tactics or solutions, things that have worked for us or made that problem easier and then come back together at the end and do a group share around what works for us and what doesn't and ways we can work together as small teams.  There are post-it notes on every table, grab one, and just take a minute to write down one obstacle that you've encountered in your work.  
 
 
-[group activity]  
+>[group activity]  
 
-All right, if you haven't started already, feel free to share what you've written with your group at the table and then from there, pick one of the obstacles you might found overlap in what you've written, but start with one and just talk through a couple of questions like you know, what's made this easier for us in the past, what didn't work when we tried it and if somebody could be a note-taker for each group and just quickly a list of solutions and tactics that you come up with as you talk about specific obstacles.  
 
-[group activity]  
+>All right, if you haven't started already, feel free to share what you've written with your group at the table and then from there, pick one of the obstacles you might found overlap in what you've written, but start with one and just talk through a couple of questions like you know, what's made this easier for us in the past, what didn't work when we tried it and if somebody could be a note-taker for each group and just quickly a list of solutions and tactics that you come up with as you talk about specific obstacles.  
 
-... ... ... ... ...  ... ...  
+
+>[group activity]  
+
+
+>... ... ... ... ...  ... ...  
+
 
 >&gt;Let's take a couple more minutes and then wrap up and talk as a whole group.  
 
@@ -130,7 +140,8 @@ All right, if you haven't started already, feel free to share what you've writte
 >&gt; 
 
 
-OK, let's circle back up, everyone, wrap things up:  All right, so now I want to talk as a whole group, and kind of walk through some of the things that the smaller groups talked about, and write down some of those obstacles and solutions, and then hopefully we have a lot of things to take away with us, including being connected with this whole community of people.  So if you guys want to start, what was one of the obstacles, you talked about?  
+>OK, let's circle back up, everyone, wrap things up:  All right, so now I want to talk as a whole group, and kind of walk through some of the things that the smaller groups talked about, and write down some of those obstacles and solutions, and then hopefully we have a lot of things to take away with us, including being connected with this whole community of people.  So if you guys want to start, what was one of the obstacles, you talked about?  
+
 
 >&gt; 
 
@@ -144,7 +155,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >&gt;Mortality.  
 
 
-[laughter]  
+>[laughter]  
+
 
 >&gt;That limited resource, mortality.  
 
@@ -164,7 +176,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >&gt;You have, really?  
 
 
-[laughter]  
+>[laughter]  
+
 
 >&gt;Did you talk about any others?  
 
@@ -253,7 +266,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >&gt;It can still be an excited no.  Not, "No, screw off," but just no, but ...  
 
 
-[laughter]  
+>[laughter]  
+
 
 >&gt;How about you guys?  
 
@@ -306,7 +320,8 @@ OK, let's circle back up, everyone, wrap things up:  All right, so now I want to
 >&gt;Give them lots of middle finger.  
 
 
-[laughter]  
+>[laughter]  
+
 
 >&gt;Maybe doesn't fit the manners one, but --  
 

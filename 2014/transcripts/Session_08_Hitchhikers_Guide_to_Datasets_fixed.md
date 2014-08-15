@@ -1,19 +1,27 @@
 
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+>This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
-Captioning by the wonderful people of White Coat Captioning, LLC  
 
-whitecoatcaptioning.com  
+>Captioning by the wonderful people of White Coat Captioning, LLC  
 
-7/24/14, Session 8:    
 
-Hitchhiker's Guide to Datasets  
+>whitecoatcaptioning.com  
 
-Session Leader: Ryan Pitts  
 
-Guest Presenters: Joe Germuska, Derek Willis, Jacob Harris  
+>7/24/14, Session 8:    
 
---  
+
+>Hitchhiker's Guide to Datasets  
+
+
+>Session Leader: Ryan Pitts  
+
+
+>Guest Presenters: Joe Germuska, Derek Willis, Jacob Harris  
+
+
+>--  
+
 
 RYAN: All right, it's 12:30 by my clock.  Hello, everyone, welcome to the Hitchhikers Guide to datasets session.  I'm Ryan.  I have a few people who are going to help me out during this session, but let's talk a little bit about why we're here, first of all.  So it will probably not come as a shock to anyone in this room if I were to tell you that data is a pretty awesome source to do journalism with.  Probably a lot of us in here who have done this kind of analysis ourselves, whether looking at crime data and a reporting on that or analyzing census data to talk about the way that demographics of our city are changing over time or maybe we write a bot that tweets out anonymous campaign finance donations. Or maybe we become once with the FEC dataset, and we just sense anomalies and we tweet them manually.  A lot of us have probably participated in the News Nerd Super Bowl, which is election night, delivering stories to our readers and there are probably a lot of people in this room who are very comfortable with doing journalism with data and we've been doing it for a long time.  I think it's also fair to say that over the past two or three years we've seen a real surge in interest in this type of data analysis.  There are a lot of reporters working now who wouldn't necessarily have identified as data analysts before, but they're definitely working data analysis in their beats.  There are entire sites launching with data analysis kind of the core of their DNA.  
 

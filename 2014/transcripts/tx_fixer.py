@@ -5,6 +5,7 @@ filenames = [f for f in os.listdir('./raw_originals/') if f.endswith('.md')]
 for filename in filenames: 
     out = ''
     unnamed_speaker_block = False
+    named_speaker_ever = False
     with open('./raw_originals/'+filename,'r') as infile:
 
         for line in infile:
@@ -17,6 +18,7 @@ for filename in filenames:
             named_speaker_line = len(colon_split) > 1 and colon_split[0].upper()==colon_split[0]
             if named_speaker_line:
                 unnamed_speaker_block = False
+                named_speaker_ever = True
                 line = '\n' +line + '\n'
 
             # line could start with one, two, or no '>'s
@@ -39,7 +41,10 @@ for filename in filenames:
                 #     line = '\n>'+line+'\n'
                 # else:
                 #     line = '\n'+line
-                line = '\n'+line
+                if named_speaker_ever: 
+                    line = '\n'+line
+                else:
+                    line = '\n>'+line+'\n'
 
             out += line
 
