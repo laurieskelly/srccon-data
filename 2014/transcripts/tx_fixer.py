@@ -40,9 +40,11 @@ for filename in filenames:
                 else:
                     line = '\n>&gt;'+line[len(gt_marker)+1:]+'\n'
 
-            if not gt_marker and not named_speaker_line and out_of_header:
+            if not gt_marker and not named_speaker_line:
+                if out_of_header:
+                    line = '>'+line
                 # paragraph continuation for same speaker should not jump out of block quote
-                line = '\n>'+line
+                line = '\n'+line
 
             #     line = '\n\n'+line[0]+'\\'+line[1:]
             out += line
