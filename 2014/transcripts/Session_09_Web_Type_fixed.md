@@ -27,6 +27,7 @@ Session leader(s): Allen Tan
 
 
 >[ Discussion ]  
+
 ALLEN:  Okay, so I think we're going to sort of go through each group and talk about the things you've come up with.  It also seems like a lot of people had very specific links for things they were talking about.  So I just started an etherpad.  You can go to it from shoutkey.com/mossy, and I think it would probably be useful for us to collect the different links that we were talking about and pointing people to.  
 
 
@@ -140,3 +141,4 @@ ALLEN:  Cool, well it seems like a lot of people have very solution-specific que
 
 
 >[ Applause ]  
+

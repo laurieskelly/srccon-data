@@ -16,6 +16,7 @@ Session Leaders: Claire O'Neill and Tyler Fisher
 
 >So who am I?  I'm Claire O'Neill, I work at NPR on our visuals team.  Yeah, so I've been at NPR for about five years, I started as an intern, at the time the only department doing internet was like, well, we had web producers basically filling out radio stories and then radio team.  But so I was there for about five years, and somewhat recently our boss at that department left and Brian Boyer was hired to start a news apps team, and so at that point, our teams merged and so now we're sort of a content team of designers, photo editors, and my role is sort of more of an editor sort of content strategy.  
 
+
 >&gt;I'm Chris Groskopf.  No, I'm Tyler Fisher -- I just started this month and I'm a designer developer on the team.  I also started as an intern and was hired, and I, you know, I think a lot of people assume, like because I sort of do news apps development that all I care about is data, and I just want to make charts, but I find what we do at NPR a lot more rewarding because we're telling stories with really inventive amazing visuals and trying to find the best way to tell a story, not just assume that a bar chart will do the job.  So I will be in the session to make that a more systemic thing in our field to think about what the story actually is and how it needs to be told.  
 
 
@@ -65,6 +66,7 @@ Session Leaders: Claire O'Neill and Tyler Fisher
 
 
 >[Inaudible] [we're having technical difficulties in the room and the captioner can't hear the speaker]  
+
 
 >&gt;So we had some internal debate about the ordering of these stories.  This is what we ended up doing with all of the map data.  
 
@@ -330,6 +332,7 @@ SESSION LEADER:  Yeah, a lot of meetings.  And product management was sort of a 
 
 
 >[group activity]  
+
 SESSION LEADER:  So, what do you guys think?  
 
 

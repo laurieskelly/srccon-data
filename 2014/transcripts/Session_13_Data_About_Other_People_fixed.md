@@ -22,9 +22,12 @@ Session Leader Derek Willis.
 
 >The second problem is more of a standardization problem.  In other words, is this person the same as this other person?  
 
+
 >And that problem exists when you have a lot of individuals in a dataset, and whether that's again, like whether it's permit holders.  I encounter this a lot in campaign finance data, and there are again solutions to this problem, but many of them are pretty messy solutions, like the solutions that exist kind of range from at one end of the spectrum, from doing semi-manual standardization -- in other words, fixing things and then keeping a record of the stuff that you fix and then applying those fixes to new data as it comes in and hoping that it picks up most of those and then fixing the rest, to all the way up to machine learning, sort of like trying to train a dataset to identify people who are similar or the same person based on a certain set of characteristics, and there are some tool kits for that.  There probably are people who are a lot smarter than me who have even better tool kits for that that we don't know about, that maybe you know about, that we should be using as journalists in order to do this.    
 
+
 >The third problem is really not much of a coding problem but it's more of sort of a community problem, which is why I kind of pitched this for SRCCON, which is that each of us has to do this at some level, probably, or probably will have to do this if you haven't already.  Are we reinventing the wheel too much?  Are we not actually building on what each of us or all of us together are doing?  And should there be something that does that?  
+
 
 >&gt;Like for example, should there be a name reconciliation service for political donors? that you can essentially you know, in one scenario say you get a filing with a list of donors in it and you sort of post it to this service and it tries to give you back standardization and/or IDs that correspond to who it's been able to identify those people as.  
 
@@ -49,7 +52,9 @@ Session Leader Derek Willis.
 
 >I'm selfishly thinking of even the civic universe, of like public data that's like people, whether it's politics or permit holders or things like that.  Like the smaller the universe the less the problem really this is.  For instance the campaign donors, the number of people who give campaign donations is blissfully small, compared to the population as a whole and it's largely a lot of the same people.    
 
+
 >So at any point in this process, if people have, you know, questions ideas, whatever, you should feel free to shout them out and we'll kick things around.  I'd like to sort of start off by having people taking a few minutes, look at some of these tools, to the extent that we can bring them up on your laptops and even not like I said the code, but the description of what they do, and maybe we can compile a list of like the stuff that name parsers should do really well and then the stuff that, you know, should be sort of optional.  
+
 
 >&gt;Does that make sense?  
 
@@ -59,7 +64,9 @@ Session Leader Derek Willis.
 
 >Like, we should be able to come to some sort of consensus on hey, these are the things that a name parser should do for our purposes, and of those things, there's one, two, three or four of these that are closest to fitting the bill.  And maybe it's something that you know we can agree to contribute on or you know, import into your own favorite language or whatever but I shy we should have an easy answer the next time someone in a listserv or a chat room says, "What do I use to parse names?" you should be able to tell them this is what you use.    
 
+
 >Like I said, I'd like to check out some of the features of these, the descriptions of these, and maybe we can draw a list.  In fact, maybe I can just raise the thing and we can start writing down a list of things of sort of key parts of so why don't we take about five minutes or so and kind of look through, have a list in your mind, maybe type it up a little bit on your laptop, whatever.  Talk amongst yourselves about what would make the elements of a good name parser, what should it do?  What kinds of situations should it handle?  Should it be like in my mind one of those might be like it should deal with -- try to deal with international names in a sane way, because we don't get to have just the John Smiths anymore.  And that's both a good thing and something we can do about it.  
+
 
 >&gt;Are we just talking about parsing a name where we know the start and the finish or is this sort of distracters?  
 
@@ -84,7 +91,9 @@ Session Leader Derek Willis.
 
 >[group activity]  
 
+
 >All right, so let's see what we've got so far.  
+
 
 >&gt;Oh, yeah, this is good.  Honorifics, so I'm going to * show my cultural Imperialism.  What's a nonwestern example of a honorific?  
 
@@ -100,7 +109,9 @@ Session Leader Derek Willis.
 
 >[laughter]   
 
+
 >Don't worry, actually, that will be adopted by the United States very soon.  
+
 
 >&gt;Oh, yes, this is a fun one, the reversal of names.  Which in some cases can be really, really insidious, right, because it can be hard to tell.  Yeah, that's going to be a fun one to solve.  But I mean there are ways to sort of, like depending on what other information is available, there's probably ways that we could tackle that, right?  
 
@@ -115,6 +126,7 @@ Session Leader Derek Willis.
 
 
 >Again applying the address, the nature of how -- whether it lines up with other information in terms of dates of contributions of in other people and similarities.  Maybe like you get into soundex comparisons of like yeah, they're pretty close, whatever.  
+
 
 >&gt;Ah, the nicknames embedded in the full name.  Terminator, really?  Is that self-selected?  Or.  
 
@@ -193,6 +205,7 @@ Session Leader Derek Willis.
 
 >[laughter]  
 
+
 >&gt;No, I would have to buy beer for everybody to have an address parsing session, right?  That was like my backup if this was rejected.  We're going to double down.  But yeah, I mean like the address part is I think -- like my colleague Chase Davis at the Times has a toolkit that tries to standardize PEF donors.  But his done go down to the street address level.  It's basically city, state, and zip and it's good, but not perfect.  So I think there's definitely a role for that.  
 
 
@@ -260,6 +273,7 @@ Session Leader Derek Willis.
 
 
 >Yea, that would be interesting to know even automatically from data set, based on the composition of this dataset, what kind of tool should we be looking for, something like that.  Maybe there's even like a service that provides that you know?  
+
 
 >&gt;Like you feed it in, it tells you where you want to go.  
 
@@ -353,6 +367,7 @@ Session Leader Derek Willis.
 
 >So I am cleaning these names, and often these are people I am familiar with, I know the names so I can kind of authoritatively say that this is X and X.  If there was sort of like a format where we could share our naming data, like as a news organization, news organization the journalist puts their stamp on it and says I verified that this is write and then an AA service in a sort of way where we all contributed and using that to train if you're getting a federal reported and I verified it down at my level, you can have confidence that the name was right because I was the source of it.  
 
+
 >&gt;Ooh, so actual distributed work that's valuable to lots of.  Like I like this.  We're overpromising, sure, but no, no, I like this.  Because I'm using the campaign database to build data at the city and county level so I'm going to get the licensing information, I'm going to get the other data and but those people are also going to be involved at the state level and federal level and so that might be of value if it was contributed to a larger --  
 
 
@@ -445,6 +460,7 @@ Session Leader Derek Willis.
 
 >[laughter]  
 
+
 >&gt;Thankfully nothing yet, so I worry, though.  I do worry.  So but it is actually permissible for like if you have your own money, so and again, it's like people with trust funds essentially being able to contribute.  
 
 
@@ -485,6 +501,7 @@ Session Leader Derek Willis.
 
 
 >[laughter]  
+
 
 >&gt;Same thing with like restaurant reviews, for price of restaurants, one dollar sign, four dollar signs, something like that?  Are there any other licensing or voter registration databases that have information that is not in here that we might consider to be part of a nice to have set?  
 
@@ -712,3 +729,4 @@ Session Leader Derek Willis.
 
 
 >[group activity]  
+

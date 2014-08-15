@@ -32,6 +32,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 
 >[group activity]  
+
 ... ... ... :  OK, about two minutes left.  Maybe start thinking about one person per group who's going to talk about what you've been talking about ... :  
 
 
@@ -154,6 +155,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 >[laughter]ra, so I mean we just complained about it, I don't know how much more there is to say.  
 
+
 >&gt;It's group therapy, it's cathartic, you can just let out.  I know we've got a couple of people from NPR here, I don't know if you guys work very much with the audio stuff.  
 
 
@@ -210,6 +212,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 >[laughter]  
 
+
 >&gt;Who's got a blackberry.  
 
 
@@ -223,6 +226,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 
 >[laughter]  
+
 
 >&gt;This is definitely an NYT characteristic but it has to work on your boss' phone.Ing ...  
 
@@ -267,6 +271,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 
 >[laughter]  
+
 
 >&gt;and also just to throw out there like if you go to --  
 
@@ -359,6 +364,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 
 >[laughter]  
+
 
 >&gt;Mostly by wife bugs me because she has a Nexus 7.  
 

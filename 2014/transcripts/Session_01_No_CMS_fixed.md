@@ -73,12 +73,15 @@ Session leader(s): Matt Boggie and Alexis Lloyd
 
 >And so, there's a list up here of that, you know, you could probably make, you know, three poster-sized things with more on there but this is an initial list that we made of, like, the different kinds of things that CMSs often are trying to do from text editing so asset management.  So workflow tracking, so archiving, and SEO, and publishing, and all these different tasks.  And it's trying to do all these things at once and, as a result, does in them really well -- none of them very well.  So our hypothesis is that we need this not this.  We need not a monolith, but all these different tools.  We have tools for all these different things.  Everyone has a text editor they like.  People who work with photo editors, there are tools they prefer to use.  There are SEO tools that people prefer to use and on and on and on.  So the question is, why do we need CMS tools?  Why can't we enable people to use the best tools available for each task and allow those tools to collaborate or communicate through a very minimal piece of tool or centralization?  And that system should be modular and flexible so that it should allow for the rapid adaptation that we need.    
 
+
 >And so we've been thinking about this.  This is our hypothesis at a high level:  Is that, rather than one centralized thing we need a set of pieces loosely joined.  But there's still a bunch of questions that that brings up about, you know, what is the minimal amount of stuff that you need to hold these things together.  Like, what is a CMS?  Why do we need it?  What would a not-CMS look like, and also what does that imply for the rest of the organization?  So one of the interesting things that butted up against in a lot of the arguments that we've been having in our review lab about this is -- our questions about, this is kind of where technical design and organizational process butt up against each other and there are these really interesting places where one influences the other.  
+
 
 >&gt;So how many of you know about Sorites' Paradox?  So Sorites is Greek for "heap."  So starting from bad principles, you can ask questions, here's a pile of sand.  If I take a grain of sand away is it still a pile?  Yes, so if you use a mathematical proof to that, one grain is a pile, negative grains are in fact a pile, so we don't buy that at all.  So there comes a point semantically, where the "pile" stops being a "pile."  If that's our pile, and that's our list of stuff, and another page of two of stuff is a pile as well.  Is CMS -- what is the minimal amount of stuff that we can create that stitches all these things together that maybe isn't yet considered a pile?  What would that look like if I'm editing using something like Sublime Text, or I'm measuring my photos in Lightroom, or Aperture?  And like Alexis said, that stuff is an organizational process.  So knowing the room here, we've got technologists, we've got writers, organizational people, people who have been through the system.    
 
 
 >So this really is the task that we're set up with today:  How do we take that heap and break it down into something so that it is down into something so that it's quasi-recognizable, but maybe knowledge still considered a pile.  So that's what we're going to do.  It's 11:15 so what I wanted to do was take about 20 minutes, circulate through and start talking about this hypothesis to see if we agree with it, to see if there are additions we want to add to it.  And start to think about the nitty-gritty on how to implement this.  So what are the alternatives that you can develop to having the one centralized system?  Is it possible to allow or facilitate the use of preferred tools?  And in this case, you might go down the road of choosing one and building a buttress to it.  Or you might allow for an architecture that allows lots of things to talk to other things.  And if -- so if you can do that, what is the minimal amount of centralization that's required, organizationally, and technically, to actually create a product?  And as you go through this think a lot about process and the technology that you would to glue that together.  But perhaps, more importantly, as you do this as a group, closely document the assumptions that you're making.  What is it that you're making?  Is it a site, is it a paper, is it a mobile web app, is it all of those things?  What are your assets?  Who are your users?  What are your outputs?  
+
 
 >&gt;How big is your organization?  
 
@@ -87,6 +90,7 @@ Session leader(s): Matt Boggie and Alexis Lloyd
 
 
 >[ Discussion Groups ]  
+
 
 >&gt;We have six groups and we want to talk about either about the organization or the --  
 

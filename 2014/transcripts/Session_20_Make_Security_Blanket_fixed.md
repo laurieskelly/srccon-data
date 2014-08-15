@@ -26,6 +26,7 @@ I carry around two laptops.  I got an extra one here.  And it's a pain in the ne
 
 >Keybase is more of a directory server.  
 
+
 >&gt;It also helps you set up a PGP.  
 
 JEFF:  PGP and GPG.  
@@ -128,6 +129,7 @@ JEFF:  -- signed and encrypted with your key.  Now the problem with these things
 
 
 >No, no, never, ever.  Your private key, you shouldn't ever even look at it.  It shouldn't even be in your brain.  So your private, that's the other problem, if I have one computer and there's a problem that MiniLock's trying to solve but if I have one computer with keys on it, and another computer with keys on it I have to, like, merge those somehow, so there's, like, this really complicated way of extracting keys and putting them on a different thing, and you don't want to send them over the network 'cause you're going to say, I guess, and then you don't want to email it to yourself.  That sort of thing.  
+
 
 >&gt;So does that mean that you should have an different one for work than for home or?  
 

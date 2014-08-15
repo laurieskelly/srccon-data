@@ -42,15 +42,21 @@ Lightning Talks, Thursday night
 
 >What the hell are we doing?  This is Stan.  I'm norma.  So here's what we do.  It's very, it's kind of difficult to explain but there's Stan's raw steno coming up on the screen.  I wish we could quack I wanted to show you a picture and if you Google, steno keyboard layout, it'll tell you what's on the keys.  Rather than typing, it's nothing -- please don't say, "Typings."  We are not typing.  We are writing steno, more like, it's more like writing chords on a piano than anything like typing.  We're writing word-by-word or syllable by syllable, worst comes to absolute worse, we have to write it -- spell it out, you know, letter-by-letter but no, I'd rather die.  Stan is very good.  And Stan -- your jobs this.  But you know, San Francisco can be mobile, he can be in a museum.  What we -- we normally do this for deaf and hard of hearing people.  So, we, you know, this is opening up doors for a lot of people who want to go to museums, who've been hard of hearing, have not been able to understand what the presentations say.  Stan does this sort of stuff.  I don't.  I just sit in my little chair and do my thing which is enough.  When I interviewed Stan, I had a string of ugh, abysmal interviews of just really bad interferes, and uber, they either -- interferes and they either had something wrong with them, and it was either personality but mostly it was skills.  
 
+
 >[ Laughter ]  
+
 
 >And I mean, you really do have to be a people person.  A lot of what we do is --  
 
+
 >[ Laughter ]  
+
 
 >We work for college students who are deaf and hard of hearing.  That's a lot of what we do.  So you really kind of have to have the people part, as well.  So when I interviewed Stan, I had been, I was pretty depressed, and he was pretty hot shit.  Like, really amazing.  And, um, and so okay, I'm interviewing him by Skype and I pulled up, have you ever heard of vie heart?  VIhart  
 
+
 >But I was once at a conference where they played and I I'm considered pretty okay at the steno game but vih -- and I said, hey, Stan, you know, have you ever heard of vihart, and I said Google her, and he did, and he pulled up a YouTube video and I said, just start listening to this and tell me what do you do well he happened to have his steno machine looked hooked up and we had the same stream text that we used at the conference today and he started writing it, and I went you're hired.  He's motiving.  He's so fast, and he's just such a natural.  And -- and -- and he taught himself steno.  That's the most amazing part.  This talk wasn't really meant to be all and Stan.  It wasn't really meant to be about what we do.  It's appeal, you know, you guys are not the only coders.  We're coders, as well.  Decree, so I've been on a Beltway of a rush lately.  A little while appearing, this story came out in New York, there was a tarantula missing in one of the neighborhoods of Brooklyn that I lived in and so I was a little in Brooklyn, and so that sort of, it sort of took me down a path, Mr. I had done this, actually, I had ended up sort of cropping the at a ranch la image so that I would.  And did a Google image search which, basically rather than searching for text terms, you can upload an image have have Google match it, which I embarrassingly found out through the show cat fish if anyone's seen that.  But it got me thinking.  Oh, yeah -- I had not seen this before like five minutes ago.  So, um, but then, so it wasn't much longer, not much later actually when the Malaysia airline crash happened.  And it was sort of on my mind and it sort of came to a head because this tweet came out that showed footage of the crash of the Malaysiaian airlines and it was actually from the TV show lost and someone photoshopped the Malaysia airlines and actually if you put that into Google images it's abundantly clear that it's actually an actual real image but still it was retweeted 4,000 times.  And even before during the World Cup and there's a website called tin eye which actually does something very similar to Google image search  
+
 
 >&gt;They were first.  
 
@@ -71,6 +77,7 @@ Lightning Talks, Thursday night
 
 
 >[ Laughter ]  
+
 
 >&gt;But if anyone would feel to talk about it.  I think it's something that, it feels very achievable.  I think it would be very useful, so yeah.  That's that.  
 
@@ -146,16 +153,21 @@ Lightning Talks, Thursday night
 
 >[ Laughter ]  
 
+
 >Don't let your old data visualizations break because you changed something.  That's it.  
 
+
 >[ Applause ]  
+
 
 >&gt;After Derek is Frederick.  Okay, cool.  So I'm here to talk about get rebase.  This is not the get rebase talk that you think it is.  I'm not here to hate you.  I'm here to share a personal story about get rebase.  And any diversification that you get from this is not -- there's more here than I thought would be, and that's great.  So let's see how you can revise your past in order to change your future.  So, I have a website and I, um, you know, it's Monday.  And Monday's where we all start, and I knew these -- I put it up on my website because I need to get a new job, and so, I've been fixing on the header, because I've got a header and things.  But actually I think I'm going to make a branch as we do.  And, and, and I -- I want to look professional, you know on my header.  And so I'm just going to change a few quick things because I don't have much time here... to...  
 
 
 >[ Laughter ]  
 
+
 >Now, it's Wednesday.  So Wednesday I decided I needed to do some more work.  And so, you know, I have a list of things I need to do, and I'm good at, you know, it's a little out of date and so I need to update that.  And so I make a branch as you do.  And -- and so, there -- these are things that I'm good at, but no one uses things like check and more, so I'm just going to update that.  And you know one thing that I'm really good at right now, you know, I don't know, ruby, whatever.  Maybe that'll make me employable.  So let's just keep that, and let's just keep that other one.  And, and so, and now, it's Friday and so on Friday what I do as all Fridays and what I'm doing today is I go out for drinks and I come back and make commits on get.  And, and when I have -- and I have a few drinks, I get crazy.  And I get -- a little desperate and I make a terrible, terrible lie.  And... and I do something I will regret in the morning.  Because I don't know anything about this.  And so, it's Saturday morning... and I wake up not remembering anything about the night and all I have is any git history to go by.  And I look and I see that something terrible has happened.  And I can't just, like, get reset hard, you know?  I don't know what I did last night.  I'm not capable of anything.  You know, I had mind complex systems like, people's lives are on the stake here.  But wait... I think.  I can create a revisionist history.  And so -- and so I smile to myself.  And I start to look and see what I'm doing.  
+
 
 >&gt;One minute.  
 
@@ -165,25 +177,33 @@ Lightning Talks, Thursday night
 
 >[ Laughter ]  
 
+
 >And I need to take what I did before  
+
 
 >[ Laughter ]  
 
+
 >-- and put it into what I did then and then I need to type in the magic words and I need to just, you know, append a few things here and there.  And I know now what I need to do.  And... and so I've successfully deleted the evidence.  And it's Monday.  Thank you.  
+
 
 >&gt;This is a metaphor for journalism today.  
 
 
 >[ Laughter ]  
 
+
 >And I thought it would be funny.  Musical instruments create sound by vibrating columns of air.  Most musical instruments are symmetrical like a trumpet or a drum or a bell and when they are, they create a pleasing sound.  When that column is created by an instrument that's not symmetric, the sound is terrible so when a bell cracks, it sounds absolutely horrible.  That's why, you know, you hear the you don't hear the Liberty Bell sound virtually ever and that's why when this crack happened, you think, they took the Liberty Bell out of service and it came a symbol of America.  This bell is two and a half blocks away, that way.  I suggest that you go take a look at it.  It's in a museum behind glass, a gigantic glass window here so that you can see it any time day or night.  Go down and have an look.  What you think happened is, this bell was sounded and this crack formed here and then the bell sounded horrible and wasn't used again, that's not true.  This is not a crack from the Liberty Bell that made it sound bad.  That is a gap that was made by people to fix the crack that happened when the bell was struck the bell was cast in 1752, I believe, and the crack that happened was a hairline crack and the problem with a hairline crack is, when you have a bell like this, the two sides are rubbing up against each other and when that happens, you don't have a symmetric instrument -- air-vibrate be surface.  So to eliminate that, people in the colonies drilled out the crack and created this gap and they drilled, drilled, drilled, and drilled up to here.  And then they put in these two bolts to hold each side of the Liberty Bell together.  So, both sides of the bell would vibrate at the same rate.  That was the fix of the Liberty Bell.  That's not a crack that's a gap.  That gap was then put back into service with the two bolts holding it together.  And on the very first strike, to resound the Liberty Bell several hundred years ago, a new crack developed and that crack is still there and it is right up here and it goes like that.  And, it was so definitive in compromising the construction of that bell, that it could not be drilled out again because if they did, the whole bell would fall apart.  So that's why the bell was taken out of service and the Liberty Bell is not cracked in the way you think it is.  It's cracked just a very, very different way and you can see it today.  Thank you.  
 
+
 >[ Applause ]  
+
 
 >&gt;Um, so before I start, I want to do a Pro Bono applaud for the foodies' room, they have enough liquor for everyone in this room.  So, so much -- yeah, they lied.  It's not food.... there but before I start, the background of my talk is that I'm a designer, a front-end developer working at a tech company.  
 
 
 >Shit...  
+
 
 >&gt;So while that warms up, so I work at a newspaper.  And we have a problem of actually publishing the stories that we've worked on, like, how do we get our interactive projects onto S-3 which is a weird problem because it's a very simple way to think.  It's not a like a rails app where you have to have this system but we have this issue we're publishing all these flat projects and we want to make sure that exactly what's published is exactly what's on our GitHub repo and it's all synced up and all that.  So I built this thing called kestral and I want to talk about it because I want to see if it's helpful to other people and it has some bugs in it, and I wanted to see we wanted to work on it.  So here's your website.  It looks like this.  It was loaded on, like, local host.  It looks like that.  There she so what you do, all the commands start with swoop 'cause it's like a bird that watches your repo and when it changes, it reflects your changes.  So it has a few components, so you go like swoop in it, and then that will create a GitHub repo.  This was here, like, on a-jam kestral test.  So we have done this before.  And now it exists and it's empty and it created a web room.  So we're going to have, like, a server that's going to watch this GitHub repo and then update changes and so we have initialize git, so it initialized repo.  It set the origin to the thing.  And it's repeated and repeated.  And once it pushes we create the search here.  There she so let's just add everything and do init and then we'll push here.  Wait for that to go.  So you can see it's all here.  And the second part of it, so that's like the can liner face.  There she so the second part of it is, the server you have here running.  Pay no attention to the IP address.  It's behind a and you can check out, like, my branch, any commit level.  Pretty informal.  If you then wanted to publish it, you would do swoop, deploy -- spell it correctly.  And it would ask you, like, if you wanted to go to the staging server, or the abrupt server, it goes to, like, different s-3 buckets.  Staging particular so you can either do syncing or overwrite.  So something's wrong with the S3 server and then you do sync.  So how it works it reads the commit messages that it pushes to GitHub for a particular string that you set and if that sets.  It syncs it to s3, and if not, it's just just a normal commit,.  
 
@@ -214,6 +234,7 @@ Lightning Talks, Thursday night
 
 >[ Applause ]  
 
+
 >&gt;We have Lorie, and then Michael and then Brian are the last ones.  
 
 
@@ -234,7 +255,9 @@ Lightning Talks, Thursday night
 
 >[ Laughter ]  
 
+
 >My talk is unicorn bootcamp, you want me to teach what to who, and how long to whom, excuse me.  
+
 
 >&gt;So yeah, I was a social/numeral scientist and I didn't want to be an academic anymore and I found out about data scientist and I said, can I be one and they said yes.  And I said, what she I start doing.  And I started learning some stuff a lot of people and it used to be way easier to learn stuff when I started teaching people and then I started the idea of a data boot camp and they said yes, and I immediately said, oh, crap.  So we've been designing a data science boot camp and it's from a company called Kaplan Medis and it's going to be this fall in New York City applications are open, and it's really exciting.  But we wanted to find out what the heck to and the reason that I wanted to become a data scientist was because I wanted to do cool stuff with fewer restrictions and that's what we do in principle with our company and this will hopefully be not an exception if we manage to pull it off.  So we had to figure out what to do.  So we've got 12 weeks to train people to be data scientists and another thing I like is not being bored.  So, that was another principle we brought.  So what kind of data boot camp not bore me as a hypothetical student and will not bore me as an instructor and also if I'm training someone, if I think of training, I think of repetition what are we going to repeat to train people to become data scientists, you know, that we want to hire at the end of two weeks.  So we thought of what you would do on the jobs.  So he made that into the class.  So we made this model.  What is a data scientist, what is a data science project and I think the common things that people think about are what are the imprisonments, the machinery -- algorithms, what data are you going to do it to, and what tools are you going to do it in.  You mean, those are great but that's not the whole thing and it's not even the parts that are frequently the parts that are most exciting to me.  You have to know what question you're answering and that the the thing that you're doing is going to answer the question that you're asking.  And the people that you're communicated that to have done what -- and that's what a project is.  So we took those 12 weeks, and again, we gave them code names.  Again, don't bore yourself.  So we said TV detectives, we can think of a lot of them and that's our final class.  So we started, like, with a simple one and we started getting more complicated and students get more independent.  By the last one it's like the passion project and with each of those ones.  And so far I'm like this sounds pretty cool and so we presented that to the client and they said great, so who can take your course?  You know?  Data scientists?  Grow them into real ones and you know, we have to make a press release.  You have to market this thing.  I mean like who is our audience and I was, like, God this is hard.  So I love -- what I love about my job is we come from different backgrounds, you know?  It's not a bunch of -- we didn't all come from the same program.  We're all bringing perspectives to a problem and it's fun.  So I was, like, so, how inclusive we be?  How can I responsibly say, if you're excited, if you do this job, I think you can get there in these 12 weeks.  So we had to think about what are those what do you have to end up with at the end?  What do data scientists have that make them data scientists?  So we made another model and we had to carve the unicorn and so we came up with this model.  I don't know if you can see it, but kind of, like, three, skills-based, and kind of like three, personality-based components of being a data scientist.  So you have to -- it's a code -- sorry.  Everybody -- gotta be able to write some code.  You need to be able to do statistics and machine learning and, um, communication.  So, talking about what you did.  There are people who can code, some crazy stats and explain to someone exactly as smart as them, or more smart what they have done but if they have to explain it to their aunt, it might not be that comfortable or productive.  There she so communication's a big deal.  And, um, authorized to get there, in order to do the job well, I think that you have to be creative.  You know, you have to be able to fit solutions to problems.  You have to be in a new situation and make something up, and make a lot of stuff up.  You have to be curious because all of this stuff is way too painful if you're not driven to find out what the answer is, kind of internally.  And, you have to have grit because again all this stuff hurts and you have to ticking on, and if you don't know what's ticking.  You have to Google stuff in front of people, and say you don't know.  So, that is what we came up with.  So at the end, that was the end.  So, that's our data science boot camp, and so we were looking for people that can show us that they have the capacity for these skill set so you need to bring us a little bit of proof.  We've made some heuristics on how much programming and how much statistics.  But are you going to hit the ground running with us?  And is this what you really want to do or is this the sexist career of the 21st century with a nice paycheck attached so with this we want to do.  
 

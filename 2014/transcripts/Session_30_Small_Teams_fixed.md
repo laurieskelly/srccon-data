@@ -118,11 +118,15 @@ Session Leader: Kaeti Hinck
 
 >[group activity]  
 
+
 >All right, if you haven't started already, feel free to share what you've written with your group at the table and then from there, pick one of the obstacles you might found overlap in what you've written, but start with one and just talk through a couple of questions like you know, what's made this easier for us in the past, what didn't work when we tried it and if somebody could be a note-taker for each group and just quickly a list of solutions and tactics that you come up with as you talk about specific obstacles.  
+
 
 >[group activity]  
 
+
 >... ... ... ... ...  ... ...  
+
 
 >&gt;Let's take a couple more minutes and then wrap up and talk as a whole group.  
 
@@ -131,6 +135,7 @@ Session Leader: Kaeti Hinck
 
 
 >OK, let's circle back up, everyone, wrap things up:  All right, so now I want to talk as a whole group, and kind of walk through some of the things that the smaller groups talked about, and write down some of those obstacles and solutions, and then hopefully we have a lot of things to take away with us, including being connected with this whole community of people.  So if you guys want to start, what was one of the obstacles, you talked about?  
+
 
 >&gt; 
 
@@ -145,6 +150,7 @@ Session Leader: Kaeti Hinck
 
 
 >[laughter]  
+
 
 >&gt;That limited resource, mortality.  
 
@@ -165,6 +171,7 @@ Session Leader: Kaeti Hinck
 
 
 >[laughter]  
+
 
 >&gt;Did you talk about any others?  
 
@@ -255,6 +262,7 @@ Session Leader: Kaeti Hinck
 
 >[laughter]  
 
+
 >&gt;How about you guys?  
 
 
@@ -307,6 +315,7 @@ Session Leader: Kaeti Hinck
 
 
 >[laughter]  
+
 
 >&gt;Maybe doesn't fit the manners one, but --  
 
