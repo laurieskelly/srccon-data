@@ -8,6 +8,7 @@ whitecoatcaptioning.com
 July 24, 2014  
 
 Make your devs and teams braver through dev ops (God help us all.)  
+
 4:30 to 5:30 p.m.  
 
 Session Leader:  Chris Chang  
@@ -1973,7 +1974,8 @@ Session Leader:  Chris Chang
 
 >&gt;What time do we end?  
 
-> 5:30.  
+
+>> 5:30.  
 
 >&gt;I'm hoping this will live as a living resource.  As you find  
 

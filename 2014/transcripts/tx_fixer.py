@@ -17,6 +17,7 @@ for filename in filenames:
             named_speaker_line = len(colon_split) > 1 and colon_split[0].upper()==colon_split[0]
             if named_speaker_line:
                 unnamed_speaker_block = False
+                line = '\n'+line
 
             # line could start with one, two, or no '>'s
             gt_marker = None

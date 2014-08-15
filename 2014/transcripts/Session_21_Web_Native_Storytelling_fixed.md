@@ -85,7 +85,9 @@ Session Leaders: Claire O'Neill and Tyler Fisher
 
 >&gt;t's a story about the Ethiopian woman, $15,000 in five years to reach the border.    
 
+
 ROOM WRANGLER:  We're trying to get somebody to turn on the microphone, but it's not likely and we're trying to get the white noise turned off, but that's not likely, either.  
+
 SESSION LEADER:  Right, so we zoom in on a person, a human who can sort of connect it us to the story and then we have a few detail shots of you knee know, recipes on border and then some action shots, you know, a story in essay proceedings speak about an actual episode that they had border control.  Some things were cool about this, some things weren't, but this is sort of our team's first collaborative project together.  
 
 How many people are on the team and what were the roles that they played in helping you build this?  
@@ -106,6 +108,7 @@ How many people are on the team and what were the roles that they played in help
 
 
 >&gt;So I'm curious about sort of the project management aspect of it.  Because you were working with this other team as well as your own reporters, so you were really kind of working with a lot of different people.  Did you do weekly meetings?  I mean how did you kind of coordinate that all and kind of keep it rolling at the same time with everyone knowing what their tasks were and their deadlines and all of that?  
+
 
 SESSION LEADER:  Yeah, a lot of meetings.  And product management was sort of a coteam.  Becky Lettenberger who also was on my multimedia team of photographers and videographers, she doesn't quite know how to product manage data reporters just yet, so they were sort of managing it together, but we would have weekly meetings?  
 
@@ -330,9 +333,11 @@ SESSION LEADER:  Yeah, a lot of meetings.  And product management was sort of a 
 
 
 >[group activity]  
+
 SESSION LEADER:  So, what do you guys think?  
 
 >&gt;We figured it all out, so it totally works.  
+
 
 SESSION LEADER:  Is there value in doing it this way?  
 
@@ -350,6 +355,7 @@ SESSION LEADER:  Is there value in doing it this way?
 
 >&gt;And I think when we do this exercise, we will probably not do homeless vets.  I imagine we will do something else.  
 
+
 SESSION LEADER:  That's interesting that you guys say that you don't know the experience.  You need to talk to folks, right.  
 
 >&gt;It's a really hard problem, it made us step way outside the box in terms of our experience.  
@@ -362,6 +368,7 @@ SESSION LEADER:  That's interesting that you guys say that you don't know the ex
 
 
 >&gt;[inaudible]  
+
 
 SESSION LEADER:  Anyone else?  
 
