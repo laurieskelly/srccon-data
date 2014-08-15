@@ -9,6 +9,8 @@ whitecoatcaptioning.com
 
 Session 3 -- Who are we missing?   
 
+Session Leader: Mandy Brown  
+
 >&gt;All right, I'm going to get started.  I think more people are going to trickle in, but since Dan told us to be on time, I'm going to adhere to that.  This is the short URL for a Google Doc which I started already, and if you would like to pop your name and like URL in there, I'm hoping to do a little SRC post about what comes out of this session and I will credit you as being a part of that if you put your name in there.  If you want to be anonymous, that's cool.  You don't have to put your name in there.    
 
 

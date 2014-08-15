@@ -12,6 +12,10 @@ Session 26 7-25-14, 1230-1330
 Franklin 2  
 
 "How to diversify the pipeline of journo-coders"  
+
+Session leader(s): Emma Carew Grovum and Latoya Peterson  
+
+>--  
 LATOYA:  All right.  Welcome, how are you?  
 
 >&gt;Great.  

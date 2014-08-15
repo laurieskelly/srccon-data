@@ -9,6 +9,8 @@ whitecoatcaptioning.com
 
 Session 30 - Making things happen with small teams  
 
+Session Leader: Kaeti Hinck  
+
 >&gt; All right, guys, let's get started.  
 
 

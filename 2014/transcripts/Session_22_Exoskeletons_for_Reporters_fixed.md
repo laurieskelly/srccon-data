@@ -9,6 +9,8 @@ July 25, 2014
 
 Building Exoskeletons for Reporters  
 
+Session Leaders:  Jeremy Bowers and Aaron Williams  
+
 >&gt;We're going to wait a handful of more minutes and then we'll  
 
 

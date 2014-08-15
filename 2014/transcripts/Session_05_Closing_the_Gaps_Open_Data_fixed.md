@@ -11,6 +11,8 @@ Closing the Gaps: Let's identify the holes in open data, then fix
 
 them.  
 
+Session leader:  Waldo Jacquith  
+
 >&gt;This is a gripe session.  
 
 

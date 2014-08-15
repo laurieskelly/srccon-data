@@ -9,6 +9,8 @@ whitecoatcaptioning.com
 
 Session 34, How to train your newsroom.  
 
+Session Leaders:  Jaeah Lee and Tasneem Raja  
+
 >&gt;e're going to get started.  Could somebody get the door maybe in the back?  So we're here to talk about newsroom training.  Just a couple of housekeeping things, if you want to open up the etherpad where we've put some burning questions, a little bit of a guide to what we're hoping to do in this conversation today, it's bit.ly/train-your-newsroom.  So you can check that out.    
 
 

@@ -9,6 +9,8 @@ whitecoatcaptioning.com
 
 Session 13 - Sartre was wrong - Hell is data about other people  
 
+Session Leader Derek Willis.  
+
 >&gt;K, so as folks are -- yeah, people will probably be trickling in and out, depending on how exciting I am, which is to say after lunch, not that exciting, so this is both a kind of a weirdly complex session that will test your patience and ability to remain in the room.  So congratulations on deciding to come here in the first place.  
 
 

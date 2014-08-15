@@ -10,6 +10,8 @@ July 24, 2014
 Make your devs and teams braver through dev ops (God help us all.)  
 4:30 to 5:30 p.m.  
 
+Session Leader:  Chris Chang  
+
 >&gt;JP was supposed to be here but he got stuck in Pittsburgh.  
 
 

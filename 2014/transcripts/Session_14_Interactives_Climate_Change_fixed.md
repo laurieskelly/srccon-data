@@ -12,6 +12,10 @@ Session 14 7-24-14, 1500-1600
 Garden 1  
 
 "Interactives and Climate Change"  
+
+Session leader(s): Brian Jacobs  
+
+>--  
 BRIAN:  All right, I guess let's do this.  Y'all get together?  
 
 >&gt;Yeah, let's do it.  

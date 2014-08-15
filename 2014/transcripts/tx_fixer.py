@@ -13,13 +13,6 @@ for filename in filenames:
 
             line = line.lstrip().replace('\r\n','  \r\n')
             
-            if line.upper().startswith('SESSION LEADER'): 
-                out_of_header = True
-                continue
-            if line.strip() == '--': 
-                out_of_header = True
-                continue
-
             # boolean to tell you if the line has a named speaker
             colon_split = line.split(':')
             named_speaker_line = len(colon_split) > 1 and colon_split[0].upper()==colon_split[0]
@@ -43,6 +36,11 @@ for filename in filenames:
             if not gt_marker and not named_speaker_line:
                 if out_of_header:
                     line = '>'+line
+                if line.upper().startswith('SESSION LEADER'): 
+                    out_of_header = True
+                if line.strip() == '--': 
+                    out_of_header = True
+
                 # paragraph continuation for same speaker should not jump out of block quote
                 line = '\n'+line
 

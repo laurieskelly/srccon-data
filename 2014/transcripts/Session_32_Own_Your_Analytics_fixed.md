@@ -11,6 +11,8 @@ SRCCON Session 32
 
 Own your analytics  
 
+Session leaders:  Brian Abelson, Michael Keller, and Stijn  
+
 >Debrouwere.  
 
 >&gt;I think we're pretty full.  If you want to talk from up here  

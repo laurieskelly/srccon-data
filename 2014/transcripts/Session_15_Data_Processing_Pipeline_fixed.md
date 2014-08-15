@@ -11,6 +11,8 @@ Data Processing Pipeline show and tell
 
 3 to 4 p.m.  
 
+Session Leaders:  Ted Han and Jacqui Maher.  
+
 >&gt;Shall we do this thing?  Enthusiasm.  All right.  Cool.  Data.  
 
 
