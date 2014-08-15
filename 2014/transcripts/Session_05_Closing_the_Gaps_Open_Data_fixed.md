@@ -1,21 +1,15 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
->
 >July 24, 2014  
 
 >Closing the Gaps: Let's identify the holes in open data, then fix  
 
 >them.  
-
->Session leader:  Waldo Jacquith  
 
 >&gt;This is a gripe session.  
 
@@ -114,10 +108,6 @@
 
 >about what is awful, maybe awful in ways that we've forgotten about  
 
->
->
->
->
 >because we're accustomed to it.  My organization which has great  
 
 >resources maybe can help to solve.  We hire programmers or bounties on  
@@ -228,10 +218,6 @@
 >&gt;The cost of what they built is extreme.  If you have a cluster  
 
 
->
->
->
->
 >of ...  
 
 >&gt;Somebody solves a problem, like real estate data and it  
@@ -342,10 +328,6 @@
 
 >I just pulled it up, there are 16 different possible IDs or 15 ID  
 
->
->
->
->
 >systems that we have to crosswalk.  We don't have to.  But we provide  
 
 >a crosswalk ID for people who should have one.  
@@ -454,10 +436,6 @@
 
 >provided by a company and therefore all of the systems fall outside  
 
->
->
->
->
 >something related to a government and that is happening in  
 
 >infrastructure system after infrastructure system.  It's not a  
@@ -574,10 +552,6 @@
 
 >in the uniform law commission put together and states are gradually  
 
->
->
->
->
 >passing.  Almost all states will pass it.  And it requires but four or  
 
 >five states it passed so far.  It requires any states who adopted any  
@@ -685,10 +659,6 @@
 
 >that will get us the most data out.  In other words like if I'm  
 
->
->
->
->
 >writing a scraper for elections in Arkansas but it's used in six other  
 
 >states.  It's worth the effort and time to make a tool that is generic  
@@ -797,10 +767,6 @@
 
 >get permission to put up a virtual server.  It would have costed 4,000  
 
->
->
->
->
 >a month I think.  
 
 >What a really, things that are simple for us are very difficult  
@@ -907,10 +873,6 @@
 
 >for all the word like Secrada.  Secrada set up the first site and  
 
->
->
->
->
 >they're like hey, do you want to use this?  Yep, we're done.  We have  
 
 >a dataset now.  It's like a demo.  It's not a good system?  
@@ -1021,10 +983,6 @@
 >&gt;This is nice for government.  It's basically a web based  
 
 
->
->
->
->
 >validation, hey, you're too stupid to produce CSV for the following  
 
 >reasons.  
@@ -1133,10 +1091,6 @@
 
 >re-examining that, you -- most of the people that come to open data  
 
->
->
->
->
 >websites are smart professionals but that maybe a self-selecting  
 
 >group.  Especially for the second tier of journalism organizations.  
@@ -1240,10 +1194,6 @@
 
 >useful for isolating, instead of -- I was trying to do OCR on a full  
 
->
->
->
->
 >page of results.  A full table.  To do it on individual cells  
 
 >essentially.  There is -- Jeff has written a sort of slightly better  
@@ -1366,10 +1316,6 @@
 
 >better to make explicit the named entities.  For the documents to say  
 
->
->
->
->
 >specifically where there are people or other entities.  
 
 >&gt;The way for example the -- transcripts in Microsoft word, and  
@@ -1424,32 +1370,3 @@
 
 >&gt;I will be very hungry.  
 
-
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->

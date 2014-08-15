@@ -1,34 +1,23 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
->
 >7/24/14  
 
 >Session 3 -- Who are we missing?   
 
->Session Leader: Mandy Brown  
-
->
 >&gt;All right, I'm going to get started.  I think more people are going to trickle in, but since Dan told us to be on time, I'm going to adhere to that.  This is the short URL for a Google Doc which I started already, and if you would like to pop your name and like URL in there, I'm hoping to do a little SRC post about what comes out of this session and I will credit you as being a part of that if you put your name in there.  If you want to be anonymous, that's cool.  You don't have to put your name in there.    
 
 
->
 >I was going to make you guys take notes for me during this session, but it turns out we have an awesome stenographer over here named Norma, so we have professional notes, so you don't have do that, but David is going to pop in there and write down some kind of high-level themes and ideas that come out of this and you're free to contribute to that, as well.  
 
->
 >Just in case you didn't remember from that whole big thing where we just introduced each other, but I am Mandy Brown, I'm from Brooklyn, I'm from Vox product.  Before Vox I was CEO of a little startup called Editorially, which is a collaborative editing platform which David built along with a few other people who are still here.  We sold that to Vox and are now working on similar tools inside Vox.  So I work on content management systems, basically.  But that I was a communications director, and that's kind of how I started doing product.  Before that I was in traditional book publishing and I will the cofounded a book apart.  I proposed this session because I want to know the apes to the questions that I put in there.  I do not actually know them.    
 
->
 >So I have a lot of questions, and I'm hoping that we -- like the people in this room have some ideas or even a way to like flesh out those questions, because I don't have the answers to any of these questions.  And partly, and I say this with a lot of my colleagues in this room, who I don't want to scare them, but one of the things that I have thought about over the last like five or six years is that I'm kind of always thinking about what my next job or career is going to be.  Not leaving my current one.  And I think that news room code and data journalism are fields which are welcoming to people of a lot of different backgrounds.  This is the kind of field that actually benefits from people coming from lots of different directions.  And I'm curious for myself how I might transition into something like that.  Whether or not I actually do that -- come on in.  
 
->
 >Whether or not I actually do that is up to question, but one of the things that I thought about is that I'm interested in the stuff but I'm not really sure how to get started so there is a wealth of skills around presenting content on the web.  HTML and CSS are kind of stable states at this point in the field.  Javascript, Ruby on Rails, and various kinds of frameworks.  There's a set of tools and skillset around actually doing like statistical analysis, so things like Python and R -- please come in -- and also just basic competencies around like how do stats work and how do you look at data and know what to do with it, and there's probably all kinds of other things, I think, around kind of the power that comes along with that data, so the ethical considerations you have to take into account, like what kinds of things you could be revealing or not revealing what it says when you're acting on it, those kinds of things.  So I will put the question out to -- let's do this.  Who actually works in either newsroom code or data journalism.  I know at least one, two, three and a half -- what do you do?  
 
 >&gt;I help run social strategy.  
@@ -46,7 +35,6 @@
 >&gt;So for the folks who are developers in the room, what do you think if someone was starting out going into newsroom code what are the first things someone needs to learn and what are the best ways to go about that.  First things that you need to learn?  
 
 
->
 >&gt;Do you mean like what someone needs to learn to be a developer in the newsroom?  Or someone needs to know going into the newsroom?  
 
 
@@ -461,7 +449,6 @@
 >&gt;Mel?    
 
 
->
 >Just bouncing off of that, the only reason I'm here at this conference is because Erin emailed me and said you should come to this conference and you should speak at the conference and I think, you know, figuring out who those people are and inviting them with an email message whether you're hiring or trying to find sources or trying to bring people into projects, it really does a lot just to you know, I believe in like praise and reaching out to people and bringing them directly in and that's how you diversify every part of this.  
 
 >&gt; 
@@ -476,7 +463,6 @@
 >&gt;Leadership.    
 
 
->
 >&gt;eadership, you think?  
 
 
@@ -496,7 +482,3 @@
 
 
 >[break]  
-
->
->
->

@@ -1,20 +1,14 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
 >7/25/14   
 
 >Session 30 - Making things happen with small teams  
 
->Session Leader: Kaeti Hinck  
-
->
 >&gt; All right, guys, let's get started.  
 
 
@@ -111,7 +105,6 @@
 >&gt;I'm -- I work for -- David works with us, too, but he doesn't do anything, alas.  I'm interested in seeing how small teams manage the tension between doing like long-term stuff and more time sensitive stuff, so yeah, ...    
 
 
->
 >&gt;ool.  So how we're going to structure this is first talking about obstacles and we're going to have you guys all write down individually one obstacle that you feel prevents you from doing the work you want to do or doing it as well as you wish you could.  Because --  
 
 

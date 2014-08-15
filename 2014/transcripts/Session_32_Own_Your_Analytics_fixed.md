@@ -1,20 +1,15 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
 >July 25, 2014  
 
 >SRCCON Session 32  
 
 >Own your analytics  
-
->Session leaders:  Brian Abelson, Michael Keller, and Stijn  
 
 >Debrouwere.  
 
@@ -109,10 +104,6 @@
 
 >analyses.  
 
->
->
->
->
 >We have some data that we've already collected, too.  Michael?  
 
 >&gt;We're doing a research project, building this platform which  
@@ -223,10 +214,6 @@
 
 >three options.  One is we'll be at the end of the hour so you can  
 
->
->
->
->
 >switch to a different session.  Or you can start coding.  Or the third  
 
 >option is we can split up into groups and there can be groups that do  
@@ -327,10 +314,6 @@
 
 >the very start, how does Google Analytics store data?  And again, I'm  
 
->
->
->
->
 >going to continue to talk about Google Analytics but 99 percent of  
 
 >this applies to pretty much any other analytics tool that you will  
@@ -431,10 +414,6 @@
 
 >That is important terminology as well.  
 
->
->
->
->
 >Now dimensions are sort of we talked before about the fact that  
 
 >alongside an event, the main event being a page view you can store all  
@@ -535,10 +514,6 @@
 
 >in a while.  What's up?  
 
->
->
->
->
 >Some of them are more flexible.  And Heap and Keen are events  
 
 >tracking systems.  They have the same structure as Google Analytics  
@@ -641,10 +616,6 @@
 >&gt;We don't really use Google Analytics.  We have Omniture.  
 
 
->
->
->
->
 >&gt;We have Omniture, too.  
 
 
@@ -760,10 +731,6 @@
 
 >tracking it for two weeks after publication.  
 
->
->
->
->
 >&gt;That is what I was playing with.  Facebook, I can't get every  
 
 
@@ -886,10 +853,6 @@
 
 >engagement has been changing over time.  We went through a redesign  
 
->
->
->
->
 >and everybody hates it of course.  But they -- but our comments have  
 
 >gone up even though we lost a huge percentage of our readership.  It's  
@@ -1008,10 +971,6 @@
 >&gt;There are two typings of insights, one is page insights and  
 
 
->
->
->
->
 >the other is post insights.  Have you ever played with those two?  Let  
 
 >me try to distinguish them.  Post insights is once you post something  
@@ -1115,10 +1074,6 @@
 
 >They don't care about the story.  The diffusion ratio will tell you  
 
->
->
->
->
 >how many new readers you will get with this story.  
 
 >Suppose you have the privilege, you can use the number of nonfans  
@@ -1223,10 +1178,6 @@
 
 >the best side of yourself.  You may have another self online and also  
 
->
->
->
->
 >the red Sox because it's positive and you would like to share good  
 
 >news and also Paris Hilton, like gossip, I want to talk about with my  
@@ -1327,10 +1278,6 @@
 
 >previous metrics are mostly based on this post.  I tried to quantify  
 
->
->
->
->
 >the issues I was covering in this post?  
 
 >&gt;I never noticed that picture.  It's a nice picture.  
@@ -1447,10 +1394,6 @@
 
 >depending on how it performs in that small sample size, Facebook will  
 
->
->
->
->
 >dictate how it disseminates it to your larger page audience.  
 
 >&gt;There is a -- information flow there.  At the first step only  
@@ -1561,10 +1504,6 @@
 
 >want.  You can search for mentions of your organization.  The great  
 
->
->
->
->
 >thing is then you can store this and analyze it after the fact.  The  
 
 >other thing is just a search.  So you can do the same exact thing here  
@@ -1673,10 +1612,6 @@
 
 >sleep for whenever your rate limit is met.  But the library that I  
 
->
->
->
->
 >wrote for working with this stuff is (trailed off ...)  
 
 >&gt;What did you write it in?  
@@ -1788,10 +1723,6 @@
 
 >sharing.  
 
->
->
->
->
 >&gt;And interact with users and stuff like that.  Be kind of, I  
 
 
@@ -1842,33 +1773,3 @@
 >(doing individual work ...)  
 
 >I guess we're kind of done.  Thank you all for coming.  
-
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->

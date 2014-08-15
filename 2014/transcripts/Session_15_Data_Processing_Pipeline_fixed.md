@@ -1,22 +1,16 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
 >July 24, 2014  
 
 >Data Processing Pipeline show and tell  
 
 >3 to 4 p.m.  
 
->Session Leaders:  Ted Han and Jacqui Maher.  
-
->
 >&gt;Shall we do this thing?  Enthusiasm.  All right.  Cool.  Data.  
 
 
@@ -112,10 +106,6 @@
 
 >excel spread sheets what was in the collection and she would open each  
 
->
->
->
->
 >and type in the XML document that was the index for the project.  I  
 
 >thought that is bullshit, I will write a pearl script in order to  
@@ -217,10 +207,6 @@
 
 >now I think.  
 
->
->
->
->
 >But the delivery is constant, it's streaming?  
 
 >&gt;We would like to see if we can go through quickly and ask  
@@ -331,10 +317,6 @@
 >&gt;I was going to say those of you on the ground, there are two  
 
 
->
->
->
->
 >chairs here.  
 
 >&gt;I'm going to be standing so if somebody wants to sit here.  
@@ -445,10 +427,6 @@
 
 >need an update we just, if they need -- if they're just updating the  
 
->
->
->
->
 >data, they run the script again and it will automatically push to the  
 
 >pages on the hub.  If they need a feature edit, sometimes they come  
@@ -562,10 +540,6 @@
 
 >code written to transform.  Go through each row and turn it into  
 
->
->
->
->
 >something that is standardized across what the data list expects?  
 
 >&gt;How does that run?  
@@ -679,10 +653,6 @@
 >&gt;We'll call Git and GitHub the same thing.  
 
 
->
->
->
->
 >&gt;Back in 2009/2010 I was in Portland, Oregon and found 20,000  
 
 
@@ -790,10 +760,6 @@
 
 >we're like, sweet, we can do something with this.  
 
->
->
->
->
 >We started working on its and we thought it would take a few  
 
 >months to do and it ended uptaking close to a year.  We never had a  
@@ -905,10 +871,6 @@
 
 >definitely plus one on the elastic serve Kabana plaque.  
 
->
->
->
->
 >&gt;Thank you.  
 
 
@@ -1019,10 +981,6 @@
 
 >given what the set of DVDs is, so you know, form 990PF filed in  
 
->
->
->
->
 >January 2010.  Here is the stack of those DVDs.  Just go through and  
 
 >rip them and put them together the way that the sort of manifest on  
@@ -1135,10 +1093,6 @@
 >&gt;Are there current legislators running for reelection?  
 
 
->
->
->
->
 >&gt;Incumbents, the United States project on GitHub has like their  
 
 
@@ -1261,10 +1215,6 @@
 
 >into those models.  
 
->
->
->
->
 >&gt;If your tables don't match the data you want to show, I would  
 
 
@@ -1378,8 +1328,3 @@
 >different tools are applied in different situations.  
 
 >Let us know and thank you.  
-
->
->
->
->

@@ -1,20 +1,14 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
->
 >July 24, 2014  
 
 >Make your devs and teams braver through dev ops (God help us all.)  
 4:30 to 5:30 p.m.  
-
->Session Leader:  Chris Chang  
 
 >&gt;JP was supposed to be here but he got stuck in Pittsburgh.  
 
@@ -117,10 +111,6 @@
 
 >doing -- so far.  
 
->
->
->
->
 >&gt;I'm Stan.  I'm mostly here to learn as well.  I use the odd  
 
 
@@ -230,10 +220,6 @@
 
 >the doc is making ourselves braver with dev ops.  And that's really the  
 
->
->
->
->
 >case.  dev ops is all about embracing failure, deploying, like, don't  
 
 >be afraid to deploy if you find a mistake and crash the site.  It's an  
@@ -344,10 +330,6 @@
 
 >sure something came back.  And an example of an integration test is  
 
->
->
->
->
 >running a name through a function and making sure it got split up into  
 
 >first and last name.  
@@ -459,10 +441,6 @@
 
 >something?  I know -- here is a problem I've run into.  How do you  
 
->
->
->
->
 >have a lot of post genesis (ph.) online without running out of your  
 
 >budget.  That is probably the most expensive thing we do.  
@@ -575,10 +553,6 @@
 
 >who has never seen.  I need AWS on this tomorrow.  It's more important  
 
->
->
->
->
 >to make sure the people who do know are involved in those projects  
 
 >from the beginning.  That goes throughout the entire project  
@@ -688,10 +662,6 @@
 
 >check that list and want more information about a tool just go ahead  
 
->
->
->
->
 >and shout that out.  I should update it on the ether pad but I can't  
 
 >do that and talk at the same time.  
@@ -795,10 +765,6 @@
 
 >does.  It's lighter and less frustrating.  We run it internally.  The  
 
->
->
->
->
 >only server requirement is you must be able to hit a point that you  
 
 >have an on call back.  
@@ -913,10 +879,6 @@
 >&gt;We love vagrant.  That is how we simulate our production.  
 
 
->
->
->
->
 >&gt;If you have a work flow with vagrant, I don't know if I would  
 
 
@@ -1028,10 +990,6 @@
 
 >down.  
 
->
->
->
->
 >What tools do you pick to make that process as painless as  
 
 >possible?  That is what this is about.  Docker is interesting because  
@@ -1138,10 +1096,6 @@
 
 >written amazing deploy scripts and made them widely available.  And  
 
->
->
->
->
 >literally you type the word deploy.  There is nothing I have to know  
 
 >as a developer in order to use that.  There is an equally easy way to  
@@ -1253,10 +1207,6 @@
 >&gt;What I would say is like that's not totally true for most  
 
 
->
->
->
->
 >people in the sense that everything that you need to know is  
 
 >everything that you have to ask somebody about when you're blocked on  
@@ -1364,10 +1314,6 @@
 
 >solves a lot of problems in a different way.  
 
->
->
->
->
 >The automatic infrastructure and code stuff is an interesting  
 
 >concept.  That is what chef is about.  Write a ruby script that  
@@ -1473,10 +1419,6 @@
 
 >sub sites.  From a cache instead of from the shifting common style  
 
->
->
->
->
 >sheet.  So as we change styles, random act rebuilt two years ago that  
 
 >relied on one quirk and it doesn't break.  Accept we have to do it  
@@ -1504,41 +1446,3 @@
 >explanation of why I think it's something valuable.  So I hate chef  
 
 >and puppet but they're in the list because a lot of people like them.  
-
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->

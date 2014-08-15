@@ -1,20 +1,14 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
 >7/24/14  
 
 >Session 13 - Sartre was wrong - Hell is data about other people  
 
->Session Leader Derek Willis.  
-
->
 >&gt;K, so as folks are -- yeah, people will probably be trickling in and out, depending on how exciting I am, which is to say after lunch, not that exciting, so this is both a kind of a weirdly complex session that will test your patience and ability to remain in the room.  So congratulations on deciding to come here in the first place.  
 
 
@@ -24,12 +18,10 @@
 >&gt;There are lots of different libraries and tool kits that do this in one form or another, but it's still something enough, it's still enough of an announce for people that there are multiple, the fact that there are multiple tool kits that this do sort of testifies to the fact that like this is still kind of a problem that people feel compelled to tackle.  In one, you know, they may have edge cases that are unique enough that force them to start writing code or they may feel that whatever exists isn't narrow enough or isn't in their language or something like that, so I think that there is still room for solutions of one kind or another, and I'd like for us to sort of engage in part brainstorming of what solutions, what that might look like, whether or not that's buildable and whether or not we could build, if there's anything we could contribute in the next couple of hours.  Now, that's ambitious but that's one part of it and I think that's sort of the easiest part of it because there is a lot of prior art on name parsing that exists.    
 
 
->
 >The second problem is more of a standardization problem.  In other words, is this person the same as this other person?  
 
 >And that problem exists when you have a lot of individuals in a dataset, and whether that's again, like whether it's permit holders.  I encounter this a lot in campaign finance data, and there are again solutions to this problem, but many of them are pretty messy solutions, like the solutions that exist kind of range from at one end of the spectrum, from doing semi-manual standardization -- in other words, fixing things and then keeping a record of the stuff that you fix and then applying those fixes to new data as it comes in and hoping that it picks up most of those and then fixing the rest, to all the way up to machine learning, sort of like trying to train a dataset to identify people who are similar or the same person based on a certain set of characteristics, and there are some tool kits for that.  There probably are people who are a lot smarter than me who have even better tool kits for that that we don't know about, that maybe you know about, that we should be using as journalists in order to do this.    
 
->
 >The third problem is really not much of a coding problem but it's more of sort of a community problem, which is why I kind of pitched this for SRCCON, which is that each of us has to do this at some level, probably, or probably will have to do this if you haven't already.  Are we reinventing the wheel too much?  Are we not actually building on what each of us or all of us together are doing?  And should there be something that does that?  
 
 >&gt;Like for example, should there be a name reconciliation service for political donors? that you can essentially you know, in one scenario say you get a filing with a list of donors in it and you sort of post it to this service and it tries to give you back standardization and/or IDs that correspond to who it's been able to identify those people as.  
@@ -47,17 +39,14 @@
 >&gt;Like, that's not something that we should really be proud of.  We should be able to fix this.  Because if you look at various sites in campaign finance, like the folks at center for responsible politics will say that some person have given this much money and other places might say it's this much money and another place might say no, it's a third number and they might be somewhat close, but based on the standardized data or what data they include or the policy of their parsing and standardization practices, you're liable to end up with multiple figures, which seems again, like imprecision is one of those things that bugs me, that we really can't say how much money a certain person has given.  We can get close.  I hate having to write at least in front of every campaign finance number I ever cite.  I mean can we do better than that?  
 
 
->
 >&gt;So like that's -- those are sort of the universe of problems, and again, maybe we can all we can do on the second and the third is to come up with an outline of like what we would like to see.  Or what might be possible.  Because I know that from my -- you know from my vantage point I've been banging my head against the wall on this for years and obviously I haven't come up with it on my own and as I age that's probably going to be even less likely.  I think that is something that we can kind of bring some muscle, some brains to bear in a larger scale that might actually get something moving forward in this.  
 
 
 >&gt;So what I'd like to do is there's GitHub repo under my account, and then other hyphened people, and then, assuming that the ethernet is, working here, and maybe it isn't ...  There's a couple things that I've done -- come on, CSS.  There we go.  There's a couple things that I've done in sort of preparation for this.  And I invite -- and what I want to do is I want to sort of spend some time discussing and you know, banging things around, but I'd also like for us to spend some time kind of looking at some of the existing tools, pulling out what we think we like, conceptually, like you don't have to be like I really like this line of code because it's elegant, because then we'll just have the Ruby and the Python people fighting each other all day.  So what we're looking for is utility, rather than, you know, elegance in code.  But and also like the kinds of things that you want to see or these particular tasks, parsing standardization, what would lend themselves, the best tools to accomplish those, and then what's missing, and I think like it would be great if in a couple of hours we could create a system or even a blueprint with coming up with saying hey, we're going to have the ultimate name-parsing campaign.    
 
 
->
 >I'm selfishly thinking of even the civic universe, of like public data that's like people, whether it's politics or permit holders or things like that.  Like the smaller the universe the less the problem really this is.  For instance the campaign donors, the number of people who give campaign donations is blissfully small, compared to the population as a whole and it's largely a lot of the same people.    
 
->
 >So at any point in this process, if people have, you know, questions ideas, whatever, you should feel free to shout them out and we'll kick things around.  I'd like to sort of start off by having people taking a few minutes, look at some of these tools, to the extent that we can bring them up on your laptops and even not like I said the code, but the description of what they do, and maybe we can compile a list of like the stuff that name parsers should do really well and then the stuff that, you know, should be sort of optional.  
 
 >&gt;Does that make sense?  
@@ -66,10 +55,8 @@
 >&gt;So on this list, there's the -- I separated them into kinds of different kinds of categories.  One of them is Swiss army knives, which I think are tools that do a wide range of stuff with names.  And I think it's fine to look at those for lots of things, but I also -- there's also a lot more, and again, this is -- this list of parsing libraries is just simply for me like doing a search on GitHub, right?  I know there's more out there.  I know there's probably even better academic-level ones that exist out there, but even doing a search for name parsers gives you 12 or 15 different libraries, and so maybe this problem is solved in the sense that like maybe between these, like, or there's one in here that's clearly superior or does more than anybody else's, but I kind of feel like we should know that.    
 
 
->
 >Like, we should be able to come to some sort of consensus on hey, these are the things that a name parser should do for our purposes, and of those things, there's one, two, three or four of these that are closest to fitting the bill.  And maybe it's something that you know we can agree to contribute on or you know, import into your own favorite language or whatever but I shy we should have an easy answer the next time someone in a listserv or a chat room says, "What do I use to parse names?" you should be able to tell them this is what you use.    
 
->
 >Like I said, I'd like to check out some of the features of these, the descriptions of these, and maybe we can draw a list.  In fact, maybe I can just raise the thing and we can start writing down a list of things of sort of key parts of so why don't we take about five minutes or so and kind of look through, have a list in your mind, maybe type it up a little bit on your laptop, whatever.  Talk amongst yourselves about what would make the elements of a good name parser, what should it do?  What kinds of situations should it handle?  Should it be like in my mind one of those might be like it should deal with -- try to deal with international names in a sane way, because we don't get to have just the John Smiths anymore.  And that's both a good thing and something we can do about it.  
 
 >&gt;Are we just talking about parsing a name where we know the start and the finish or is this sort of distracters?  
@@ -111,7 +98,6 @@
 
 >[laughter]   
 
->
 >Don't worry, actually, that will be adopted by the United States very soon.  
 
 >&gt;Oh, yes, this is a fun one, the reversal of names.  Which in some cases can be really, really insidious, right, because it can be hard to tell.  Yeah, that's going to be a fun one to solve.  But I mean there are ways to sort of, like depending on what other information is available, there's probably ways that we could tackle that, right?  
@@ -126,7 +112,6 @@
 >&gt;Yeah, and I feel like there's also mentioned a probability of accuracy scores or confidence numbers or however we want to call it.  I feel like this is really, you know, the crux, probably the crux of the matter in a lot of respects for a lot of these questions, because years ago, when I started out doing standardization and things, it was literally all done in sequel and if it matches, then boom it matches and then you're left with thousands and thousands of unmatched ones that are just hell, right and so I do feel like this is some -- there's definitely some role for probability for machine learning for essentially trying to work through issues and to recommend like I don't know for sure but I think maybe this is the best one, so the linking family members, like that has lots and lots of uses obviously for Civics or you know for political data in particular.  And I think is a really valuable thing.  That tends to be like -- but you tend to have to be like close to the ground.  Like I couldn't do it for Maine in the same way that you could do.  Like I don't know who these people are, like it looks like the same-ish.  There's a great IRE training set that involves a Haslam family, a guy who's a governor in Tennessee.  In Tennessee, it's a fairly famous name before he was governor, Haslam, except in a tenth of the records it's an e with instead of an a.  And it's like what do you do with that?    
 
 
->
 >Again applying the address, the nature of how -- whether it lines up with other information in terms of dates of contributions of in other people and similarities.  Maybe like you get into soundex comparisons of like yeah, they're pretty close, whatever.  
 
 >&gt;Ah, the nicknames embedded in the full name.  Terminator, really?  Is that self-selected?  Or.  
@@ -313,7 +298,6 @@
 >&gt;I was thinking of this specifically with the nicknames, because the one where we really run into trouble is this person goes by John, but this person's actually name is John.  So this person's name is Jonathan and this person is actually John.  
 
 
->
 >&gt; 
 
 
@@ -726,5 +710,3 @@
 
 
 >[group activity]  
-
->

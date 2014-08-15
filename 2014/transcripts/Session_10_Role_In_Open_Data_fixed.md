@@ -1,22 +1,15 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
->
 >July 24, 2014  
 
 >What is our role in the open data movement?  
 12:30 to 1:30 p.m.  
 
->Session leaders:  AmyJo Brown and Casey Thomas  
-
->
 >&gt;Hi.  I'm Casey and this is AmyJo.  I do freelance journalism  
 
 
@@ -114,10 +107,6 @@
 
 >post its and then ...  
 
->
->
->
->
 >&gt;Should we say what our role is, too.  I work for a print  
 
 
@@ -229,10 +218,6 @@
 
 >for the Philadelphia Inquirer, the complicated story is access Philly  
 
->
->
->
->
 >this local web entity wanted to keep alive this data archiving  
 
 >website.  Open data Philly.  In the process it sort of involves the  
@@ -341,10 +326,6 @@
 
 >We didn't have it all worked out.  I'm not trying to betray anybody  
 
->
->
->
->
 >either but once thaw tell me this, it's like I can't undo this.  Now I  
 
 >know this list.  
@@ -457,10 +438,6 @@
 
 >there is what are the ethical quandaries we might find ourselves in by  
 
->
->
->
->
 >consuming city data services.  This is the idea of forward recording  
 
 >or using the apps that we build.  The example geo coding.  
@@ -572,10 +549,6 @@
 
 >for other sources of data and reporting.  
 
->
->
->
->
 >&gt;The same downfall as them releasing bulk data.  
 
 
@@ -686,10 +659,6 @@
 
 >it maybe.  
 
->
->
->
->
 >&gt;This is a point where our interest as journalists can conflict  
 
 
@@ -799,10 +768,6 @@
 
 >Whatever it is.  The same process applies.  You should take from  
 
->
->
->
->
 >the journalism world that checklist that is out there.  There is a lot  
 
 >of them out there and take the parts that are tried and true?  
@@ -906,10 +871,6 @@
 
 >it's incorrect they stop it.  Like address changes and all those  
 
->
->
->
->
 >things.  That happens much faster than the city can do it.  
 
 >And another thing is like recycling for example.  In the city,  
@@ -1015,10 +976,6 @@
 
 >I have a police detective friend and they were switching to, they  
 
->
->
->
->
 >wanted more transparency in cops hours.  These cops with bad.  They're  
 
 >not working the hours they're charging for.  They started buying this  
@@ -1124,10 +1081,6 @@
 
 >And then the sailboat, thinking about people's time and doing  
 
->
->
->
->
 >something in an efficient way that you can learn about whatnot to do  
 
 >and you can tell on yourself and do it in a spirit.  I can say like  
@@ -1237,10 +1190,6 @@
 
 >write a story about the taxi identification but it doesn't get as much  
 
->
->
->
->
 >traffic.  I don't know ...  So ...  
 
 >&gt;I think there's also the we're smart but we aren't necessarily  
@@ -1351,10 +1300,6 @@
 
 >the organization.  Really starting at the source level and going each  
 
->
->
->
->
 >step of the way.  
 
 >&gt;Any other burning questions someone has about open data or  
@@ -1462,10 +1407,6 @@
 >&gt;At one point we wanted to do something with water usage at the  
 
 
->
->
->
->
 >parcel level.  It was something about city vacancies and the thinking  
 
 >is if there is water usage there is somebody there.  But the city  
@@ -1508,34 +1449,3 @@
 
 >&gt;Thank you so much for coming.  
 
-
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->

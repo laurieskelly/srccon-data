@@ -1,18 +1,13 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
 >July 25, 2014  
 
 >Building Exoskeletons for Reporters  
-
->Session Leaders:  Jeremy Bowers and Aaron Williams  
 
 >&gt;We're going to wait a handful of more minutes and then we'll  
 
@@ -117,10 +112,6 @@
 
 >this problem.  That was a strike in Yemen that killed 55 people and  
 
->
->
->
->
 >The New York Times wrote the story and said it was the largest number  
 
 >of casualties in several months.  And that is wrong.  It was the  
@@ -224,10 +215,6 @@
 >&gt;My name is Fergus.  Recently finished researching the census  
 
 
->
->
->
->
 >in the context of journalism.  One of the things -- I know this is  
 
 >being not necessarily entirely worked on, doing things like just going  
@@ -336,10 +323,6 @@
 
 >operating in a session of the tax code they shouldn't be operating in.  
 
->
->
->
->
 >A tool for combining a lot of stuff together would be useful.  
 
 >&gt;I'm Jason.  I'm at VOX.  The newsroom is very new to me but  
@@ -451,10 +434,6 @@
 
 >On a different tangent sort of in a literal way thinking of  
 
->
->
->
->
 >exoskeletons as wearable technology that might enhance a reporter's  
 
 >experience.  Everything from a device that is recording audio and can  
@@ -569,10 +548,6 @@
 
 >but it probably is.  Crime, finance, education, sports, almost all of  
 
->
->
->
->
 >these things involve real relationships between people and space.  And  
 
 >when we write stories we turn it into something anecdotal.  If you're  
@@ -673,10 +648,6 @@
 
 >noticed.  That is not in their core.  It's nothing they would want to  
 
->
->
->
->
 >do.  But it's something that we might want to do for CJ.  He knows  
 
 >it's getting sloughed away when he does his reporting process.  Thank  
@@ -780,10 +751,6 @@
 
 >We're going to go into group of three.  If you want to self-associate  
 
->
->
->
->
 >that is fine.  Let's get handfuls of two or three together on a team  
 
 >and grab the green bits off the wall and grab the project you want to  
@@ -893,10 +860,6 @@
 
 >vibration.  Something interesting is happening over here you want to  
 
->
->
->
->
 >go there to get the scoop.  Or a sustained vibration, there is danger  
 
 >there, get away from that.  
@@ -1003,10 +966,6 @@
 
 >disaster helping reporters find sources that were most affected by the  
 
->
->
->
->
 >disaster.  Basing this off something we did last year at Republica.  
 
 >We looked at flood zones that FEMA already created versus where  
@@ -1124,10 +1083,6 @@
 >&gt;So this is a relatively kind of small contained problem that  
 
 
->
->
->
->
 >has a lot of work maybe to solve it.  The problem space is that what a  
 
 >reporter is trying to do is find all the cities that have paid a  
@@ -1230,10 +1185,6 @@
 
 >internal analytics, usually in like a break out time story but have no  
 
->
->
->
->
 >other way of tracking that.  The New Yorker.com got two million  
 
 >uniques in April.  The last time that number was reported was like  
@@ -1338,10 +1289,6 @@
 
 >track of this stuff that everyone in the newsroom is able to see and  
 
->
->
->
->
 >contribute to and view as it's updated and changes.  
 
 >Being able to keep track of how confident we are of the source.  
@@ -1448,58 +1395,4 @@
 
 >them.  And we'll create a GitHub repo.  Make sure someone on the team  
 
->
->
->
->
 >is following me on Twitter.  We'll Tweet out the link.  
-
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->

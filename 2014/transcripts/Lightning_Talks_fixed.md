@@ -1,18 +1,11 @@
 
 >This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
->
 >Captioning by the wonderful people of White Coat Captioning, LLC  
 
 >whitecoatcaptioning.com  
 
->
->
 >Lightning Talks, Thursday night  
-
->
->&gt;Hi, everyone.  You're at the lighting talks.  We've got a lot to do.  I'm just going to assume everyone's here, and if not, since we got limited time, and you know, for sure the short presentations but it's going to take up a fair amount of time.  If you could just look at where you are, who's in front of you.  That would be awesome.  I'm Allen, and this is Katie.  
-
 
 >&gt;Thanks for doing lighting talks.  I'll be timing people.  I'll give you a warning when you've got one minute left, and at five minutes, you're done.  
 
@@ -44,12 +37,6 @@
 >&gt;I don't stand behind podiums.  Little too structured for me.  Am I on time?  So this is going to be super, super fast lighting talk, I believe in the lighting talks.  Good afternoon who don't though, I'm the editor in residence at the D school in Stanford, I've incident last ten months basically figuring out what design is, but prior to that, I was an editor at the Washington Post, it was a ferryifyingly structured job.  Will she and I thought I had made it.  That was my destination.  Editor bring 4:30 goal achieved.  I was a homeowner, my life was stable.  I got an invitation to go to Stanford, to assume this little role of editor in residence.  And I thought okay, I'll take a sabbatical.  An is he balance cat before 40, mission accomplished and I got there and realized, the destination is not enough.  Fly displaced my entire life, moved across the country, and didn't really realize what I had done and can now, I'm going to be in Stanford for another year because I can't imagine just yet going to a newsroom yet.  So I -- now I have no notes.  I have not repaired anything for this speech.  I like to do this with absolutely no preparation whatsoever.  Because I just think it's more genuine that way and it's more fun and one of the things that we really believe in at the D school that you're constantly uncomfortable.  And in that state of uncomfortableness you can give unforeseen.  My job was also to create there is this.  I did it with the help of Sarah Sam son who was actually he or she.  This was her design and I loved doing this and I loved the bluing and I loved the work.  But it's a destination and again, a destination is not enough.  I want to create new tools for story telling I want to create new things I want to introduce how we can tell stories differently and in ways where we meet neurotransmitters where they are in process and not when they're done with process.  So for me, it's like my entire life has been getting from place to place, destination to destination.  I got into high school, I got into college, I even got into graduate school twice.  I got a job, I made a blog but now I want a journey but thousand I hope you guys want to come with me.  If you want to keep to D let me know and I'll be happy to post you.  
 
 
->
->
->
->
->
->
 >What the hell are we doing?  This is Stan.  I'm norma.  So here's what we do.  It's very, it's kind of difficult to explain but there's Stan's raw steno coming up on the screen.  I wish we could quack I wanted to show you a picture and if you Google, steno keyboard layout, it'll tell you what's on the keys.  Rather than typing, it's nothing -- please don't say, "Typings."  We are not typing.  We are writing steno, more like, it's more like writing chords on a piano than anything like typing.  We're writing word-by-word or syllable by syllable, worst comes to absolute worse, we have to write it -- spell it out, you know, letter-by-letter but no, I'd rather die.  Stan is very good.  And Stan -- your jobs this.  But you know, San Francisco can be mobile, he can be in a museum.  What we -- we normally do this for deaf and hard of hearing people.  So, we, you know, this is opening up doors for a lot of people who want to go to museums, who've been hard of hearing, have not been able to understand what the presentations say.  Stan does this sort of stuff.  I don't.  I just sit in my little chair and do my thing which is enough.  When I interviewed Stan, I had a string of ugh, abysmal interviews of just really bad interferes, and uber, they either -- interferes and they either had something wrong with them, and it was either personality but mostly it was skills.  
 
 >[ Laughter ]  
@@ -195,7 +182,6 @@
 
 >Shit...  
 
->
 >&gt;So while that warms up, so I work at a newspaper.  And we have a problem of actually publishing the stories that we've worked on, like, how do we get our interactive projects onto S-3 which is a weird problem because it's a very simple way to think.  It's not a like a rails app where you have to have this system but we have this issue we're publishing all these flat projects and we want to make sure that exactly what's published is exactly what's on our GitHub repo and it's all synced up and all that.  So I built this thing called kestral and I want to talk about it because I want to see if it's helpful to other people and it has some bugs in it, and I wanted to see we wanted to work on it.  So here's your website.  It looks like this.  It was loaded on, like, local host.  It looks like that.  There she so what you do, all the commands start with swoop 'cause it's like a bird that watches your repo and when it changes, it reflects your changes.  So it has a few components, so you go like swoop in it, and then that will create a GitHub repo.  This was here, like, on a-jam kestral test.  So we have done this before.  And now it exists and it's empty and it created a web room.  So we're going to have, like, a server that's going to watch this GitHub repo and then update changes and so we have initialize git, so it initialized repo.  It set the origin to the thing.  And it's repeated and repeated.  And once it pushes we create the search here.  There she so let's just add everything and do init and then we'll push here.  Wait for that to go.  So you can see it's all here.  And the second part of it, so that's like the can liner face.  There she so the second part of it is, the server you have here running.  Pay no attention to the IP address.  It's behind a and you can check out, like, my branch, any commit level.  Pretty informal.  If you then wanted to publish it, you would do swoop, deploy -- spell it correctly.  And it would ask you, like, if you wanted to go to the staging server, or the abrupt server, it goes to, like, different s-3 buckets.  Staging particular so you can either do syncing or overwrite.  So something's wrong with the S3 server and then you do sync.  So how it works it reads the commit messages that it pushes to GitHub for a particular string that you set and if that sets.  It syncs it to s3, and if not, it's just just a normal commit,.  
 
 
