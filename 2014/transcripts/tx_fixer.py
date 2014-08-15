@@ -1,23 +1,22 @@
 import os
 
-filenames = [f for f in os.listdir('.') if f.endswith('.md') and not f.endswith('fixed.md')]
+filenames = [f for f in os.listdir('./raw_originals/') if f.endswith('.md')]
 
 for filename in filenames: 
     out = ''
-    with open(filename,'r') as infile:
-
+    with open('./raw_originals/'+filename,'r') as infile:
 
         for line in infile:
-            line = line.replace('\r\n','  \r\n')
+            line = line.lstrip().replace('\r\n','  \r\n')
+            
+            for gt_marker in ['>','>>']:
+                if line.startswith(gt_marker):
+                    line = '\n>&gt;'+line[len(gt_marker)+1:]+'\n'
 
-            if line.startswith('>>'):
-                line = '\n\n'+line[0]+'\\'+line[1:]
-            # if line.startswith('['): 
-                #line = line.replace('[','  \n[')
-                #line = line.replace(']',']  ')
-
-
+            #     line = '\n\n'+line[0]+'\\'+line[1:]
             out += line
+
+            
 
 
         new_filename = filename.split('.')
@@ -26,7 +25,3 @@ for filename in filenames:
 
         with open(new_filename,'w') as outfile:
             outfile.write(out)
-
-
-        if filename.startswith('z'):
-            os.rename(filename,filename[2:])
