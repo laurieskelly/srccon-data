@@ -1,16 +1,27 @@
+
 This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+
 Captioning by the wonderful people of White Coat Captioning, LLC  
+
 whitecoatcaptioning.com  
+
 SRCCON 2014  
+
 Session 20   7-25-14, 1100-1200  
+
 Franklin 2  
+
 "Make your own security blanket"  
+
 Session leader(s): Jeff Larson  
+
 --  
 JEFF:  So I'm Jeff Larson, I work with ProPublica.  I have been living in -- let's just say -- sort of a high-security lifestyle for a year now.  Last June, a bunch of very nice British gentlemen came to our offices and asked us if we wanted to work on the Snowden story to which I freaked out because I didn't know how to communicate securely.  About two months before that, my boss and I spent a week setting up PGPT keys.  And funny story.  Klein, who's my boss, he has two PGPT keys because he forgot the password to the first one.  He is the smartest guy in the whole entire world.  Like, he knows Perl.  So he has a PGP, and he also forgot to generate a revocation certificate which is a thing that you have to do to take down a key.  So now, he has a permanent key that he can't use.  And a lot of people email him.  So I want to talk about that situation, right?  
+
 I carry around two laptops.  I got an extra one here.  And it's a pain in the neck because, you know, it's a pain in the neck to use these things.  So two nights ago, there's a security tool that I use, and Bart Gellman uses, a tool called Tails which we'll get into but I want to whine about it, first.  Two nights ago, you know I learned that there was an upgrade for Tails and my wife and I came back from a lamaze class, and maybe have an nice night but I said, "No, I'm going to upgrade Tails."  I stay up until 2:00 in the morning trying to fight this stuff.  So it's really important to me that these security tools steal your life, right?  Everything that's easy -- everything that you do right now is easy and automatic and like, you don't have to worry about it but once you start reporting in -- you know, it doesn't have to be on the student stories.  If you're talking to people in war zones, or even if you're working on a story that might be under a threat of being subpoenaed, this kind of stuff might happen.  So that's just kind of the overarching theme of this talk, is that security's too hard.  I'm going to show you a bunch of tools.  But, you know, maybe start thinking about, like, as I go through all these tools, start thinking about if you've ever used any in the past, ways in which they were, like, hard to use or difficult to use, or not fun.  If you haven't used any in the past, please, by all means visit the websites and visit the websites as I go through them and think to yourselves, "Could I figure that out?"  And if the answer's no, then that security tool's a failure, right?  If you haven't used some of the tools, visit the website.  Try and figure out if you could figure it out.  And how long.  Try and budget it because at the end I want to do this sort of experiment where everybody goes through and says, "How many hours would they have to devote to, you know, having a second laptop and doing everything securely?"  So we're going to start with security tools.  Then we're going to do -- I'm going to do, actually, a fun example of how cryptography works.  We're going to talk about elliptic curve exchange because we're at a programming conference and everybody should at least know the underlying protocols.  And it's really easy, so don't worry about it and then we're going to talk about slow crypto, you know, this idea that you -- you can do it yourself.  You can also write in routines and then figure it out.  And then we're going to circle back and talk about how.  So first things first.  Throw out, can people start throwing out security tools that they've heard of?  So we've already talked about one which is Tails.  We're talking about that a little bit.  But anybody else?  
 
 >&gt;Keybase.  
+
 
 
 >Keybase is more of a directory server.  
@@ -97,6 +108,7 @@ JEFF:  -- signed and encrypted with your key.  Now the problem with these things
 >&gt;Should you ever upload your private key to a key server?  
 
 
+
 >No, no, never, ever.  Your private key, you shouldn't ever even look at it.  It shouldn't even be in your brain.  So your private, that's the other problem, if I have one computer and there's a problem that MiniLock's trying to solve but if I have one computer with keys on it, and another computer with keys on it I have to, like, merge those somehow, so there's, like, this really complicated way of extracting keys and putting them on a different thing, and you don't want to send them over the network 'cause you're going to say, I guess, and then you don't want to email it to yourself.  That sort of thing.  
 
 >&gt;So does that mean that you should have an different one for work than for home or?  
@@ -117,6 +129,7 @@ JEFF:  That's, like, the other people other thing.  Now you're putting a whole s
 >&gt;Is it important to understand because I know when I created a couple of different keys I can create more complex keys by redoing the math so is that important to understand at all?  
 
 JEFF:  So how many people have set up https on a web server?  This is the same sort of thing if you use RSA keys.  How did you -- did you read, like, the manual page on how strong to make your keys?  There's, like, a manual page and you have options because computers get faster over time.  So, finding out a secret key from a public key just requires a lot of math and there are fancy algorithms for that that you can brute force.  And there are options, right?  So this is another reason.  How do I know how big my key should be?  This is another thing that you got to do a little bit of research.  There's 1,024 bit is I think the smallest that you can make if you're making RSA keys.  But, this is no longer considered secure by NIST, so anything greater than 1,024 because it goes by the number of bits that you add, it's an exponential curve for breaking it.  So if you do 2,048, you'll probably be fine for a very, very long time.  If you want to be fine until the stars die and the oceans collapse and, you know, the universe shrinks in on itself, assuming we don't get quantum computers, you want to do 4,096.  Anything bigger -- Mike Tigas has -- I love Mike Tigas obviously.  He had a 16,000 key, and again steals your time.  It takes 15 minutes for him to encrypt an email.  And he has a supercomputer sitting on his desk.  So, you know, that's, um, kind of how it steals your time.  
+
 So OTR.  So does everybody know what we're talking about when we talk about OTR?  Anybody not know?  
 
 >&gt;I don't know.  
@@ -177,6 +190,7 @@ JEFF:  Ask them, hey, Ryan, what did we do at NICAR last year?
 >&gt;So there's no signing?  
 
 JEFF:  Well, you could do the fingerprint verification, but do you know what fingerprint verification is?  Hey, are you Ryan Pitts?  That's not technically true -- this is so crazy to me but we're talking about, like, somebody who owns the network, right.  There can technically be, like, somebody, there can be a guy in between you -- this is Alice, Bob, and Mallory is what people like to call him.  It sounds like a band name, right?  He can be sitting in between and intercepting Bob's messages, transmitting them to Alice.  So that's why the fingerprint is there.  You know?  You call him up on the phone and say, hey, what are your numbers, what are the numbers underneath your name, or Cryptocat actually chooses colors.  I'm not entirely sure.  I know my wife had a little bit of problems when we were chatting on it, verifying via colors.  So I think he might have changed it so that they're colorblind-safe but that's actually a great way so that the read-off is not a string of numbers.  You just say, beige, light purple, and there are four or five different things.  Cryptocat is great.  If you Google search it, a lot of people beat up on him because he was sort of outside of the security community, I think for political reasons.  And it's written in Javascript and a lot of people are, like, oh, man, Javascript crypto, but you know, it's browser-based crypto that's bad.  It's that website that does AES encryption on a web page that you go to that's not https, served over https.  It's not Javascript crypto.  So code stuff.  So Cryptocat started as, um, as a website and then he made it a browser plugin that you download and you can put in Chrome, basically, essentially.  There's a standalone version essentially, too.  But that goes through a verification process and the code is signed, just like how you sign your email.  So you're guaranteed to get a sort of verified program that you run on your computer.  
+
 MiniLock is coming out in two weeks, currently undergoing a security audit.  It's beautiful, wonderful code.  It is GPG encryption without the mess.  So you boot up MiniLock, and you log in, and you type in your password and then it generates these key pairs and then you can encrypt and send a file to somebody.  It's beautiful and amazing.  And Pond, pond is, um -- it took Mike Tigas six hours to set up Pond, so let's not talk about it.  Pond has to run over Tor, it runs on Tails.  Basically if you want to talk to yourself, or me, you can get on Pond but I wouldn't do it.  If I had to do it -- yeah... all right.  
 
 >&gt;Jeff, what about TrueCrypt?  
@@ -277,6 +291,7 @@ JEFF:  So at the outset I asked how many people clicked okay on the cert error. 
 >&gt;Right.  
 
 JEFF:  You know?  And why you want to use this tool instead of um, Skype, or something.  Did we run...?  Sorry guys, I talked far too much and didn't let you guys climb in enough.  But I'm -- chime in enough.  But I'm Jeff Larson, and I'm ProPublica and I think we're...  
+
 [ Applause ]  
 
 >&gt;Thanks, Jeff.  

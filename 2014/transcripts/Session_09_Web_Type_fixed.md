@@ -1,11 +1,20 @@
+
 This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+
 Captioning by the wonderful people of White Coat Captioning, LLC  
+
 whitecoatcaptioning.com  
+
 SRCCON 2014  
+
 Session 9 7-24-14, 1230-1330  
+
 Garden 1  
+
 "Using web type: pitfalls and workarounds"  
+
 Session leader(s): Allen Tan  
+
 --  
 
 >&gt;Okay, so I guess we can start unless people are still coming in.  Can you close the door?  Cool.  I didn't expect so many people to come.  So this is awesome.  So, I'm Allen.  I work in Digital Design for the New York Times and one of the biggest things that we did in the redesign over the past year was we migrated all of our fonts that we were using in print and putting that online and we were -- we had for years, been using them in a couple of small places but this was kind of the first time that we deployed it site-wide.  And it seemed like from seeing a lot of new sites redesigning in the past year or two, everyone has been shifting to web fonts.  So I guess it would be good to just sort of talk about, you know?  Have people worked with them before?  Are there problems that you've run into.  Are there things that you wish that you can do that you can't do now?  So I guess, first of all who works at a place whose website uses web fonts?  So... good.  Good proportion.  Does everyone use Typekit?  Do they use Fontdeck?  Webtype.  
@@ -15,6 +24,7 @@ Session leader(s): Allen Tan
 
 
 >&gt;Do you roll your own stack?  Okay, cool.  Yeah, so I think that's one of the first things we're going to talk about, is just five years ago, Typekit was a really innovative thing and they really worked to standardize and support cross browsers but we have been, at least in the Times, we've been finding that they're not super responsive to the needs of a news organization where you have, you know, your set of five fonts that you're going to use and you don't need their entire catalogue.  And browser support has gotten good enough that we don't really need to pay a service every month to do that.  So I guess one of the things to talk about is just like, is there an ideal solution now where you can roll everything in CS and use font face?  And also, what does that mean for performance and what do you do when you're loading web fonts on mobile, and you don't want that to block the rest of your page from loading?  But, that type of stuff.  So I think -- yeah, the main things that we're going to try to do is sort of break -- there are three tables and we're going to have three different topics to talk about.  And I think just, like, move to, like, the table that you're interested in, and we'll talk about it at the end.  So the first one is, yeah, "What does an ideal webfont tech stack look like?"  "How is browser support?"  "What does that look like?"  "Should you only use CSS support?"  "Do you use a JS loader?"  What does that mean for caching and performance?  And what does that mean on mobile web?  So, I... I'm going to move this on this table since you guys have already set up.  You will work on your own stack and then people can talk about that if you're interested.  And then, next question was how many of you work on, like, special graphics or interactives, and use type in that sort of scenario in, like, one off custom solutions?  Okay, cool, so a lot of people.  So, the next thing just sort of like, what is your wishlist on things that you wish you could do dynamically in Javascript?  Like, could we have proper justification?  Could we have hyphenation?  Could we have proper kerning?  Things like that.  And then the last one is just general problems that people have had in using web fonts.  You know, do you have rendering problems across different browsers, across different OSs?  And do people create icon fonts?  Do any of you use those?  Okay.  Awesome.  So, I think that's kind of, like, the third topic -- it's kind of a grab bag and I'll just put that in the middle table.  So there are Sharpies, Post-Its on the tables.  So feel free to start.  
+
 
 
 >[ Discussion ]  
@@ -122,6 +132,7 @@ ALLEN:  Right now, we're selling Typekit and it's everything.  And we never had 
 ALLEN:  Cool, well it seems like a lot of people have very solution-specific questions.  So I'm glad that we had that there.  And if you have any follow-up things, just talk to the person, or stick it on the back.  Thanks, guys.  
 
 >&gt;Thank you.  
+
 
 
 >[ Applause ]  

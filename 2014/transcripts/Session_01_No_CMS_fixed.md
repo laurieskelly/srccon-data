@@ -1,11 +1,20 @@
+
 This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+
 Captioning by the wonderful people of White Coat Captioning, LLC  
+
 whitecoatcaptioning.com  
+
 SRCCON 2014  
+
 Session 1 7-24-14, 1100-1200  
+
 Franklin 2  
+
 "There is no CMS"  
+
 Session leader(s): Matt Boggie and Alexis Lloyd  
+
 --  
 
 >&gt;Hi, everyone.  Good morning.  Hi, everybody.  We're going to start.  
@@ -62,11 +71,14 @@ Session leader(s): Matt Boggie and Alexis Lloyd
 >&gt;So we have a couple of hypotheses about why this breaks.  And the fundamental problem here is that we build these as monoliths.  These are big, centralized systems that are trying to do too many things at once and like any kind of, all-in-one solution.  Like anyone here who's bought an all-in-one printer, it never does any of the individual things particularly well and by building all these things into one big monolithic centralized things, we also make it inflexible so that it can't adapt and change as organizational needs change.    
 
 
+
 >And so, there's a list up here of that, you know, you could probably make, you know, three poster-sized things with more on there but this is an initial list that we made of, like, the different kinds of things that CMSs often are trying to do from text editing so asset management.  So workflow tracking, so archiving, and SEO, and publishing, and all these different tasks.  And it's trying to do all these things at once and, as a result, does in them really well -- none of them very well.  So our hypothesis is that we need this not this.  We need not a monolith, but all these different tools.  We have tools for all these different things.  Everyone has a text editor they like.  People who work with photo editors, there are tools they prefer to use.  There are SEO tools that people prefer to use and on and on and on.  So the question is, why do we need CMS tools?  Why can't we enable people to use the best tools available for each task and allow those tools to collaborate or communicate through a very minimal piece of tool or centralization?  And that system should be modular and flexible so that it should allow for the rapid adaptation that we need.    
+
 
 >And so we've been thinking about this.  This is our hypothesis at a high level:  Is that, rather than one centralized thing we need a set of pieces loosely joined.  But there's still a bunch of questions that that brings up about, you know, what is the minimal amount of stuff that you need to hold these things together.  Like, what is a CMS?  Why do we need it?  What would a not-CMS look like, and also what does that imply for the rest of the organization?  So one of the interesting things that butted up against in a lot of the arguments that we've been having in our review lab about this is -- our questions about, this is kind of where technical design and organizational process butt up against each other and there are these really interesting places where one influences the other.  
 
 >&gt;So how many of you know about Sorites' Paradox?  So Sorites is Greek for "heap."  So starting from bad principles, you can ask questions, here's a pile of sand.  If I take a grain of sand away is it still a pile?  Yes, so if you use a mathematical proof to that, one grain is a pile, negative grains are in fact a pile, so we don't buy that at all.  So there comes a point semantically, where the "pile" stops being a "pile."  If that's our pile, and that's our list of stuff, and another page of two of stuff is a pile as well.  Is CMS -- what is the minimal amount of stuff that we can create that stitches all these things together that maybe isn't yet considered a pile?  What would that look like if I'm editing using something like Sublime Text, or I'm measuring my photos in Lightroom, or Aperture?  And like Alexis said, that stuff is an organizational process.  So knowing the room here, we've got technologists, we've got writers, organizational people, people who have been through the system.    
+
 
 
 >So this really is the task that we're set up with today:  How do we take that heap and break it down into something so that it is down into something so that it's quasi-recognizable, but maybe knowledge still considered a pile.  So that's what we're going to do.  It's 11:15 so what I wanted to do was take about 20 minutes, circulate through and start talking about this hypothesis to see if we agree with it, to see if there are additions we want to add to it.  And start to think about the nitty-gritty on how to implement this.  So what are the alternatives that you can develop to having the one centralized system?  Is it possible to allow or facilitate the use of preferred tools?  And in this case, you might go down the road of choosing one and building a buttress to it.  Or you might allow for an architecture that allows lots of things to talk to other things.  And if -- so if you can do that, what is the minimal amount of centralization that's required, organizationally, and technically, to actually create a product?  And as you go through this think a lot about process and the technology that you would to glue that together.  But perhaps, more importantly, as you do this as a group, closely document the assumptions that you're making.  What is it that you're making?  Is it a site, is it a paper, is it a mobile web app, is it all of those things?  What are your assets?  Who are your users?  What are your outputs?  
@@ -75,6 +87,7 @@ Session leader(s): Matt Boggie and Alexis Lloyd
 
 
 >&gt;How big is your organization?  We're going to go around from table to table at the end talking about the solutions that you've outlined, and start potentially focusing on holes in them.  What if you were to add a new product on?  Or what if you suddenly merged with another company, how would you get around some of those kinds of questions, both organizationally and technically, logistically?  We've got a lot of people standing up in the back and open tables up front.  And as best you can, try and get into -- I guess we'll have an sixth table -- wherever there's a table, there's a group and there'll be a "tableless" nexus group of people back there.  Alexis and I will be circulating around the room to answer sort of logistical questions.  It's a centrally open ended activity and I hope you title as a challenge rather than a fear-based thing.  So you can define this as best the team has the skills to do.  As technical as you want, as organizational as you want.  Any questions before we go?  Really?  That made sense?  Awesome.  Great.  Break into your groups and start.  If you need supplies we have Post-Its over here.  
+
 
 
 >[ Discussion Groups ]  

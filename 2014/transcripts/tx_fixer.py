@@ -43,7 +43,7 @@ for filename in filenames:
                 # if line.strip() == '--': 
                 #     out_of_header = True
 
-                # line = '\n'+line
+                line = '\n'+line
 
             #     line = '\n\n'+line[0]+'\\'+line[1:]
             out += line
