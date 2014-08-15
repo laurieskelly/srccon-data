@@ -31,9 +31,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >&gt;So what we're going to do, we're going to get everyone into five groups, so we've got five tables, but any of you guys in the back sort of join in that table there, and everyone will get a topic to talk about for about ten minutes or so, basically for you guys to talk about whether you have you've -- once everyone has talked about it in groups, we'll bring it back to the larger group, so each group can present what they were talking about, so maybe you can write on the sheet and add some more detail, but the hope is there might be someone who sat over there who is a great idea about testing so I want to bring it back to the group as a whole so they can still manage to give out an answer.  Who wants to talk about desktop versus mobile.  I'm just going to start assigning them to you, then.  There you are, guys, desktop and mobile layout.  
 
 
-
 >[group activity]  
-
 ... ... ... :  OK, about two minutes left.  Maybe start thinking about one person per group who's going to talk about what you've been talking about ... :  
 
 >&gt;OK, everybody ready to wrap up and talk to the group?  All right.  No, what I mean is you are ready to talk to the group.  All right, well, what's what's up with you guys?  
@@ -153,7 +151,6 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >&gt;Yeah, the solution out of this is that people should not use mobile:  
 
 
-
 >[laughter]ra, so I mean we just complained about it, I don't know how much more there is to say.  
 
 >&gt;It's group therapy, it's cathartic, you can just let out.  I know we've got a couple of people from NPR here, I don't know if you guys work very much with the audio stuff.  
@@ -210,7 +207,6 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >&gt;Statistical outlier.  
 
 
-
 >[laughter]  
 
 >&gt;Who's got a blackberry.  
@@ -223,7 +219,6 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 
 >&gt; 
-
 
 
 >[laughter]  
@@ -268,7 +263,6 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 
 >&gt;Not like robot fingers that.  
-
 
 
 >[laughter]  
@@ -361,7 +355,6 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 
 >&gt;We find a bug and then it's low priority and then.  
-
 
 
 >[laughter]  

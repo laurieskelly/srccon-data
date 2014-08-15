@@ -16,11 +16,8 @@ Franklin 2
 Session leader(s): Chris Chang and Andrew Nacin  
 
 --  
-
 ANDREW:  All right.  Welcome to "We Need To Stop Fighting The CMS:  A Round-table Discussion."  Like all of these sessions, my name is Andy Mason.  I'm one of the lead developers for WordPress, which you may know.  So I come with a background from someone who builds software but also has been in the newsroom.  
-
 CHRIS:  I'm Chris Chang.  We have our own in-house CMS based off of Django, and so I support users next to me as opposed to millions of years...  
-
 ANDREW:  I prefer not to see them -- don't write that down!  We're going to start.  I think we'll start really quickly with some introductions because we kind of -- especially since this is not a huge group, which is good -- just a very quickly who you are, where you work, what do you use in your system, whether it's home-grown, or something else -- Django, or whatever.  And what you do?  In my case, Andy Mason, WordPress, and I build WordPress.  So -- but if you guys -- if we can all just do that all quickly and if you're a developer versus a user I think that will help a little bit.  We're going to start over here?  
 
 >&gt;Sure.  I'm Matt Perry, I work at Automatic and I use WordPress and I help a lot of other developers with WordPress, too.  
@@ -31,11 +28,9 @@ ANDREW:  I prefer not to see them -- don't write that down!  We're going to star
 
 >&gt;I'm Matt, I'm currently an independent.  I don't have a -- I'm non-denominational as far as the content-management systems including WordPress but I don't have a particular favorite.  It might be WordPress.  
 
-
 ANDREW:  To be clear, I don't want this to be a WordPress talk.  
 
 >&gt;Neither do I.  
-
 
 ANDREW:  Actually, I warned all the WordPress people here who are here to not use the word, if they can.  
 
@@ -44,14 +39,12 @@ ANDREW:  Actually, I warned all the WordPress people here who are here to not us
 
 >&gt;You screwed that up right away.  
 
-
 ANDREW:  Just to get an idea this is about fixing some of the bigger problems that we're going to go through.  
 
 >&gt;I'm Ed, and I newly joined the Washington Post, and the Post uses Method as well as other tools that have been built in-house.  
 
 
 >&gt;Django a little bit.  
-
 
 ANDREW:  Python?  
 
@@ -62,7 +55,6 @@ ANDREW:  Python?
 
 
 >&gt;My name is Aaron Jordan I'm a technical architect at Conn/Mass.  I pretty much use a popular CSS based -- of which I'm also a core contributor.  Yeah...  
-
 
 ANDREW:  Next... he's a developer.  
 
@@ -92,7 +84,6 @@ ANDREW:  Next... he's a developer.
 
 >&gt;I'm Daniel, I do WordPress stuff.  That's it.  I want to use a different CMS.  
 
-
 ANDREW:  Dude, I'm with you.  
 
 [ Laughter ]  
@@ -111,7 +102,6 @@ ANDREW:  Dude, I'm with you.
 
 >&gt;I'm Casey.  I use a custom Django CMS as a copy editor of Source, which Ryan Pitts built and I have also built a lot of small sites on things like Stacy and Jekyll.  And also I like, and also work for Out Of Its Books as a designer/developer/producer which is a hulking custom CMS.  
 
-
 ANDREW:  Cool.  
 
 >&gt;I'm the last one?  I'm Holman and I'm the Chief Development Officer for Search Property and we develop our content management platform called Superlative (phonetic).  It hasn't been released yet and I guess it's going to be soon.  And it's different than WordPress in the sense that it's targeting more, like, news agencies.  Like, we are developing actually with Australian WordPress.  It's a Python-based --  
@@ -119,26 +109,21 @@ ANDREW:  Cool.
 
 >&gt;I'm David, I'm at Box Hound.  And just recently we did Edittorily, which was not a CMS and our fingers are now -- our fingers and eyeballs are now looking at Corks which transcribed it.  
 
-
 ANDREW:  Cool, so the way that we kind of want this to go is, there are, as you can see, there's this really elegantly-done thing that Chris did up on the left.  A really terrible thing that I did on the right.  The one on the left is questions that were -- that we want to think about.  And we'll get to that in a moment.  The thing on the right though is the exact same list.  Who was here at the Friday session yesterday morning -- or Thursday session?  A number of you.  So next door, New York Times RND folks did this really nice talk basically about this but we want to take it a little step further.  They only had about an hour and a lot of it was defining some of the problems which we also want to do but we actually want to go beyond that and actually come up with some solutions so we're going to see if we can find any missing topics here and also we're going to try and maybe tally other things that have been mentioned in the form of maybe some rants that people can throw out.  Things like we need to stop fighting the CMS first.  We need to yell at it for a little bit.  So maybe one or two sentences.  We can just kind of shout these out or go around for something that kind of really bothers you and needs to be fixed.  It can be kind of one of the things that's already on here.  We'll group as we go.  Hopefully his handwriting is better than mine.  So if anyone wants to start or I could -- anyone?  
 
 >&gt;A failure to lead us away from, sort of print traditions and creating our own traditions for the web.  
-
 
 ANDREW:  Failure to lead us away.  
 
 >&gt;Print-centric.  
 
-
 ANDREW:  Print-centric, that is a new one.  
 
 >&gt;That works.  I'm for that.  
 
-
 ANDREW:  What else?  
 
 >&gt;Previewing.  Previewing content before it's published.  Previewing changes before they get shared.  Previews around in an easy way.  
-
 
 ANDREW:  Okay.  So that also gets into collaboration a little bit, as well.  I can also add another piece of that would be WYSIWYG.  And sometimes actually the preview experience isn't the best experience for writing actually, either.  
 
@@ -150,7 +135,6 @@ ANDREW:  Okay.  So that also gets into collaboration a little bit, as well.  I c
 
 >&gt;Your big screen?  
 
-
 ANDREW:  All of those.  
 
 >&gt;Google Glass?  
@@ -161,14 +145,11 @@ ANDREW:  All of those.
 
 >&gt;Responsiveness?  
 
-
 ANDREW:  Responsiveness?  
 
 >&gt;So having responsive content and being able to target based on.  
 
-
 ANDREW:  And beyond responsive is content.  We have these monolithic systems that produce monolithic product.  It makes it hard to have things that are adaptive.  This is similar to the design thing that's up there and similar to print-centric but the interface that you interact with is database riven.  It looks the way the data is structured on the storage level rather than, necessarily how you would intuitively --  
-
 ANDREW:  So a lot of this may be the interface being too cadgy?  "Cadgyness" might be a word to --  
 
 >&gt;But where the data needs to go on the storage level?  
@@ -178,7 +159,6 @@ ANDREW:  So a lot of this may be the interface being too cadgy?  "Cadgyness" mig
 
 
 >&gt;Yeah, the UX in general.  
-
 
 ANDREW:  Well, obviously UX is a whole another ball game, too.  Anybody else have user complaints for CMSs?  I'll be honest, does anybody like their CMS?  Anyone?  
 
@@ -214,11 +194,9 @@ ANDREW:  Well, obviously UX is a whole another ball game, too.  Anybody else hav
 
 >&gt;And I mean, "liking it" is many different things.  You might like writing in it or developing on top of it, but you might hate developing it in general.  
 
-
 ANDREW:  Well this brings up a really good point in general.  These aren't really much problems as much as what CMS needs to do.  Ironically, those two are the same but we've been talking about roles, writing, developing.  A lot of this -- I mean there was something that was written here yesterday on user privileges which doesn't really get at it.  Really, Yuri was explaining this to me earlier today but it was more about role or use contexts.  Not even use -- if you're a writer versus if you're a copy editor, versus maybe an assignment editor, or a developer, or an art director, or maybe a photographer, or that side of a designer.  There's so many ways to interact with it.  For the most part, CMSs only pick one.  I mean, a lot of them will focus on maybe the developer-specific aspects of it, on the ease of maybe getting things together.  Others will focus more on the user-centric aspects, the writer-centric aspects and it really opens up a can of worms when it has to be ease of use for five or ten different roles.  
 
 >&gt;I was going to say that I feel whenever CMS is built, there's an idea that there is a workflow in newsrooms that goes from the person who produced the work to the copy editor to the other editors and that there always needs to be a place for each of those roles to exist and in the wild that remains to be seen.  So what I think happens with news apps now is that they're outside of that process so there's a lot of content that's in news apps that's not going into that process because it's not inside the CMS.  
-
 
 ANDREW:  So why isn't it inside the CMS?  And you were getting at this as well.  It's too painful to do.  You have this issue where it's like, "Oh, well, do I have to either the this content here, and design a custom template."  It's easier to spin up a separate thing because it's not monolithic.  And then this came up yesterday -- then the content needs to be edited, and how does that work?  Well, it's in this flat HTML file here.  And a lot of the one-off that happened and the usability issues around that.  
 
@@ -227,14 +205,12 @@ ANDREW:  So why isn't it inside the CMS?  And you were getting at this as well. 
 
 >&gt;Does it get work for copy editors, though?  
 
-
 ANDREW:  It tracks their changes well.  But again this is about the roles -- is that the best experience for writers?  
 
 >&gt;Not currently.  But I think the protocol could work.  You could build something around git that would work.  
 
 
 >&gt;But does the model work?  Does the writer brain -- the copy editor brain function in the way that the git model actually functions for that?  
-
 
 ANDREW:  And can you build around the repository as if they were working with another system?  
 
@@ -252,16 +228,13 @@ ANDREW:  And can you build around the repository as if they were working with an
 
 >&gt;Well, even within an organization, there are all these different ways that people work.  I mean the work that -- the beginning-to-end workflow exists in some places where there really is a finite endpoint that goes out, and that's the article of record for the moment and other times it's like, well you should go back and reopen that file instead of publishing that one, and go back and change things -- have to maintain things.  And there are often things that are really lightweight that maybe the bloggers go straight to publishing but maybe other things that are considered more organizational.  So even the concept of a workflow is tricky because it's different all over.  
 
-
 ANDREW:  Question:  Does everybody kind of avoid asset management, entirely?  
 
 >&gt;What do you mean by that?  
 
-
 ANDREW:  Like, does everyone kind of assume that asset management will always be terrible at a management level?  
 
 >&gt;What do you mean?  Define the term.  
-
 
 ANDREW:  Dealing with photos and videos in some kind of structured manner versus "I've just hard coded this and I'm done."  I don't even know if this has been used or referenced.  This was kind of an ongoing problem.  We were talking about Chorus and we were thinking that it was probably one of the weaker pieces of the system.  I would argue one of the weaker pieces of any of the systems out there.  
 
@@ -279,7 +252,6 @@ ANDREW:  Dealing with photos and videos in some kind of structured manner versus
 
 >&gt;I think vocabulary is tough but I think we call it "platform."  
 
-
 ANDREW:  We call it "platform."  That's as far as we go.  
 
 >&gt;And sometimes not even publishing because sometimes they call it "content story."  
@@ -293,11 +265,9 @@ ANDREW:  We call it "platform."  That's as far as we go.
 
 >&gt;Yeah, I feel like the whole conversation about people wanting different goals is why everything's so segmented anyways, and the wrangling piece is, how am I going to get my photos for my partner, or for the photo desk or the copy editors, and search in their own world?  And maybe the problem isn't "maybe we need one pool" or it's --  
 
-
 ANDREW:  Well, one of the big things with the wranglers yesterday was the term "monolithic."  That word came up about ten times describing what most platforms are.  At the same time, the issue is that maybe there's this one monolithic thing.  There's this asset management thing over here or whatever people are managing through.  
 
 >&gt;That's a job like wrangling all that content from all those disparate areas.  
-
 
 ANDREW:  But part of the proposal is, in many cases, build these individual silos and then tie them together.  
 
@@ -309,21 +279,17 @@ ANDREW:  But part of the proposal is, in many cases, build these individual silo
 
 >&gt;-- do you want to do it?  
 
-
 ANDREW:  Anybody else have, like, one-sentence rants?  The longer ones are fine --  
 
 >&gt;They were compound sentences.  
-
 
 ANDREW:  -- because we've already covered a lot.  So here's the idea.  The idea is after this we can break up into anywhere from groups in between, like, five and ten.  There's five tables here but it doesn't really matter.  Ideally, focus on one major area that is a problem whether that is talking about maybe more generally, like, how can we redefine what a platform or a CMS actually is?  Or more specifically -- I mean, some of the stuff that we didn't even go near would be archiving, which is very unsexy, but there's a lot of different issues there.  I mean, as an example for archiving we deal with, okay, well some of it is long term static stuff.  Some of it is short term stuff.  Some of it is dynamic news apps but then also maybe you have the issues of news dips and how does archive have to do with archiving changes?  And you get into revisions and then version control and then it spirals from there.  So what we want is to spend, ideally, maybe like 15 minutes on two different parts in groups.  The first part would be the left side which we would essentially be evaluating.  Pick the best implementations out there.  If you're doing purely revisions, it's probably going to be Editorially.  The next step would be, like, what makes them good?  So actually describe them.  So why is Editorially better than any other implementations that you've seen?  Maybe if it's not implementations, you could talk about something else that you've experienced.  The next one is, what's missing?  As something as vision is, what should it be doing that it doesn't do other than "it's not working anymore?"  And then the last piece would be, like, how to actually integrate.  This kind of goes into the perspective of, okay, we had this one implementation, how does it need to interface with other aspects of the system?  Revisions, of course.  I was just getting into how it goes into archiving, and maybe publicly displaying those.  Or this idea that you have to expose those and maybe potentially you might have to merge a few revisions together for public display, almost like rebase, or squashing commits on git, or narrating messages that normally editors would never do or think about.  But maybe a narration to a change is a correction to that whole story.  The second piece of it is recommendations and ideally mixed with what the recommendations could be is actually coming up with, not necessarily a spec, but what the best practices should be in this area for what needs to be built.  Talking about, like, ideally drafting a plan to go forward and starting to come up with, like, specific solutions.  And specifically, like, what can be built in this area, whether that's a WordPress plug-in, or a standalone system, or a prototype, if it doesn't exist yet.  It's like, what can we actually do to make this better?  And also the third one, there is also best use of money and effort.  Where is the time best spent?  Where is the money best spent?  I mean, we can talk easily about something that never even came up at all.  By the way is anything related to user comment?  Comments, discussion, anything like that?  And you guys probably know about the $4 million currently being spent.  
 
 >&gt;They got that covered.  
 
-
 ANDREW:  They got that covered.  Problem solved.  But honestly, where is the money?  Where is the time best spent on how to make editing better -- what concrete thing that no one's really done well to make that experience better?  Does that mean like mediums interface for everything or does that mean everything along those lines, as well?  Does everyone feel comfortable with that?  We can pick and randomly assign these and put you in groups but I think it might be better if everyone stands up in a moment and maybe starts talking about forming different groups.  Three people forming to talk about SEO because that's what they want to do, that's fine.  I'm just kidding.  SEO joke.  We don't care.  But beyond that, though, if someone really wants to talk about, like, assets and by that I mean "photo management" then we can get into groups.  
 
 >&gt;Can we boil it down from the list?  
-
 
 ANDREW:  That's kind of the idea -- the big ones I would imagine.  A lot of these are similar.  Collaboration is really big if only it gets into revisions and tracking, and comments among users and things like that.  I would tend to think that text editing and more larger, writing, is a big problem.  It certainly seemed like assets is a whole issue, maybe in terms of how it's defined.  Of course we didn't even really talk about workflows.  Editorial workflows which is another big thing.  
 
@@ -332,7 +298,6 @@ ANDREW:  That's kind of the idea -- the big ones I would imagine.  A lot of thes
 
 >&gt;What do you mean by that?  
 
-
 ANDREW:  I mean, Course uses it, right?  
 
 >&gt;Is anyone not using --  
@@ -340,14 +305,12 @@ ANDREW:  I mean, Course uses it, right?
 
 >&gt;We're actually underway on not doing that, so -- but I mean, that's a whole interesting conversation about, like --  
 
-
 ANDREW:  That may need to be discussed over drinks later.  
 
 >&gt;I know some folks from Guardian here.  It might be fun to shoot the shit with them, those who have embarked beyond the confines of CKEditor and TinyMCE, but it's definitely challenging.  
 
 
 >&gt;The homebrew, it requires markdown and it has not any sort of WYSIWYG.  
-
 
 ANDREW:  And that's not a great experience for writers.  It's great for developers.  What was that?  
 
@@ -365,38 +328,30 @@ ANDREW:  And that's not a great experience for writers.  It's great for develope
 
 >&gt;DHTML!  
 
-
 ANDREW:  Does anybody feel strongly that they would like to talk with someone more about a topic?  We're going to try and do maybe two rounds of this.  So if you want to spend 20 to 30 minutes on one, and then we can go ahead and talk about an each of those and, ideally, by the end of this time we can sit down and spell out maybe some real big solutions and next steps.  Maybe so, when Knight comes around and they have $4 million, they can maybe fix another problem.  I'm kind of serious too.  We can really start to describe this in different ways.  Does anybody want -- I really want to talk with the people about next -- yeah?  
 
 >&gt;We have, for example, ways of divorcing content from presentation, CSS.  And despite the buggy shit that you have to deal with, it's a system that works reasonably well.  I would like to talk with people on divorcing content from structure because then you can have your editorial structure be different from content structure something that makes you not have to worry where the diffs are.  
-
 
 ANDREW:  A lot of this maybe Circa would structure content along those lines.  This is a quote, this is not equal.  
 
 >&gt;I think content model is the thing that I'm most interested in.  And I use that term broadly to describe, you know, thinking about -- that's another thing to talk about asset management married to content and thinking about, you know, more modular, you know, kind of chunks and how we mark those up, and how we attach metadata to them.  
 
-
 CHRIS:  Is that the same thing?  You spoke first, I'll give this to you.  And you can form a group around this.  
-
 ANDREW:  Anyone, next one?  
 
 >&gt;I would follow up on the collaboration and the version control stuff because I'm curious about -- I'm curious about where people's heads are about that range.  
-
 
 ANDREW:  Next one?  Other people interested in that, by the way?  Probably a decent amount of people.  Is that another one?  Next one?  
 
 >&gt;I was going to say that I was under the collaboration one.  
 
-
 ANDREW:  Another group?  No one else interested?  Just wanna talk about these two things, which is fine.  Are these too big of problems for us to tear off?  
 
 >&gt;Rolling asset management?  
 
-
 ANDREW:  Content models?  
 
 >&gt;It doesn't have to.  It was just opinion.  
-
 
 ANDREW:  You wanna talk about assets?  
 
@@ -405,31 +360,25 @@ ANDREW:  You wanna talk about assets?
 
 >&gt;You're going to be wrong, man.  I'll tell you that now.  
 
-
 ANDREW:  Your branding is off.  
 
 >&gt;Asset management is dead!  
-
 
 ANDREW:  So is everyone ultimately interested in these two things?  Because we can literally split the room in half and talk about each of these if you want to.  
 
 >&gt;What if you want to be in both conversations?  Do we have to sit in the middle?  
 
-
 ANDREW:  Is anyone not really interested in either of these?  Which is an option.  We can continue as a group but I think smaller groups is better instead of doing one of these after another.  I would rather shrink the room down a little bit.  
 
 >&gt;What was the other one besides the --  
-
 
 ANDREW:  Collaboration, version control, and content model.  
 
 >&gt;They're complementary.  
 
-
 ANDREW:  And maybe your group depending on who's in there.  Can break it down into smaller groups if it's cool?  
 
 >&gt;I think we may need to start with the big things and break it down.  
-
 
 ANDREW:  Sounds good.  This is flexible and we have time.  
 
@@ -439,7 +388,6 @@ Pick a side!
 
 >&gt;I feel the structure of the room.  You guys should pick a side.  
 
-
 ANDREW:  That corner is collaboration and version control stuff and it looks like the content model is, like, everything else.  So you wanna go down and go over here?    
 
 [ Group Work ]  
@@ -447,7 +395,6 @@ ANDREW:  That corner is collaboration and version control stuff and it looks lik
 All right.  Do you guys wanna start?  
 
 >&gt;Does it make sense for us to start?  
-
 
 ANDREW:  I think it might because you're talking about overall content and they're talking about breaking it down.  Maybe we can have multiple people talking about it.  I think we're probably going to talk at each other from this point on.  Okay.  Um, yeah, you wanna start?  You're already -- you're already... now you're just making fun of me.  
 
@@ -462,7 +409,6 @@ ANDREW:  I think it might because you're talking about overall content and they'
 
 >&gt;All right, so, vocabulary's really bad.  Hard-to-explain to a writer -- don't me a favor -- do me a favor just branch, do some work and I'll merge it later.  You can approve the merge.  No, branching sucks we're not going to do it.  Check this out.  Branching, trunk, tree, branch, branch, branch, branch.  Keep it narrow, address each change, let them go one off, and let the writer be able to pick any one of these to this in this universe.  So diffs, good visualization of diffs, that's useful, that tracks changes, reverts, those work.  Interesting things that came up with collaboration.  Where do you store your notes when your editor makes a note on your document?  AmyJo just said that editors leave notes in line.  Guess what, those are protected.  They're not published.  It's not possible for them to be published, they get excised from the document.  And I think that's great.  Editorially has an opinion about where those are stores but making a conversation about this is arguably a big part of it so that you're not walking to someone else saying, "What do you think of this?"  So this is table stakes for version control, I think.  That can be at the commit level if you're working in a inner granular model which I'll talk about in a second.  It can be a milestone, it can be a mock on a diff.  Any place where you can see something about a change, you should be able to say something about a change.  Slugs suck.  When you change your -- what is slug version control?  That's what we're -- I hope you talk about that.  Last thing, I'm not even addressing the core proposition but I think I'm answering all the questions.  We've talked about all the questions.  Collaboration models around working at the same time, three possible options.  So U-Lock which means that if Erin is writing and I approach the document to write and I cannot write and I have to ask his permission, there is branching, we've discussed branching, and there's multi users, simultaneous users -- this gets to the question of the best use of money and effort.  If you are doing operational transformation.  Raise your hand if you've worked on a collaborative text editor how do you feel about operational transformation?  It's a sophisticated thing.  You can use other people's work.  Like, ShareJS is a great example.  I love ShareJS.  It's not a great WYSIWYG editor so you have to make a tradeoff between user and developer in time.  It may not be the best thing to do however.  These things are stacked for a reason.  There are other political and social reasons why locking systems exist.  If a journalist is writing, maybe she doesn't want somebody coming in and writing at the same time.  Because flying cursors kind of suck.  I think technical writers love flying cursors.  People writing manuals love flying cursors.  People writing directions love flying cursors.  But for this purpose if you can get to the point where you're building a simultaneous editing system with operational transforms in the background and you conceal that, and you present it as I'm storing XIFs, or you can store it as branching.  That gives a lot of leeway in terms of how people use your version control system.  I would propose that you keep it simple and you store diffs rather than implementing something super complex and super upfront, storing diffs.  
 
-
 ANDREW:  Store the diffs or store the version and then diff them dynamically?  
 
 >&gt;Well, that's a good question, right?  Full disclosure, Editorially with every version that you saved, stored the entire text of your document as it was in that revision, right?  Computer science-friendly, no, right?  It's not sexy but was it easy to build?  Double thumbs up, right?  Was it easy to maintain?  Is it auditable?  Double thumbs up.  I would -- the problem is that I don't think it scales as a storage system.  That's my -- I'm only speaking for myself, right?  That's why this is -- this is the little recoil.  
@@ -476,16 +422,13 @@ ANDREW:  Store the diffs or store the version and then diff them dynamically?
 
 >&gt;It didn't stop scaling for us.  
 
-
 ANDREW:  Sorry.  
 
 >&gt;If you are talking about resilient work, how expensive is it to store that many versions?  
 
-
 ANDREW:  But if you're storing only diffs then you can't necessarily do other kinds of comparisons.  You're always comparing the first one preview one to the next one.  You can't compare two sides of the branch.  
 
 >&gt;You kind of can, actually.  
-
 
 ANDREW:  You kind of work.  But you have to reconstruct the original.  
 
@@ -521,7 +464,6 @@ ANDREW:  You kind of work.  But you have to reconstruct the original.
 
 >&gt;Um, yeah.  
 
-
 ANDREW:  Well they're always there.  The branching of A, B, and C, I tend to agree.  We don't really need to support that.  But the other option though, something that's published and I'm scheduling, let's say or I'm working on a rewrite of it while I'm doing that, I then have to go back and fix a typo in the currently-published work.  That's hypothetically a branch, you're still going to a point in time and making a change.  I mean, maybe you're not really dealing with a separate fork as much as you're going back in time and immediately updating it, and also keeping that in some sort of a rested state and not published at all but there are some use cases that do require some kind of juggling.  Of course, the problem there is that almost immediately unless you're using the command line, the user experience breaks down 'cause it's incredibly difficult to be like, "You can optionally schedule this change for tomorrow at 9:00 a.m."  And you have your announcement or something like that.  And that becomes a real pain in the ass.  
 
 >&gt;It's, I think the place where things are breaking, which is great that you're approaching it this way.  Like, we're thinking like developers and branching and merging and resolving conflicts with diffs and something like that.  But at some point you need an editor, you need an editor or a journalist to make decisions about how in the words come together.  So the breaking point seems to be...  
@@ -541,7 +483,6 @@ ANDREW:  Well they're always there.  The branching of A, B, and C, I tend to agr
 
 >&gt;Are we all done?  Sweet.  So we talked about content model.  And we started off by really, just like, kind of thinking through.  We started talking about assets a little bit and really, this whole chunk of things which was just like, some stream of consciousness that led to, I think one really big point.  So we started -- we really started talking about, you know, the role of, like, the format in it.  We started talking about atomic units of content.  We started thinking about, you know, the very influential to the model.  You know, do you have these reusable entities that are, like, equal to each other?  You know, should entities be addressable and easily pulled together?  We talked about some different examples of people who were thinking about content model but I think that the one big kind of revelation that I think is pretty interesting is, when you think about -- when you talk about this stuff in content management systems and we think about sort of the legacy that we've inherited and, um, you know, problems that we were specifically trying to solve and the way that we sort of approached it as we were, like, developers, like, making, you know, forum-based software.  And bringing that to these problems is that we took the issue of, like, the user presentation and the article format, right, like whether it's like this is a story or it's a gallery or it's a video or it's a, you know, a set of updates in a live blog, whatever.  We took the interface for creating those different types of formats and we tightly coupled these two things with the way that we represented that content in the data model, right?  So, you know, the easiest way to think about this is we're like, it's an article, it has a headline and so -- it has a body, it has a byline and there's an author associated with that, et cetera, et cetera.  That's the way that it looks.  That's the thing that we're showing.  So on the backend we're going to give you a tool, you update the let youline, you update the body, you update each of the individual things that we broke down.  And in the database we have a whatever -- entries model that has, you know, a headline column and a body column and an author column and all these things and if we want to have, you know, separate ones, we'll just -- we'll recreate each of these three things separately each time because we have tightly coupled these things together, right?  And the reason that we kind of came to this is because when you started thinking about things -- examples of things that people were doing, let's just say the Circa 1 for example, is that they may have started with, you know, this notion of the format itself, you know, like, these little chunks of information that they would push to you over time.  I don't know if you're familiar with that app.  And the editing is creating each one of those chunks in the system and the data model they probably have, like, each one of these chunks that they're attaching metadata to each one of those things but even if you think about building a gallery each one of these things is tightly coupled and one approach is to change the format completely.  You know, redesign the experience on the front end and that will give you -- the result was that it would give you a more modular, atomic unit of content model and it would give you a tool that would do that as well.  So what we started talking about was if this tight coupling is what's holding us back.  How would you break these things up so that you would give yourself more flexibility in this, right, without compromising user experience of the user presentation is -- without compromising user experience of with editing this.  So just starting with the editing one, like, we have this representation of a document that you're writing, right?  Like the individual fields is difficult that way.  But instead of, like, trying to expose that content model into the editing interface that you just allow people to edit these things and you figure out from that, what kind of the structure is underneath that.  We figured that out.  TinyMCE is actually doing that.  Is HTML the right structure?  And at the end of the day what's funny is, we take that structure and we shove it into the database anyway and we can try to resolve that by not doing HTML by saying, "All right, everybody has to do markdown."  So there's no structure that we're shoving in there but what we're doing is sort of removing the structure problem that we would want to solve so that we would be able to kind of, reorganize these addressable chunks together.  So kind of getting into the practical pieces that we started thinking about, a great experience of putting stories together in atomic units that would give you some flexibility in -- if you broke this out, and how you present it.  But some of the ideas like, don't expose the model so much in the editor, right?  Like they don't need to see that but potentially it's valuable as they're writing this to be able to say, here's what we're understanding the model of this document to be as you're going along.  You can kind of light it up a little bit, right?  Like right now, in TinyMCE, you flip over and see the HTML but for a lot of users that's not a really valuable way of saying this is how we understand the structure of this document, right?  These chunks if you do create chunks, making them easy to find, this gets back to the asset model thing we were talking about taxonomy and things like this.  When you do start creating these chunks and you want symbol things and you want to put them back together it has to be easy to be able to find those things.  You have to organize them somehow, that search.  Is there a taxonomy that you can organize this under?  But that's an important part if you're going to break everything up, then you should make it easy to put it all back together, you know, and in using/attaching metadata to those units.  But you know, the key thing here is that it should be easy to create these things, right?  It shouldn't be extra hard just because we want to have this super sweet atomic content model to have different user presentations shouldn't mean that we, like, break those things up.  And you know, it creates flexibility for these multiple formats and this common, basic UI was just a conversation about, you know, back to that one document thing.  We still have that model and it's still useful for thinking about putting a story together.  You don't have to couple that with what the presentation layer is, or what even, the content model is, if that's still an useful way to create this.  So if we were to practically start to put some things together, these would be the guidelines with the notion that, maybe what we're trying to solve is decoupling these can, but not decoupling in a way that breaks up the user experience -- consuming content but also, like, creating it.  
 
-
 ANDREW:  But creating would take place say in a single editor but it would the --  
 
 >&gt;And instead of the model that we have right now, it's like, there's all these, there's these 40 potential elements that we might want to use in the database and here's these 40 boxes be that you can fill in instead making sure I'm creating this thing.  And as I go, I can optionally create the elements that I want, which is kind of an UX thing but it's also --  
@@ -549,16 +490,13 @@ ANDREW:  But creating would take place say in a single editor but it would the -
 
 >&gt;Well, you have that WYSIWYG editor.  But the problem with the WYSIWYG editor is that you have too many options.  Really what you want are the six options and that can be rendered however, whatever you want and then you pre-process it so that it gets broken into it's pretty much like a WYSIWYG editor that breaks down into the elements that we want to use later but doesn't break down into the bold.  Not just a list.  But break it down to this is multimedia that you can use elsewhere.  
 
-
 ANDREW:  I'm curious how it would feel like.  Would it feel like a single white canvas that you would work on but as you hit a new paragraph, as you enter it would kind of show the new blogs.  
 
 >&gt;Just real quick, what is an example of this.  
 
-
 ANDREW:  Does it feel like what circa as a presentation in chunks?  They might write that in one file.  
 
 >&gt;I think you would expose that as you need it for whatever presentation you're about to put together, but like, we've been you know, David's -- shown up recently at Fox with Mandy and Jason, and they've been -- and reading those interviews are fascinating for this because I just think that, you know, people will -- they just when they're writing and when you're creating, you just don't want to think about that shit.  You just want to get ideas out and you want to mess around, and you want to move them around.  You're just not thinking in the content model because, why?  It's fucking crazy.  And you know, and that's the -- I think, you know, and when you hear people -- when you try to break down and ask people have this praise for media it's just because there's not a lot there and it's not exposing any of that.  It doesn't even give you the option of to start doing any meta data of any --  
-
 
 ANDREW:  It's really easy to control when you only have five elements.  
 
@@ -582,11 +520,9 @@ ANDREW:  It's really easy to control when you only have five elements.
 
 >&gt;I said earlier, you know, that I was interested in sort of talking about a theoretical specification to decouple the structure from, you know, from the content?  We went off in kind of a different direction, great.  But in terms of an actual decision, I'm trying to bring it back to something tangible.  I think it would be awesome to be able to have something like TinyMCE, a WYSIWYG editor but it goes back to HTML, it spits back sort of structural information about the piece, right?  And you kind of, over -- wildly over-engineer your content and put it on the shelf and don't even worry about it and I just want an editor that the text structure and either publishes or it files above -- sorry, the model as currently implemented doesn't support this article that you're trying to do and then you just have your developers go and extend it a little bit because you can over-engineer things and never use them and you shouldn't have this for this theoretical thing that you're never going to do.  And so if you have a development that needs it.  You can just ping the process.  
 
-
 ANDREW:  You were talking about what an atomic unit is, obviously a piece of a paragraph necessarily but could it also be, like, five paragraphs?  Or would you normally --  
 
 >&gt;Well, you could do, like, sections could be one of your elements.  
-
 
 ANDREW:  Or can units be nested?  You have four blocks that goes before and then images that go inside it.  
 
@@ -601,11 +537,9 @@ ANDREW:  Or can units be nested?  You have four blocks that goes before and then
 
 >&gt;Give me some baseline or something, right.  Only as much as you need it to be.  
 
-
 ANDREW:  I'm also thinking about it from the perspective thinking about in the limitation I have a 30 paragraph story, each of those is an atomic unit that's fine.  I then have to revision -- let's say I'm storing them in a database and I guess it may be way more implementation than we want right now.  Each one of them is an entity they're all stored in a group, diffing 30 elements.  What's the benefit of diffing that?  Version control of the elements as well.  Version control can be based on in the order of these units or how these orders have changed and the other thing as well when we're dealing with presentation versus editing a block quote would be part of the content -- a unit but at the same time, a poll quote is not.  A poll quote is presentation but its actual presentation in the document is more about presentation that it is about the content model.  So it's something else to maybe think about as well opinion.  
 
 >&gt;Well, you can get that in work flow because I think it is 'cause the crazy thing about poll quotes is that they are a presentation but they are such a statement content-wise, right?  Like, what you decide to be the poll is really interesting you know?  Which is why there's a whole verge poll quotes Twitter feed now.  Lots of jokes.  But that's, I think it's interesting.  I think this is cool stuff.  
-
 
 ANDREW:  Anybody have anything to adds to either of these about how they tie together or anything else?  I mean, that was the summaries, so we have about 15 minutes left.  I don't know how else we would close this out other than --  
 
@@ -614,15 +548,11 @@ ANDREW:  Anybody have anything to adds to either of these about how they tie tog
 
 >&gt;I shipped it five minutes ago while you were blabbing.  That's.  
 
-
 CHRIS:  One thing that I noticed was that we were trying -- we set out to just talk about two highly focused things but just by the may have of the CS being a monolith just talking about version control, and, like, there's a lot of cross -- similar communication.  We talked about, like, all -- I started --  
-
 ANDREW:  Everything on here is who was discussed.  
-
 CHRIS:  Pretty much.  
 
 >&gt;So like what do you guys think is actually achievable?  I mean we've kind of driven off of a cliff here.  
-
 
 ANDREW:  So one thing that I normally end up seeing, at least in my line of work, is that a discrete piece of this looks achievable and then you either start building it and you start specing out and you start building this other thing and it spirals and then you come up with one of those and that, and you realize oh shit we have to do that as well.  And at this point, this is obviously together, or even individually, these two ideas are way too big to be chewed on in any short length of time but ultimately, they are problems that need to be solved.  I don't -- I mean, does anybody have any ideas how this can be broken down.  So what are the next steps, what needs to be built on top of an existing system now to make something better?  
 
@@ -646,7 +576,6 @@ ANDREW:  So one thing that I normally end up seeing, at least in my line of work
 
 >&gt;So I have a question, and Chris maybe you can answer this, and it may be totally irrelevant because it was built years ago but what's the state of the Armstrong CMS and all the investment that was put into that?  We had developers download it and try to use it and they said that it was incredibly buggy because it hadn't been updated for so long.  Are those ideas even relevant today?  Could they be built off of?  
 
-
 CHRIS:  Well, the idea, one of the strange things that the Armstrong CMS has a lot of components and it's an a la carte pick and choose but the problems that the Armstrong CMSs was trying to solve was pretty much none of these.  There were things like how do I sketch little articles to show up at a certain time of day?  How do I get articles to render in a certain context?  So it's kind of interesting that the problems that we ended up solving were not -- they were -- we were designed -- we were developing software for other developers; not for users.  And there was some other strange things about the project, as well.  There is, like, a -- there's a couple subprojects that are still being developed.  And there's a there's basically a whole new base for about -- there's a small core of apps that are -- that have entirely new base underneath them.  And so I'm still, like, ambivalent about the project.  There's still a lot of components that I believe in but, like, the Node is a project for other Django developers but it's not designed for a variety of user experience.  
 
 >&gt;And the Django thing I was wondering when we talk about content models, Vox builds rails which is very opinionated about its models.  I was wondering if there's a point where building on top of a framework with a certain type of content model is not going to work?  
@@ -654,26 +583,21 @@ CHRIS:  Well, the idea, one of the strange things that the Armstrong CMS has a l
 
 >&gt;I mean, it's relatively decoupled, I mean, it's somewhat opinionaid but we've started decoupling some of that stuff so I think the framework's -- I think what's happened with a lot of frameworks were the opinionated parts.  You were, over time, you start to not rely on those opinions as much as you are.  And I think it's true for a lot of folks in different frameworks and I think that's -- you know, you start to want to give yourself flexibility.  You get, sort of, find yourself, like, stuck in those opinions and so, you wiggle your way out of them.  And I think like, you know, a lot of the -- we're architecturing towards like, not not being concerned.  We're just trying to get as much value out of rails being rails as we can but I just don't think that it's as much of an issue.  I don't know how that applies to Django.  I mean, it's like a --  
 
-
 ANDREW:  -- I think that's a separate one for sure.  
 
 >&gt;'Cause it's such a -- it's a -- it was more opinionated in a particular direction, solving a more --  
-
 
 ANDREW:  -- a higher level than Rails.  PHP obviously for us is even lower than that.  
 
 >&gt;Even lower.  
 
-
 CHRIS:  There was actually two things about Django that I wanted to mention.  One is that we've started rethinking the Django CMS.  There is a protocol Django -- product called Django CMS.  I'm not talking about that.  But traditionally when you give your staff the Django CMS, they're the Django admin, which is a developer interface; not a user interface.  So internally we started kind of rebranding that and saying, no, that's not the CMS.  That's actually the developer admin.  And the other thing that I wanted to mention is that, this past week I've been doing a lot of research with the -- with using WordPress as an interface for getting data into Django and so far, the experimentation's been -- have been --  
 
 >&gt;That's what we did at the Sunlight Foundation.  
 
-
 CHRIS:  I talked to Jeremy.  
 
 >&gt;Jeremy, cool.  
-
 
 CHRIS:  So there's projects at the base level but I'm doing stuff at the base API.  
 
@@ -682,18 +606,14 @@ CHRIS:  So there's projects at the base level but I'm doing stuff at the base AP
 
 >&gt;Yeah, shit's weird these days, man.  What is even happening anymore?  Cats and dogs, man.  
 
-
 ANDREW:  It's weird because sometimes you see the content, WordPress is an example.  Sometimes you see it as a content story, sometimes you see it only as an user interface.  Schoolbook, which was this application in New York Times a few years ago.  They used it purely for the backend.  jQuery, like jquery.com and all their 25 sites, they don't use it for the backend; they use it for the theming.  And all their content is stored in Git repos that is then adjusted and shoved into the database so they don't even touch the backend which is usually what host people if they were going to pick one piece they would use but everyone's using some other aspect, and you're not even using it for the content repository either you're using it for the dashboard and stuff like that. everything should start with the API.  Anybody have any interesting concluding remarks, or should that be me...?  
-
 CHRIS:  Have you heard of the horse radish project?  
 
 >&gt;No.  
 
-
 CHRIS:  It's something working on for -- Jeremy's working on for doing image management in WordPress.  and I think it's in a state where it's internally useable at Sunlight.  
 
 >&gt;For image management?  
-
 
 CHRIS:  For WordPress, yeah.  So it's got elastic search.  
 
@@ -702,17 +622,13 @@ CHRIS:  For WordPress, yeah.  So it's got elastic search.
 
 >&gt;How do I find this on Google?  
 
-
 CHRIS:  Lab/horseradish.  
 
 >&gt;Sweet, I find a typo in the first thing, settings.py.  
 
-
 CHRIS:  It's a Django app for managing WordPress.  
-
 ANDREW:  Throw Ruby in there for a shell script.  
 
 >&gt;Can we get some Perl?  
-
 
 ANDREW:  It is now 5:30 thank you all for coming.  This was fantastic.  I was really -- we were both really nerves that we wouldn't come away with anything beyond a list of gripes and I think we have way more than that to work on.  I know that we're working on a lot of these problems, and I know that obviously Vox is working on all of these problems, really everyone's trying to solve these things cool not having roadmaps but things of this nature is really awesome.  I hope you enjoyed SRCCON, ask I hope to see you guys around and CMSs -- yeah!    

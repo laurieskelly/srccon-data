@@ -14,9 +14,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;e're going to get started.  Could somebody get the door maybe in the back?  So we're here to talk about newsroom training.  Just a couple of housekeeping things, if you want to open up the etherpad where we've put some burning questions, a little bit of a guide to what we're hoping to do in this conversation today, it's bit.ly/train-your-newsroom.  So you can check that out.    
 
 
-
 >We wanted to start out here by introducing ourselves, telling you very briefly about what we do.  And you know, as we said in the session discussion, we're really trying to learn from you guys, as well as sharing with you some of the things we've picked up as you go.  Feel free to jump in.  This is meant to be very participatory.    
-
 
 >My name is Jaeah, we're both at Mother Jones Magazine on the data team there, and I started in my job about two years ago, at which point there were still plenty of reporters and editors in our newsroom who did not know what a column or a row in a spreadsheet was, and so because we were fairly short-staffed, really short-staffed...  
 
@@ -54,7 +52,6 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 
 
 >&gt;Yeah.  
-
 
 
 >[laughter]  
@@ -137,7 +134,6 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt; 
 
 
-
 >[laughter]  
 
 >&gt;Yes, I was there for that.  And like it just never like, some people they're real interested.  
@@ -198,7 +194,6 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 
 
 >&gt; 
-
 
 
 >[laughter]  
@@ -329,11 +324,9 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;Yeah,.  
 
 
-
 >[laughter]  
 
 >&gt;Good question.  How do you handle that problem?  
-
 
 
 >[laughter]  
@@ -398,11 +391,9 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;I do want to get back to this question of like the top-down culture problem, because I think that that is so key.  And you know like Yuri, I know you've dealt with this.  For those of you who felt where the obstacle is you this is a grassroots organization, you had this mandate, did it work, did it not work?  What worked?  
 
 
-
 >[laughter]  
 
 >&gt;I can tell you a lot of things that did not work.  You know, they put me in charge and I still couldn't push stuff through.  For me, fighting up is a lot easier than fighting down.  Because if it's not a shared mission, then it's hard.  The things that really worked for me was one-on-one, and then you do that with like 10 people and you get like an evangelist and then they go and say check out this cool thing I did.  When you get an evangelist, then it gets better, because then you have more and more evangelists and more and more people get excited.  But there's still going to be one desk that you can't break in.  I'll buy you lunch, I'll take you out for drinks.  What do you want?  You want a computer, here?  You don't like it because it's a Mac?  I mean, come on.  
-
 
 
 >[laughter]  
@@ -435,7 +426,6 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 
 
 >&gt;But I mean like --  
-
 
 
 >[laughter]  
@@ -485,7 +475,6 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt; 
 
 
-
 >[laughter]  
 
 >&gt; 
@@ -513,7 +502,6 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 
 
 >&gt; 
-
 
 
 >[laughter]  
@@ -552,7 +540,6 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 
 
 >&gt;I think we're out of time.  All right, thanks, guys, this has been really helpful.  
-
 
 
 >[break]   

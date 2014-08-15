@@ -17,7 +17,6 @@ for filename in filenames:
             named_speaker_line = len(colon_split) > 1 and colon_split[0].upper()==colon_split[0]
             if named_speaker_line:
                 unnamed_speaker_block = False
-                line = '\n'+line
 
             # line could start with one, two, or no '>'s
             gt_marker = None
@@ -29,7 +28,7 @@ for filename in filenames:
                 if named_speaker_line:
                     # special case for if there is accidentally an 
                     # angle bracket in front of a named speaker
-                    line = line[1:].lstrip()
+                    line = line.lstrip()[1:]
                 else:
                     line = '\n>&gt;'+line[len(gt_marker)+1:]+'\n'
 
@@ -37,7 +36,8 @@ for filename in filenames:
                 # paragraph continuation for same speaker should not jump out of block quote
                 if unnamed_speaker_block:
                     line = '\n>'+line
-                line = '\n'+line
+                else:
+                    line = '\n'+line
 
             out += line
 

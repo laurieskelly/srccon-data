@@ -28,21 +28,16 @@ Ullyot Meeting Hall
 >&gt;I'm sorry, I'm not a very good demonstrator.  But you can experiment yourself.  
 
 
-
 >[ Laughter ]  
 
-
 >So in each of the session rooms, there is a packet of Post-Its and Sharpies, and foot boards, and whiteboards, and projectors, and all the fun things that you'll need for your session and there'll be particular volunteers supporting the sessions, as well.  So that should be -- it should be great.  And in front of every room is the name of the room and the sessions that are coming up this morning so you can more easily find where you're heading.  And we also wanted to let you know about some other folks in the room are transcribers.  We're doing live transcription for about half of the sessions at SRCCON which we're really, really excited about.  So just wanted to introduce those folks to you.  So Stan is actually transcribing this session right now.  He's that table over there, typing up here.  Allison, do you want to raise your hand to indicate Stan?  
-
 
 >Awesome.  And Norma and Lora are over by the door.  You'll see these folks in your room and they'll be taking down what people are saying so that we have a record of it and also for accessibility for people outside of the session who weren't able to make it as well.  So that's linked up on the site and I think that's about it and I'll turn it over to Erin for a few more details.  
 
 >&gt;So just an extension on the transcription piece -- we're so psyched to have transcribers here, by the way.  They are awesome people.  
 
 
-
 >[ Applause ]  
-
 
 >Just because there are, you know, various kinds of situations where in a session you may want to tell a personal story, you may want to talk about something that's kind of under friend DA, that you don't want necessarily going out, necessarily, in a live transcription over the Internet.  That's fine.  What we're asking is that you say, "I'm going to take this off the record" which, is the term that we figure y'all already know.  Make sure you tell them when to go back on the record.  It'll be like the VCR -- I'm old -- and you go off for the commercials.  And don't joke around and say, "Don't put this down."  Like, the magic words are, "I'm going off the record" and then they'll take it off and then say, "We're back on."  So that's happening.  And all those transcripts are going to be archived on the sites afterwards.  So you'll access to those.  I also want to talk a little bit about just some policy stuff.  We have a code of conduct.  Lots of people have an code of conduct and it's a good thing to have but we wanted to call it out specifically because it's sort of more than fine print for us.  We think of it as an expression for a lot of the complex ethics of this community.  So it's not just that we don't post outside.  You can see it online at srccon.org/conduct.  The spirit is, be considerate in your speech and actions to your fellow attendees and actively seek to acknowledge and respect the boundaries of the people that you're hanging out with.  Anything else is really a rush.  Those are the core things.  If you have a problem, if you have a health or safety issue, if you see something that makes you uncomfortable, if you see something that seems to be not in that spirit, there is a number to call that will reach the staff and that is SRCCON-2909.  You can also find me, but if you see my arm, you don't need to call the number.  You know, if you don't have access to your phone or whatever, grab a volunteer and they'll get one of us.  But the thing is we're here to help you.  If you have an emergency and someone is bleeding, call 911 first and then call us.  But if it's not an actual, like, "emergency services" emergency, let one of us know and we will come help you.  For that matter if you're stranded in a room, and you need Post-Its, feel free to call us also, which'll be fun for us, because we'll think someone is bleeding from the head.  Another policy think is, just a quick photo policy if you're going to take a group photo -- actually if you're going to take a photo of an identifiable human being, just give a warning to anyone who doesn't want to be photographed.  And if someone says, don't post that picture, just honor that request.  This is all sort of basic stuff, but sort of pay attention to that.  And food, I like to talk about that.  A lot of people folks have allergic dietary restrictions.  If you know you have something like that, and you haven't told us -- shellfish will kill you or something like that -- let one of us in the blue shirts know.  Everything should be labeled so that everyone is safe from food.  And sort of related to that if you see something that looks delicious but it's the gluten-free, soy-free, vegan.  Don't eat that unless you need to eat it because other people will be hungry instead.  If you are observing a fast for Ramadan or anything else just grab one of us, and if there's anything that we can do to accommodate we'll be happy to hold the food for later or whatever for you.  And just a note about the building, the stairs just between the two floors we're on go through the museum and you can't have food in the museum so that means, food stays where you get it.  If you eat food down here, it stays down here.  If you eat food upstairs, coffee, or whatever, it gets eaten upstairs.  It can't travel between floors.  It's a little weird.  But you can't have cupcakes next to the original container that they used to invent baking in, which is kind of tragic.  Anything else on the logistics?  All right I'm going to turn it back over to you.  
 
@@ -203,7 +198,6 @@ Ullyot Meeting Hall
 
 
 >&gt;This is Stan.  
-
 
 
 >[ Laughter ]  
@@ -376,7 +370,6 @@ Ullyot Meeting Hall
 >&gt;Rich from New York.  I like magic, unfinished lists...  
 
 
-
 >[ Laughter ]  
 
 >&gt;Hey, I'm Zack Green from Brooklyn.  Storytelling, jokes, weird.  
@@ -496,15 +489,11 @@ Ullyot Meeting Hall
 >&gt;Is that it?  All right.  That was 18 minutes and seven seconds.  
 
 
-
 >[ Applause ]  
-
 
 >I think we can do better, so let's do it again.    
 
-
 >[ Laughter ]  
-
 
 >Note, you've got 12 minutes until our 11:00 sessions start.  That took a while but I think it's super important that everyone gets names attached to their faces.  Their names attached to your neck, as well.  Again, user guide:  Just twist it, and there's the map facing you.  But yeah, there's about 12 minutes or so to your session.  If you're a session leader, you I want to head up sooner than that and just get your session going.  There are waters clearly labeled, session leader waters in the rooms.  Those are for you.  And yeah they're up on the second floor -- the coffee hacking stations exist.  And they are there for you and there's a wonderful coffee guy by the name of Cory who's not making you coffee but he will help you make coffee.  And you can help each other as well and have an wonderful, wonderful morning.  And Eric has a shout-out.  
 
