@@ -11,7 +11,13 @@ for filename in filenames:
             
             for gt_marker in ['>','>>']:
                 if line.startswith(gt_marker):
-                    line = '\n>&gt;'+line[len(gt_marker)+1:]+'\n'
+                    colon_split = line.split(':')
+                    # special case for if there is accidentally an 
+                    # angle bracket in front of a named speaker
+                    if len(colon_split) > 1 and colon_split[0].upper()==colon_split[0]:
+                        line = line[1:].lstrip()
+                    else:
+                        line = '\n>&gt;'+line[len(gt_marker)+1:]+'\n'
 
             #     line = '\n\n'+line[0]+'\\'+line[1:]
             out += line

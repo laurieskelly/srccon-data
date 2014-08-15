@@ -1558,9 +1558,7 @@ I hear a little activity.  I don't know what time it is?
 >&gt; What time do we end?
 
 
-
->&gt; 5:30.
-
+> 5:30.
 
 
 >&gt; I'm hoping this will live as a living resource.  As you find

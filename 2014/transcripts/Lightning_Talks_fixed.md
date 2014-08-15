@@ -336,9 +336,7 @@ My talk is unicorn bootcamp, you want me to teach what to who, and how long to w
 >&gt; And but the one we always come back to is our favorite by our namesake, LCD Sound System, which is snowfall, I love you, but you're bringing me down at me and so tonight we are going to sing this for you.  We are hoping that you will sing along.  And you know -- if you know the.
 
 
-
->&gt; LEE:  
-
+> LEE:  
 
 
 >&gt; We couldn't program the bouncing ball in time 'cause we had --

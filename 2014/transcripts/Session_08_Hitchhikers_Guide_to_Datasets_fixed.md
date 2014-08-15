@@ -152,15 +152,11 @@ RYAN: All right, who else came with a cool dataset that you don't have to spend 
 
 Jeff?
 
-
->&gt;JEFF LARSON: NASA has two satellites, Landsat 7 and Landsat 8, and if you ever need relatively quick raster data, satellite data, the picture is not super high resolution, but it's really available and it's the largest dataset we are currently working with.  Al Shaw on his work computer has 320 gigabytes of raster data.
-
+JEFF LARSON: NASA has two satellites, Landsat 7 and Landsat 8, and if you ever need relatively quick raster data, satellite data, the picture is not super high resolution, but it's really available and it's the largest dataset we are currently working with.  Al Shaw on his work computer has 320 gigabytes of raster data.
 
 RYAN: When you say raster data?
 
-
->&gt;JEFF: I mean pictures of the earth from space, so ProPublica used to do investigative journalism, and now we do investigative space journalism.  That's right, motherfuckers!
-
+JEFF: I mean pictures of the earth from space, so ProPublica used to do investigative journalism, and now we do investigative space journalism.  That's right, motherfuckers!
 
 
 >&gt;Are you going to try on one of the space suits down in --
@@ -172,9 +168,7 @@ RYAN: When you say raster data?
 
 RYAN: What kind of stories are you going to tell with this -- with pictures of the earth from space?
 
-
->&gt;JEFF: Uh, think about it.  Sorry, we don't talk about stories, but we do like playing with it, so we can show you a demo.  The fun part of this data is -- well, not for me, but for the designers in our crew -- is it's the only data that you get to play with in Photoshop, because you can do many things, most people think raster data is images, right, and it is imagery, but the other thing that you can do is you can create false color images to look at things like vegetation growth, because the way -- Here, I'll sort of draw it on the board.  Because the way that Landsat works, it's for a lot of scientists, but the way that Landsat works, is there's sort of this spectrum of light in, you know, the electromagnetic spectrum, and Landsat sort of picks up sort of like this stuff, right, so it picks up, there are these different bands.  It has like actually 8 different cameras or something like that, and it will pick up like the red band, the green band, and the blue band, and then you can also get ultraviolet, so you can do things like pick up vegetation, you can get infra -- a little bit of infrared, although that gets a little weird, and the way that you combine all of these different bands shows how you can, you know, defines what the picture that you're showing is.  And it's actually a dataset, right, when you think about a picture, it actually is, if you add geo reference coordinate to it, you're actually dealing with little itty-bitty grids of data, right, so this is maybe, you know, a gigabyte, so would that it be, you know, like 1,000 by 1,000 grids on the earth that contain like actual emanations of data.  People do all sorts of things like flood modeling with grids like this, where they'll just mask out all of the blue stuff and there's your water, and then all of a sudden you can feed that through, you know, like GPUs and things like that to do analysis on it.
-
+JEFF: Uh, think about it.  Sorry, we don't talk about stories, but we do like playing with it, so we can show you a demo.  The fun part of this data is -- well, not for me, but for the designers in our crew -- is it's the only data that you get to play with in Photoshop, because you can do many things, most people think raster data is images, right, and it is imagery, but the other thing that you can do is you can create false color images to look at things like vegetation growth, because the way -- Here, I'll sort of draw it on the board.  Because the way that Landsat works, it's for a lot of scientists, but the way that Landsat works, is there's sort of this spectrum of light in, you know, the electromagnetic spectrum, and Landsat sort of picks up sort of like this stuff, right, so it picks up, there are these different bands.  It has like actually 8 different cameras or something like that, and it will pick up like the red band, the green band, and the blue band, and then you can also get ultraviolet, so you can do things like pick up vegetation, you can get infra -- a little bit of infrared, although that gets a little weird, and the way that you combine all of these different bands shows how you can, you know, defines what the picture that you're showing is.  And it's actually a dataset, right, when you think about a picture, it actually is, if you add geo reference coordinate to it, you're actually dealing with little itty-bitty grids of data, right, so this is maybe, you know, a gigabyte, so would that it be, you know, like 1,000 by 1,000 grids on the earth that contain like actual emanations of data.  People do all sorts of things like flood modeling with grids like this, where they'll just mask out all of the blue stuff and there's your water, and then all of a sudden you can feed that through, you know, like GPUs and things like that to do analysis on it.
 
 
 >&gt;And it's just like a really cool dataset that I don't think we've done much with outside of just plain imagery of you know, plane crashes and war zones, and I think there's a lot of talk about investigative space journalism but I think we can do a lot with this and I'd like to see people fiddling more with raster data.  Because it really is true, you know GDAL and Photoshop, you're just dealing with.  
@@ -184,9 +178,7 @@ RYAN: What kind of stories are you going to tell with this -- with pictures of t
 >&gt;What's GDAL?  
 
 
-
->&gt;JEFF: Geodata Abstraction Library, which is actually this great library.  There are a million, you know, different proprietary file formats for this, because meteor -- the weather guys, were around long before we had freely available satellite data, right?  And the weather guys all came up with their own grid-based data, so what GDAL allows you to do is take all of these weird formats that maybe an academic likes one sort of format and translate it to geo TIF that you can then edit and Photoshop or do, and the other thing is you can do spatial statistics on this, right so there's a great raster dataset that classifies these little grid images by these little grid pixels by land cover, and I forget what it's called, but it's on NASA's website, so what you can do is you can run classifications based on these colors, so if it has this much infrared, if it has this much blue or something like that, this much of this spectrum, more in the violet range you're looking at water, right?  You're looking more brownish, you're looking at cities, right, and so you could do things like you could look at the south side of Chicago and see that it doesn't have the same sort of -- you could quantify that, I don't know if everybody saw it, but someone did sort of like compared the south side of Chicago and there's like no trees and the north side of Chicago and it's all trees, you know, sort of like urban renewal kind of projects, so you can classify -- you can correlate between like wealth and tree cover, right?  Actually sort of works in some places and you can do that just by running statistics on these colors.  So there's tons of great ideas on using satellite data.
-
+JEFF: Geodata Abstraction Library, which is actually this great library.  There are a million, you know, different proprietary file formats for this, because meteor -- the weather guys, were around long before we had freely available satellite data, right?  And the weather guys all came up with their own grid-based data, so what GDAL allows you to do is take all of these weird formats that maybe an academic likes one sort of format and translate it to geo TIF that you can then edit and Photoshop or do, and the other thing is you can do spatial statistics on this, right so there's a great raster dataset that classifies these little grid images by these little grid pixels by land cover, and I forget what it's called, but it's on NASA's website, so what you can do is you can run classifications based on these colors, so if it has this much infrared, if it has this much blue or something like that, this much of this spectrum, more in the violet range you're looking at water, right?  You're looking more brownish, you're looking at cities, right, and so you could do things like you could look at the south side of Chicago and see that it doesn't have the same sort of -- you could quantify that, I don't know if everybody saw it, but someone did sort of like compared the south side of Chicago and there's like no trees and the north side of Chicago and it's all trees, you know, sort of like urban renewal kind of projects, so you can classify -- you can correlate between like wealth and tree cover, right?  Actually sort of works in some places and you can do that just by running statistics on these colors.  So there's tons of great ideas on using satellite data.
 
 
 >&gt;Wetland mitigation banking is a term that you're familiar with in your state, where developers have to set aside preserve wetlands and they can destroy wetlands in order to build stuff like Florida, for example. You can use this stuff to compare where the wetlands went.
@@ -218,17 +210,13 @@ RYAN: What kind of stories are you going to tell with this -- with pictures of t
 >&gt;I was going to say that Al Shaw talked about this at length in the earlier session and he talked about the project you're working on about Louisiana land loss. 
 
 
-
->&gt;JEFF: I didn't want to say that, but I guess he's not as close to the chest.  Yeah, the Louisiana land loss, so what we're doing is looking at cities that no longer exist because of soil erosion, using these same sort of methods that we were talking about.
-
+JEFF: I didn't want to say that, but I guess he's not as close to the chest.  Yeah, the Louisiana land loss, so what we're doing is looking at cities that no longer exist because of soil erosion, using these same sort of methods that we were talking about.
 
 
 >&gt;How far back does the data go?
 
 
-
->&gt;JEFF: Landsat, so the problem is, we had this great -- Landsat go back to the 80s, the problem is like since 1996, something happened to Landsat 7, so a lot of the data in the beginning of 2000, you'll get these weird bands of no data that look like that, and then here will be data because the sensor got misaligned somehow, I mean it's in space, so you can't go up there and jiggle it a little bit ...
-
+JEFF: Landsat, so the problem is, we had this great -- Landsat go back to the 80s, the problem is like since 1996, something happened to Landsat 7, so a lot of the data in the beginning of 2000, you'll get these weird bands of no data that look like that, and then here will be data because the sensor got misaligned somehow, I mean it's in space, so you can't go up there and jiggle it a little bit ...
 
 
 >&gt;But Landsat 8, has this great layer which is black and white.  It's very high res, so you can like see people walking around ...
@@ -236,9 +224,7 @@ RYAN: What kind of stories are you going to tell with this -- with pictures of t
 
 RYAN: Anybody else who's got cool data?
 
-
->&gt;DAVID YANOFSKY: Yeah, so I'm David Yanofsky.  My dataset that I always go back to is an an endless fount of stories for me, is this international trade databases, the [US has a great one](https://usatrade.census.gov/) that you have to pay for.  The International Trade Centre—which is a joint agency of the WTO and the UN—provide free access to journalists to [their database](http://www.trademap.org/), and in the international version you can get trade flows for very specific commodities, all categorized under the system called the [harmonized system](http://hts.usitc.gov/) and everything is in a hierarchy. At a high level is something like [petroleum products](http://hts.usitc.gov/Table%2027.xml) and all the way down to, you know, [soccer balls](http://hts.usitc.gov/Table%2095.xml#9506.62.4080) if you want to, you know, or I guess from soccer balls to toys, most generally.  And if you get access to the US dataset—which is really cheap, it's like for one seat it's like $300 bucks a year—you can get port level data at even more specific levels, where if you're doing local stories, you can see all of these items that are leaving, not just from your city, but from specific ports, you know, in this -- people, if you're familiar with the way that people talk about trade, they talk about the oh, the port of Los Angeles and long beach as like this one thing.  They're actually two separate ports, and the data shows it as two separate ports where like this is the stuff that's going through long beach and this is the stuff that's going through Los Angeles and that's a business story and you can talk about who has control of who docks where, if you know who's getting the tax revenue from those things, from the workers that are at those locations, the US data is anonymized, in that the census tries to protect business interests of the exporters and importers.
-
+DAVID YANOFSKY: Yeah, so I'm David Yanofsky.  My dataset that I always go back to is an an endless fount of stories for me, is this international trade databases, the [US has a great one](https://usatrade.census.gov/) that you have to pay for.  The International Trade Centre—which is a joint agency of the WTO and the UN—provide free access to journalists to [their database](http://www.trademap.org/), and in the international version you can get trade flows for very specific commodities, all categorized under the system called the [harmonized system](http://hts.usitc.gov/) and everything is in a hierarchy. At a high level is something like [petroleum products](http://hts.usitc.gov/Table%2027.xml) and all the way down to, you know, [soccer balls](http://hts.usitc.gov/Table%2095.xml#9506.62.4080) if you want to, you know, or I guess from soccer balls to toys, most generally.  And if you get access to the US dataset—which is really cheap, it's like for one seat it's like $300 bucks a year—you can get port level data at even more specific levels, where if you're doing local stories, you can see all of these items that are leaving, not just from your city, but from specific ports, you know, in this -- people, if you're familiar with the way that people talk about trade, they talk about the oh, the port of Los Angeles and long beach as like this one thing.  They're actually two separate ports, and the data shows it as two separate ports where like this is the stuff that's going through long beach and this is the stuff that's going through Los Angeles and that's a business story and you can talk about who has control of who docks where, if you know who's getting the tax revenue from those things, from the workers that are at those locations, the US data is anonymized, in that the census tries to protect business interests of the exporters and importers.
 
 
 >&gt;So you know, you can sometimes see these things that, you know, are -- stories that I've written range from this is [everything that the US exported to Iran](http://qz.com/91152/), and here is why that's important, that led to a story about that -- so that's kind of a serious thing about sanctions and that you know, the US is providing a lot of you know, humanitarian aid, but that also less to this really silly story about bull semen that Iran is one of the biggest importers of US bull semen and then I did a story about [all the other importers of US bull semen](http://qz.com/91718/).
@@ -248,17 +234,13 @@ RYAN: Anybody else who's got cool data?
 >&gt;Why?  Why?
 
 
-
->&gt;DAVID: Why not.
-
+DAVID: Why not.
 
 
 >&gt;Why would you not?  Who wouldn't read that.
 
 
-
->&gt;DAVID: First off, who wouldn't read that, and second off, the miracle of the American cow.  The reason -- just to explain this story, the reason why it's so popular is American cows are really productive.  More productive than cows around the world, so if you know, if the US has bred cows that make thousands of gallons of more milk a year than here countries, so people want the special sauce.
-
+DAVID: First off, who wouldn't read that, and second off, the miracle of the American cow.  The reason -- just to explain this story, the reason why it's so popular is American cows are really productive.  More productive than cows around the world, so if you know, if the US has bred cows that make thousands of gallons of more milk a year than here countries, so people want the special sauce.
 
 
 >&gt;It seems like the least possible interesting explanation.
@@ -266,21 +248,15 @@ RYAN: Anybody else who's got cool data?
 
 RYAN: Awesome, thank you for ending on that note.
 
-
->&gt;DAVID: You're welcome.
-
+DAVID: You're welcome.
 
 RYAN: Who's going to follow that?  Anybody? Somebody else got cool data?
 
-
->&gt;JUSTIN MYERS: Not that cool.
-
+JUSTIN MYERS: Not that cool.
 
 RYAN: All right.
 
-
->&gt;JUSTIN: So one that I tend to use a lot at chronicle of higher education is called IPEDS.  It's the Integrated Post-Secondary Data System.  Basically if you're an institution that participants in federal student aid at all, you have to give them all of this data, and even if you don't participate in federal student aid, if you want to get listed on like at department websites for possible students other families, like college navigators, that they've been promoting, then in order to get in that, you have to participate in IPEDS, at least a little.  So they collect a bunch of stuff on really weird schedules throughout the year.  It's like nine or ten surveys spaced throughout the year.  Some of them are optional in different years, the schedules are weird:  But you've got things like tuition, professor pay, degree breakdowns by field and level, really narrow fields even, they have like these progressively smaller codes they call CIP codes, I forget, it's like classification of instructional programs or something.  But, you know, so if you want to see how many people in Arkansas got Ph.D.s in, you know, microbiology, like, you can do that, and you can get it by school.  And you know so there's attendance, there's all kinds of stuff.  So they have their own really weird online tool that takes some getting used to to access all of this stuff and they also have big CSVs broken down by year if you want to dig in.  They're a bit crazy to work with, I'm trying to start writing something up for Ryan's repo, but if you're interested hit me up.
-
+JUSTIN: So one that I tend to use a lot at chronicle of higher education is called IPEDS.  It's the Integrated Post-Secondary Data System.  Basically if you're an institution that participants in federal student aid at all, you have to give them all of this data, and even if you don't participate in federal student aid, if you want to get listed on like at department websites for possible students other families, like college navigators, that they've been promoting, then in order to get in that, you have to participate in IPEDS, at least a little.  So they collect a bunch of stuff on really weird schedules throughout the year.  It's like nine or ten surveys spaced throughout the year.  Some of them are optional in different years, the schedules are weird:  But you've got things like tuition, professor pay, degree breakdowns by field and level, really narrow fields even, they have like these progressively smaller codes they call CIP codes, I forget, it's like classification of instructional programs or something.  But, you know, so if you want to see how many people in Arkansas got Ph.D.s in, you know, microbiology, like, you can do that, and you can get it by school.  And you know so there's attendance, there's all kinds of stuff.  So they have their own really weird online tool that takes some getting used to to access all of this stuff and they also have big CSVs broken down by year if you want to dig in.  They're a bit crazy to work with, I'm trying to start writing something up for Ryan's repo, but if you're interested hit me up.
 
 RYAN: So this seems like a really good opportunity to talk about this repo.  Can we come full circle here?  We have about ten minutes left, so maybe not enough time to actually do small group work, but let me write this address up here.  This is where this thing -- this is where you can get to it right now.  Bit.ly/dataset guide.
 
@@ -304,23 +280,17 @@ So we have ACS, FEC in progress, is it IPEDS they have system in it. And elex is
 
 Is it actually called Landsat?
 
-
->&gt;JEFF: Yeah, I mean yeah, sure.  Space, space pictures.
-
+JEFF: Yeah, I mean yeah, sure.  Space, space pictures.
 
 RYAN: I think Jeff entered into a binding contract to write a guide on this.  We talked about, is it NED?
 
-
->&gt;JEFF: Yeah, National Elevation Dataset.
-
+JEFF: Yeah, National Elevation Dataset.
 
 
 >&gt;Landsat's Twitter is awesome, too.
 
 
-
->&gt;DAVID: International Trade Centre trade map, it's trademap.org, and it's center with an "r-e," and the other one is USA Trade Online is the census database.
-
+DAVID: International Trade Centre trade map, it's trademap.org, and it's center with an "r-e," and the other one is USA Trade Online is the census database.
 
 RYAN: OK. All right, so those are the ones that people kind of talked about just now.  So we have a few minutes left.  What -- yeah?
 
@@ -378,9 +348,7 @@ RYAN: Oh, that's even cooler.
 >&gt;Time use dataset from BLS, which is like how Americans spend their day.
 
 
-
->&gt;JEFF: Actually everything on BLS.  If I could get a dummy's guide to BLS, I would give you so many space pictures.
-
+JEFF: Actually everything on BLS.  If I could get a dummy's guide to BLS, I would give you so many space pictures.
 
 RYAN: Does anybody in the room know who should write that.
 
@@ -388,9 +356,7 @@ RYAN: Does anybody in the room know who should write that.
 >&gt;I could write that.  I have it from BLS. send me those space pictures tomorrow.
 
 
-
->&gt;JEFF: OK, I will.
-
+JEFF: OK, I will.
 
 
 >&gt;NAA Fisheries.  So they'll tell you like what fish imports and exports of various countries are.
