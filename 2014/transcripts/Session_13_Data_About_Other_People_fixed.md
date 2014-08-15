@@ -1,21 +1,15 @@
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
+Captioning by the wonderful people of White Coat Captioning, LLC  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
 
+7/24/14  
 
->whitecoatcaptioning.com  
+Session 13 - Sartre was wrong - Hell is data about other people  
 
-
->7/24/14  
-
-
->Session 13 - Sartre was wrong - Hell is data about other people  
-
-
->Session Leader Derek Willis.  
-
+Session Leader Derek Willis.  
 
 >&gt;K, so as folks are -- yeah, people will probably be trickling in and out, depending on how exciting I am, which is to say after lunch, not that exciting, so this is both a kind of a weirdly complex session that will test your patience and ability to remain in the room.  So congratulations on deciding to come here in the first place.  
 

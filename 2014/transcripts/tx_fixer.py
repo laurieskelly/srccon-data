@@ -41,10 +41,10 @@ for filename in filenames:
                 #     line = '\n>'+line+'\n'
                 # else:
                 #     line = '\n'+line
-                if named_speaker_ever: 
-                    line = '\n'+line
-                else:
+                if unnamed_speaker_block and not named_speaker_ever: 
                     line = '\n>'+line+'\n'
+                else:
+                    line = '\n'+line
 
             out += line
 

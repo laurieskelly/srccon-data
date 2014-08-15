@@ -1,21 +1,15 @@
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
+Captioning by the wonderful people of White Coat Captioning, LLC  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
 
+7/25/14  
 
->whitecoatcaptioning.com  
+Session 34, How to train your newsroom.  
 
-
->7/25/14  
-
-
->Session 34, How to train your newsroom.  
-
-
->Session Leaders:  Jaeah Lee and Tasneem Raja  
-
+Session Leaders:  Jaeah Lee and Tasneem Raja  
 
 >&gt;e're going to get started.  Could somebody get the door maybe in the back?  So we're here to talk about newsroom training.  Just a couple of housekeeping things, if you want to open up the etherpad where we've put some burning questions, a little bit of a guide to what we're hoping to do in this conversation today, it's bit.ly/train-your-newsroom.  So you can check that out.    
 

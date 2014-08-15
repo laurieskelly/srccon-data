@@ -1,27 +1,19 @@
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
+Captioning by the wonderful people of White Coat Captioning, LLC  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
 
+July 25, 2014  
 
->whitecoatcaptioning.com  
+SRCCON Session 32  
 
+Own your analytics  
 
->July 25, 2014  
+Session leaders:  Brian Abelson, Michael Keller, and Stijn  
 
-
->SRCCON Session 32  
-
-
->Own your analytics  
-
-
->Session leaders:  Brian Abelson, Michael Keller, and Stijn  
-
-
->Debrouwere.  
-
+Debrouwere.  
 
 >&gt;I think we're pretty full.  If you want to talk from up here  
 

@@ -1,24 +1,17 @@
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
+Captioning by the wonderful people of White Coat Captioning, LLC  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
 
+SRCCON 2014  
 
->whitecoatcaptioning.com  
+Introduction 7-24-14, 1000-1100  
 
+Ullyot Meeting Hall  
 
->SRCCON 2014  
-
-
->Introduction 7-24-14, 1000-1100  
-
-
->Ullyot Meeting Hall  
-
-
->--  
-
+--  
 
 >&gt;Hi.  Hello.  Am I on?  All right.  Hi, everyone.  I'm Dan Sinker, if you don't know me I'm the Director of the Knight-Mozilla Open News Project.  And I'm apparently hitting "settings" on my phone.  I'm really thrilled to be kicking SRCCON off today and I'm incredibly amazed that everybody is here on time especially because a lot of you got delayed due to the monsoon that blew through last night.  So thanks for getting here, and dealing with some travel hiccups.  About a year and a half ago I was sitting next to Erin Kissane in the Knight CAR Conference in Louisville and it was during the lightning talks which are amazing if you've been to Knight CAR and I'm going to guess the Venn diagram of people that have been to Knight CAR, and the people that are here almost looks like a circle.  And I lean over to person and I said, "You know what, I want a conference that's all this.  I want a conference that's all of this but not in five minute shots, okay?"  I want this level of passion and this level of fun, and this level of commitment for the whole time, right?  I want people to be able to talk and to learn about teach in equal amounts.  And I want people to be able to build new things together and that was about a year and a half and about six months ago.  We were like, okay, maybe we should do a conference.  And about three months ago, we sat in a conference room in Portland, Oregon and we spent literally, the first, what, three hours discussing the emotional arc of the conference, and we divided that that's the team that should be putting together a conference.  Anyway, we're here.  This is a conference filled with your passions with your ideas, and it's an event that's about sharing as much as it is about learning:  Whether it's sharing things that you're doing.  Whether it's sharing coffee.  All sorts of different things will get shared this weekend -- or two days.  We're so excited about doing this with you.  But first we want to get a couple of things out of the way.  We're going to talk a little bit about the schedule and the arc of the next couple of days.  Probably not touch on the emotional arc as much as the actual, physical teaser of the things you do.  We're going to talk about some of the expectations that we have of you.  Some of our ground rules, and some additional information you need to know.  And finally, this is going to be a bit of a cluster but we're actually going to get to know all of you in this session.  But before we do any of that, this is a conference literally couldn't have happened without a lot of people doing a lot of things and I want to introduce three of the folks who are responsible for SRCCON as much as anyone.  So Ryan Pitts, Erika Owens, and Erin Kissane.  
 

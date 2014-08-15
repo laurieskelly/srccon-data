@@ -1,30 +1,21 @@
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
+Captioning by the wonderful people of White Coat Captioning, LLC  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
 
+SRCCON 2014  
 
->whitecoatcaptioning.com  
+Session 14 7-24-14, 1500-1600  
 
+Garden 1  
 
->SRCCON 2014  
+"Interactives and Climate Change"  
 
+Session leader(s): Brian Jacobs  
 
->Session 14 7-24-14, 1500-1600  
-
-
->Garden 1  
-
-
->"Interactives and Climate Change"  
-
-
->Session leader(s): Brian Jacobs  
-
-
->--  
-
+--  
 
 BRIAN:  All right, I guess let's do this.  Y'all get together?  
 

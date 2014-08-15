@@ -1,21 +1,15 @@
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
+Captioning by the wonderful people of White Coat Captioning, LLC  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
 
+7/25/14   
 
->whitecoatcaptioning.com  
+Session 30 - Making things happen with small teams  
 
-
->7/25/14   
-
-
->Session 30 - Making things happen with small teams  
-
-
->Session Leader: Kaeti Hinck  
-
+Session Leader: Kaeti Hinck  
 
 >&gt; All right, guys, let's get started.  
 

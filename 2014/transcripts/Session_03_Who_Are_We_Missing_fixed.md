@@ -1,21 +1,15 @@
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
 
+Captioning by the wonderful people of White Coat Captioning, LLC  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
 
+7/24/14  
 
->whitecoatcaptioning.com  
+Session 3 -- Who are we missing?   
 
-
->7/24/14  
-
-
->Session 3 -- Who are we missing?   
-
-
->Session Leader: Mandy Brown  
-
+Session Leader: Mandy Brown  
 
 >&gt;All right, I'm going to get started.  I think more people are going to trickle in, but since Dan told us to be on time, I'm going to adhere to that.  This is the short URL for a Google Doc which I started already, and if you would like to pop your name and like URL in there, I'm hoping to do a little SRC post about what comes out of this session and I will credit you as being a part of that if you put your name in there.  If you want to be anonymous, that's cool.  You don't have to put your name in there.    
 
