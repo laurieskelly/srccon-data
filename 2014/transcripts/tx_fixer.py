@@ -35,10 +35,11 @@ for filename in filenames:
 
             if not gt_marker and not named_speaker_line:
                 # paragraph continuation for same speaker should not jump out of block quote
-                if unnamed_speaker_block:
-                    line = '\n>'+line+'\n'
-                else:
-                    line = '\n'+line
+                # if unnamed_speaker_block:
+                #     line = '\n>'+line+'\n'
+                # else:
+                #     line = '\n'+line
+                line = '\n'+line
 
             out += line
 

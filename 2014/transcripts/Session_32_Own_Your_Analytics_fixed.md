@@ -18,155 +18,106 @@ Debrouwere.
 >&gt;I think we're pretty full.  If you want to talk from up here  
 
 
->and point at me when you want to switch.  That's fine.  
+and point at me when you want to switch.  That's fine.  
 
+Maybe I'll give some background.  
 
->Maybe I'll give some background.  
+Welcome.  This is own your analytics.  Myself, Stijn and Michael  
 
+are currently working on a project with the Tau center at Columbia  
 
->Welcome.  This is own your analytics.  Myself, Stijn and Michael  
+we're calling news links and the idea is in part to create a suite of  
 
+open source tools and web interface for working with analytic data.  
 
->are currently working on a project with the Tau center at Columbia  
+Sort of with the idea of investigative nonprofit news organizations,  
 
+sort of at the forefront.  So there is more qualitative stuff that is  
 
->we're calling news links and the idea is in part to create a suite of  
+going to be incorporated but more generally anyone that wants to know  
 
+how their articles are performing, who is sharing them, where they're  
 
->open source tools and web interface for working with analytic data.  
+getting linked to and from can sort of benefit from this.  
 
+I guess what the context for this session is that we've been  
 
->Sort of with the idea of investigative nonprofit news organizations,  
+working with these tools on our own for, you know, many years now, I  
 
+don't know how long you've been doing analytic stuff.  But myself at  
 
->sort of at the forefront.  So there is more qualitative stuff that is  
+least for two or three years.  We're hoping to share some of that  
 
+knowledge with you, at least the gotchas and at the same time also  
 
->going to be incorporated but more generally anyone that wants to know  
+sort of help you think about all the possibilities that are out there  
 
+for learning more about your content by combining lots of different  
 
->how their articles are performing, who is sharing them, where they're  
+APIs and that's the idea of own your analytics is not just rely on a  
 
+single, you know, not just rely on Google Analytics or rely on  
 
->getting linked to and from can sort of benefit from this.  
+Facebook insights or your Tweetdeck or whatever, but to be able to  
 
+combine them in intelligent ways and start to learn things that you're  
 
->I guess what the context for this session is that we've been  
+interested in.  So actually answer the questions that you're curious  
 
+about.  
 
->working with these tools on our own for, you know, many years now, I  
+We also have Sonia here with us.  She is our resident Facebook  
 
+insights expert.  So she'll be talking about that data and the cool  
 
->don't know how long you've been doing analytic stuff.  But myself at  
+things that she's done with it.  The format is going to be, Stijn is  
 
+going to talk generally about stuff and then specifically about Google  
 
->least for two or three years.  We're hoping to share some of that  
+Analytics.  Sort of the different terminology, because it can be very  
 
+hard to grasp at first.  Sonia is going to walk through Facebook  
 
->knowledge with you, at least the gotchas and at the same time also  
+stuff.  I'm going to talk very quickly about Twitter.  I don't have  
 
+slides but just the things you can do with it and the most difficult  
 
->sort of help you think about all the possibilities that are out there  
+aspects of working with the Twitter API.  
 
+And then hopefully we're just going to maybe break out into  
 
->for learning more about your content by combining lots of different  
+groups and we're pretty small.  But the idea is to start playing  
 
+around with snippets of code we have or we can help you write your own  
 
->APIs and that's the idea of own your analytics is not just rely on a  
+stuff and if you have access to your organization's Google Analytics  
 
+account, we can help you start to pull that data in.  If you have  
 
->single, you know, not just rely on Google Analytics or rely on  
+access to your organization's Facebook account and have insights  
 
+privilege, we can help you start working with that.  And then also  
 
->Facebook insights or your Tweetdeck or whatever, but to be able to  
+Twitter stuff and then maybe even start to brainstorm how we can  
 
+combine these things together and what cool things we can do it with  
 
->combine them in intelligent ways and start to learn things that you're  
+whether it's alert systems or dash boards or just sort of ad hoc  
 
+analyses.  
 
->interested in.  So actually answer the questions that you're curious  
-
-
->about.  
-
-
->We also have Sonia here with us.  She is our resident Facebook  
-
-
->insights expert.  So she'll be talking about that data and the cool  
-
-
->things that she's done with it.  The format is going to be, Stijn is  
-
-
->going to talk generally about stuff and then specifically about Google  
-
-
->Analytics.  Sort of the different terminology, because it can be very  
-
-
->hard to grasp at first.  Sonia is going to walk through Facebook  
-
-
->stuff.  I'm going to talk very quickly about Twitter.  I don't have  
-
-
->slides but just the things you can do with it and the most difficult  
-
-
->aspects of working with the Twitter API.  
-
-
->And then hopefully we're just going to maybe break out into  
-
-
->groups and we're pretty small.  But the idea is to start playing  
-
-
->around with snippets of code we have or we can help you write your own  
-
-
->stuff and if you have access to your organization's Google Analytics  
-
-
->account, we can help you start to pull that data in.  If you have  
-
-
->access to your organization's Facebook account and have insights  
-
-
->privilege, we can help you start working with that.  And then also  
-
-
->Twitter stuff and then maybe even start to brainstorm how we can  
-
-
->combine these things together and what cool things we can do it with  
-
-
->whether it's alert systems or dash boards or just sort of ad hoc  
-
-
->analyses.  
-
-
->We have some data that we've already collected, too.  Michael?  
-
+We have some data that we've already collected, too.  Michael?  
 
 >&gt;We're doing a research project, building this platform which  
 
 
->we're looking for beta testers for.  We have some newsrooms  
+we're looking for beta testers for.  We have some newsrooms  
 
+interested.  You can go to news LYNX like the cat and there is a  
 
->interested.  You can go to news LYNX like the cat and there is a  
+survey there about the organization and you can fill that out and that  
 
-
->survey there about the organization and you can fill that out and that  
-
-
->would be awesome.  Etherpad.Mozilla.org, SRCCON ...  
-
+would be awesome.  Etherpad.Mozilla.org, SRCCON ...  
 
 >&gt;Here.  Let's write this up here.  
 
@@ -177,65 +128,46 @@ Debrouwere.
 >&gt;I managed to download your stuff but thankfully ...  (talking  
 
 
->amongst themselves).  
-
+amongst themselves).  
 
 >&gt;Sorry for the delay in getting started.  Like Brian said this  
 
 
->is own your analytics.  It's sort of at a basic level, getting access  
+is own your analytics.  It's sort of at a basic level, getting access  
 
+to the data and being able to export it.  It's more out of owning your  
 
->to the data and being able to export it.  It's more out of owning your  
+data at a more fundamental level.  What is annoying or what really  
 
+frustrates me about how people handle their analytic software is  
 
->data at a more fundamental level.  What is annoying or what really  
+instead of asking themselves what kind of data do I really need?  What  
 
+kind of metrics do I really need?  Most people log into their analytic  
 
->frustrates me about how people handle their analytic software is  
+software and look at the numbers that are there and assuming that's  
 
+what's important just because it's there.  
 
->instead of asking themselves what kind of data do I really need?  What  
+And the interesting thing is that the more you actually look sort  
 
+of one level deeper and you look at what kind of data is available in  
 
->kind of metrics do I really need?  Most people log into their analytic  
+all of these tools and all of the different tools that are available,  
 
+the more you get to ask yourself sort of more questions at a more  
 
->software and look at the numbers that are there and assuming that's  
+fundamental level like what kind of questions am I really asking?  And  
 
+what kind of tools do I need to get them.  
 
->what's important just because it's there.  
+I think understanding these APIs is like a really sort of basic  
 
+skill that will help you sort of -- well -- think at that more  
 
->And the interesting thing is that the more you actually look sort  
+fundamental level about what you want to use your analytics for.  
 
-
->of one level deeper and you look at what kind of data is available in  
-
-
->all of these tools and all of the different tools that are available,  
-
-
->the more you get to ask yourself sort of more questions at a more  
-
-
->fundamental level like what kind of questions am I really asking?  And  
-
-
->what kind of tools do I need to get them.  
-
-
->I think understanding these APIs is like a really sort of basic  
-
-
->skill that will help you sort of -- well -- think at that more  
-
-
->fundamental level about what you want to use your analytics for.  
-
-
->This is the part that we're still working on.  
-
+This is the part that we're still working on.  
 
 >&gt;We'll do it later, man.  Just get through.  
 
@@ -243,14 +175,11 @@ Debrouwere.
 >&gt;There are already four of these sticks here.  People who want  
 
 
->to code, there is some example packages, Python packages if you're a  
+to code, there is some example packages, Python packages if you're a  
 
+Python programmer on there.  That would be interesting.  Also some  
 
->Python programmer on there.  That would be interesting.  Also some  
-
-
->documentation and stuff, that would be useful.  
-
+documentation and stuff, that would be useful.  
 
 >&gt;We're using the memory sticks.  
 
@@ -258,644 +187,433 @@ Debrouwere.
 >&gt;Inside the memory sticks are virtual machines with all the  
 
 
->dependencies built in and the vagrant distribution, right.  So I don't  
+dependencies built in and the vagrant distribution, right.  So I don't  
 
+know if anyone's used vagrant.  It's all documented, right, how to set  
 
->know if anyone's used vagrant.  It's all documented, right, how to set  
-
-
->it up?  
-
+it up?  
 
 >&gt;Yes, pretty much.  
 
 
->So basically for people that are not that interested in coding,  
+So basically for people that are not that interested in coding,  
 
+that's fine, too.  What I'll start with -- I don't know how long it's  
 
->that's fine, too.  What I'll start with -- I don't know how long it's  
+going to take but I figured between 15 and 30 minutes talking about  
 
+how the Google Analytics site works that is at a conceptual level  
 
->going to take but I figured between 15 and 30 minutes talking about  
+because there is a lot of terminology and stuff.  That is really  
 
+useful to know if you want to use other analytics tools.  
 
->how the Google Analytics site works that is at a conceptual level  
+And after that we'll get more into, well, what can we actually do  
 
+now that we have this data and how can we combine data from different  
 
->because there is a lot of terminology and stuff.  That is really  
+APIs and how can we use these APIs?  So at that point there's sort of  
 
+three options.  One is we'll be at the end of the hour so you can  
 
->useful to know if you want to use other analytics tools.  
+switch to a different session.  Or you can start coding.  Or the third  
 
+option is we can split up into groups and there can be groups that do  
 
->And after that we'll get more into, well, what can we actually do  
+brainstorming and think about alternative metrics and those things  
 
+without necessarily coding them up.  
 
->now that we have this data and how can we combine data from different  
+But for those people that do want to code, we'll be here on hand  
 
+to help you out with that and troubleshoot.  
 
->APIs and how can we use these APIs?  So at that point there's sort of  
+We can skip over this actually.  If the only thing you want from  
 
+your analytics is to get the data up, then most analytics tools have a  
 
->three options.  One is we'll be at the end of the hour so you can  
+big export button.  And that's actually a great way to get started.  
 
+Even though it sounds stupid but the thing is getting started with the  
 
->switch to a different session.  Or you can start coding.  Or the third  
+Google Analytics APIs and some of these different APIs it takes a  
 
+while.  It takes a few days to really get up to speed but we're going  
 
->option is we can split up into groups and there can be groups that do  
+to try to kick start that process.  
 
+To get started, for example in Google analytics you construct  
 
->brainstorming and think about alternative metrics and those things  
+your query to get what you need and export it.  When you quickly need  
 
+the data but the interface is too limited in how it allows you to  
 
->without necessarily coding them up.  
+present that data, you have the right data but you want to display it  
 
+in a different way or different context, the export buttons are really  
 
->But for those people that do want to code, we'll be here on hand  
+good.  
 
+That is not what we're going to talk about because we want to use  
 
->to help you out with that and troubleshoot.  
+those APIs.  
 
+What are some of the advantages of using the APIs over using the  
 
->We can skip over this actually.  If the only thing you want from  
+export buttons?  I think there are sort of three main advantages.  
 
+It's mainly about sort of expanding the range of analysis.  Most of  
 
->your analytics is to get the data up, then most analytics tools have a  
+the analytics tools that you'll see and certainly Google Analytics, I  
 
+call it general awareness.  Like you log into it and see some numbers.  
 
->big export button.  And that's actually a great way to get started.  
+Last week these were my page views, et cetera.  And they're fine for  
 
+that.  But if you want to do anything out of that sort of comfort zone  
 
->Even though it sounds stupid but the thing is getting started with the  
+of what the user interface allows, then you're going to get into  
 
+trouble and that's when you want to use the API.  
 
->Google Analytics APIs and some of these different APIs it takes a  
+One is maybe you want to go deeper and drill deeper in the data  
 
+and combine it with other datasets.  That is when you want to use an  
 
->while.  It takes a few days to really get up to speed but we're going  
+API.  Another one is maybe you want to analyze years worth of data.  
 
+Also when you probably want to get that data from the API.  But also  
 
->to try to kick start that process.  
+sometimes you want stuff to just work really fast and for example  
 
+based on your analytics data you maybe want the change how your home  
 
->To get started, for example in Google analytics you construct  
+page looks or send out an alert to an editor or something.  You can  
 
+have a script running that every 5 minutes or every 10 minutes checks  
 
->your query to get what you need and export it.  When you quickly need  
+your analytics data and based off that sends out those alerts or  
 
+updates the dash board or stuff like that.  
 
->the data but the interface is too limited in how it allows you to  
+In those casings you don't want to be in the user interface of  
 
+Google Analytics every five minutes.  No.  You have a script that does  
 
->present that data, you have the right data but you want to display it  
+it for you.  
 
+The thing is in the interface it's really easy to sort of click  
 
->in a different way or different context, the export buttons are really  
+on buttons until you sort of have what you need.  With the API you  
 
+really do need a mental model of how the data is stored before you can  
 
->good.  
+get started because you need to transform your question to a query.  
 
+And yeah, that's what we'll be talking about.  
 
->That is not what we're going to talk about because we want to use  
+So the first thing that is interesting is well, lets' start at  
 
+the very start, how does Google Analytics store data?  And again, I'm  
 
->those APIs.  
+going to continue to talk about Google Analytics but 99 percent of  
 
+this applies to pretty much any other analytics tool that you will  
 
->What are some of the advantages of using the APIs over using the  
+find, stuff like mixed panel.  
 
+So you visit a page.  Mauves you have probably sort of added  
 
->export buttons?  I think there are sort of three main advantages.  
+Google Analytics to a website so you know that you have to install --  
 
+well, install, add this tracking code to your page.  What that does,  
 
->It's mainly about sort of expanding the range of analysis.  Most of  
+every time someone visits that page, that little -- I guess it's a  
 
+pretty big script, the Google Analytics runs and what it does is it  
 
->the analytics tools that you'll see and certainly Google Analytics, I  
+will -- first it will register your visit.  
 
+There's three parts to it.  One is, does Google Analytics know  
 
->call it general awareness.  Like you log into it and see some numbers.  
+you.  Has it ever seen you before?  If not, it will sort of in its  
 
+system log you as a user.  So it will log you as a new user.  If it  
 
->Last week these were my page views, et cetera.  And they're fine for  
+has seen you before it will associate your page view that was just  
 
+logged with your user.  The second thing is there is not just a user  
 
->that.  But if you want to do anything out of that sort of comfort zone  
+but a session.  A session is not necessarily since you last opened  
 
+your browser.  I think it's limited to have you been on the site in  
 
->of what the user interface allows, then you're going to get into  
+the last 15 minutes or something like that.  
 
+If you haven't been, it will count that as a new session.  A new  
 
->trouble and that's when you want to use the API.  
+browsing session on that website.  It will log that.  And all of your  
 
+next page views during that session will be associated with that  
 
->One is maybe you want to go deeper and drill deeper in the data  
+session.  So a lot of the interesting queries you can do with Google  
 
+Analytics are based on this idea of how many pages did someone visit  
 
->and combine it with other datasets.  That is when you want to use an  
+within a session or did someone within a session first go to this page  
 
+and then to that page?  How many people did that?  
 
->API.  Another one is maybe you want to analyze years worth of data.  
+And so there are those three levels.  One is the event level.  
 
+The main event being the page view.  But Google Analytics supports  
 
->Also when you probably want to get that data from the API.  But also  
+many different types of events and you can add your own eventers.  If  
 
+you want to add a bit of tracking code so every time someone click ons  
 
->sometimes you want stuff to just work really fast and for example  
+a button or every time someone scrolls beyond a thousand pixels you  
 
+can register that as an event with Google Analytics.  
 
->based on your analytics data you maybe want the change how your home  
+So that's really interesting to do that custom tracking.  But the  
 
+default tracking is page views.  Every time you visit a page that is  
 
->page looks or send out an alert to an editor or something.  You can  
+registered as a page event.  There is the event level and then the  
 
+session and the user levels.  Those are the main ones.  
 
->have a script running that every 5 minutes or every 10 minutes checks  
+Alongside those events, an event is not just one little piece of  
 
+data.  It's not just like, hey, this is a page view.  No, there is all  
 
->your analytics data and based off that sends out those alerts or  
+sorts of meta data associated with it.  There is the user and the  
 
+session that is associated with it.  But really many other things can  
 
->updates the dash board or stuff like that.  
+be associated with it as well.  And even you can add custom variables  
 
+in Google Analytics so you can add your own data to these events.  
 
->In those casings you don't want to be in the user interface of  
+In the database an event will be stored as a single row and it  
 
+will have all that meta data on it.  Then we get to metrics.  What is  
 
->Google Analytics every five minutes.  No.  You have a script that does  
+a metric.  A metric is a type of calculation or descriptive statistics  
 
+of an event.  For example just your count of page views, the  
 
->it for you.  
+calculation that is happening is you're counting all of your page  
 
+views.  If your average pages per user per session, if that's 3 and a  
 
->The thing is in the interface it's really easy to sort of click  
+half, well then that somehow had to be calculated off of these events.  
 
+So that is a metric.  A page view is an event.  Today's page views is  
 
->on buttons until you sort of have what you need.  With the API you  
+a metric or the average page views per session is a metric.  
 
+That is important terminology as well.  
 
->really do need a mental model of how the data is stored before you can  
+Now dimensions are sort of we talked before about the fact that  
 
+alongside an event, the main event being a page view you can store all  
 
->get started because you need to transform your question to a query.  
+sorts of other meta data.  One of the key pieces of meta data is the  
 
+date.  Actually for every page view you need to know when did it  
 
->And yeah, that's what we'll be talking about.  
+happen.  So those are dimensions.  All of those pieces of meta data.  
 
+Then there's segments.  Segments are groups and they can be  
 
->So the first thing that is interesting is well, lets' start at  
+groups of people, groups of users or they can be groups of sessions.  
 
+And one of the main ways that you filter the data.  
 
->the very start, how does Google Analytics store data?  And again, I'm  
+The interesting thing to note about them is that they're not  
 
+exclusive.  If you do a query in Google Analytics, you can have many,  
 
->going to continue to talk about Google Analytics but 99 percent of  
+many segments and those segments can all be overlapping.  For example  
 
+a segment can be all of your users that are visiting from the United  
 
->this applies to pretty much any other analytics tool that you will  
+States.  That is a segment of your users.  
 
+Now segments are again, they can be user segment or session  
 
->find, stuff like mixed panel.  
+segments but they're not event segments.  They don't filter at that  
 
+level.  That is why there is a separate kind of filtering that also  
 
->So you visit a page.  Mauves you have probably sort of added  
+exists and that is called filters.  
 
+Those filters, the difference between a filter and a segment is a  
 
->Google Analytics to a website so you know that you have to install --  
+filter filters at the individual row level.  The individual event  
 
+level.  First, your segments and then you have faster piece of  
 
->well, install, add this tracking code to your page.  What that does,  
+filtering and that's your filters.  
 
+Two other key terms are aggregation and sampling.  The main thing  
 
->every time someone visits that page, that little -- I guess it's a  
+to know and a lot of people bitch about Google Analytics because all  
 
+of the metrics are aggregated metrics meaning they're calculations  
 
->pretty big script, the Google Analytics runs and what it does is it  
+that happen on all of these individual rows, all of these individual  
 
+page views and you never really get access to each individual event.  
 
->will -- first it will register your visit.  
+No, you only get access to the resulting calculations.  So they're  
 
+aggregated measures.  
 
->There's three parts to it.  One is, does Google Analytics know  
+And the second thing about Google Analytics is to speed things up  
 
+it will do those calculations not on the entire dataset but on a  
 
->you.  Has it ever seen you before?  If not, it will sort of in its  
+sample of that dataset a lot of the time.  It just makes the  
 
+calculations faster and really you don't really lose that much detail.  
 
->system log you as a user.  So it will log you as a new user.  If it  
+So the thing about this kind terminology or this kind of mental  
 
+model is that it really applies to almost any analytics package.  If  
 
->has seen you before it will associate your page view that was just  
+you think about ChartBeat, they have basically the same way of storing  
 
+data.  With Google Analytics sometimes you have to wait a couple of  
 
->logged with your user.  The second thing is there is not just a user  
+hours before the data comes in.  With ChartBeat you get it live.  
 
+Some kind of analytics are defined by what they don't have.  
 
->but a session.  A session is not necessarily since you last opened  
+Facebook insights data.  If you worked with it.  You have a huge bunch  
 
+of numbers but no way to filter it or segment it by users beyond the  
 
->your browser.  I think it's limited to have you been on the site in  
+segments that Facebook provided for you.  Even though people bitch  
 
+about Google Analytics you have a fancy filtering.  You don't get  
 
->the last 15 minutes or something like that.  
+those with Facebook.  
 
+Some analytics software is different because it allows you to go  
 
->If you haven't been, it will count that as a new session.  A new  
+beyond the aggregates.  With mixed panel you can run queries where you  
 
+ask what users haven't visited the site for a week and now give me  
 
->browsing session on that website.  It will log that.  And all of your  
+their e-mail addresses for logged in users, of course.  And you can  
 
+have those individual e-mail addresses and based off those you can  
 
->next page views during that session will be associated with that  
+reactivate those users by sending them an e-mail.  You haven't visited  
 
+in a while.  What's up?  
 
->session.  So a lot of the interesting queries you can do with Google  
+Some of them are more flexible.  And Heap and Keen are events  
 
+tracking systems.  They have the same structure as Google Analytics  
 
->Analytics are based on this idea of how many pages did someone visit  
+but more flexible reporting.  Or AB testing.  That is the same kind of  
 
+analytics again.  The only exception is you do it against different  
 
->within a session or did someone within a session first go to this page  
+variants of the page or different variants of a title for an article.  
 
+Search logs are a kind of analytic too.  They are a different  
 
->and then to that page?  How many people did that?  
+event.  Instead of the page view eventer it's a search event.  And  
 
+sometimes it's just the terminology.  
 
->And so there are those three levels.  One is the event level.  
+I don't know if some people here use Adobe Omniture at work.  If  
 
+you do I'll be happy to help you out with that later.  Instead of  
 
->The main event being the page view.  But Google Analytics supports  
+talking about dimensions to specify that meta data they talk about  
 
+elements.  It's the same thing.  
 
->many different types of events and you can add your own eventers.  If  
+That's sort of a basic overview.  
 
+I guess my main piece of advice would be what I've seen so many  
 
->you want to add a bit of tracking code so every time someone click ons  
+people do is they decide too soon that the free or cheap tools or  
 
+tools they're already using which a lot of the times is Google  
 
->a button or every time someone scrolls beyond a thousand pixels you  
+Analytics because it's free, it's not enough and people search for  
 
+different tools that maybe make things easier for them.  I think a  
 
->can register that as an event with Google Analytics.  
+good strategy is to really try to get as much as you can out of Google  
 
+Analytics until you're really getting really, really frustrated and  
 
->So that's really interesting to do that custom tracking.  But the  
+really think you're not going to be able to get the data out of there  
 
+you need.  And then think about there may be other tools that can do a  
 
->default tracking is page views.  Every time you visit a page that is  
+better job.  
 
+If you approach it that way you'll have a better idea of what you  
 
->registered as a page event.  There is the event level and then the  
+need from those other tools.  When you go to the feature pages of  
 
+analytics too, X, Y or Z you know I absolutely need this feature  
 
->session and the user levels.  Those are the main ones.  
+because this has been blocking me for the past month in Google  
 
+Analytics and I cannot get that data out of it.  
 
->Alongside those events, an event is not just one little piece of  
+You'll be much better informed if you keep a little bit of that  
 
+frustration in there.  
 
->data.  It's not just like, hey, this is a page view.  No, there is all  
+The second thing is think about return on investment because a  
 
+lot of these analytics tools are really, really expensive and a lot of  
 
->sorts of meta data associated with it.  There is the user and the  
+news organizations are experimenting with using five or six different  
 
+ones and the cost adds up.  Why do you have these analytics?  Because  
 
->session that is associated with it.  But really many other things can  
+you want a return on them.  You want more users or more engaged users  
 
+and whatnot.  You need to make a return on that investment and very  
 
->be associated with it as well.  And even you can add custom variables  
+often you don't.  
 
+So on these memory sticks for people who want to use them,  
 
->in Google Analytics so you can add your own data to these events.  
+there's some data that we've been using from various organizations.  
 
+There is some data from the guardian on there.  Some data from the  
 
->In the database an event will be stored as a single row and it  
+Boston Globe that Sonia brought.  Some other pieces of data.  But I  
 
+guess a more interesting thing and what I hopefully most of you are  
 
->will have all that meta data on it.  Then we get to metrics.  What is  
+here is because you want to do something with your own data.  
 
-
->a metric.  A metric is a type of calculation or descriptive statistics  
-
-
->of an event.  For example just your count of page views, the  
-
-
->calculation that is happening is you're counting all of your page  
-
-
->views.  If your average pages per user per session, if that's 3 and a  
-
-
->half, well then that somehow had to be calculated off of these events.  
-
-
->So that is a metric.  A page view is an event.  Today's page views is  
-
-
->a metric or the average page views per session is a metric.  
-
-
->That is important terminology as well.  
-
-
->Now dimensions are sort of we talked before about the fact that  
-
-
->alongside an event, the main event being a page view you can store all  
-
-
->sorts of other meta data.  One of the key pieces of meta data is the  
-
-
->date.  Actually for every page view you need to know when did it  
-
-
->happen.  So those are dimensions.  All of those pieces of meta data.  
-
-
->Then there's segments.  Segments are groups and they can be  
-
-
->groups of people, groups of users or they can be groups of sessions.  
-
-
->And one of the main ways that you filter the data.  
-
-
->The interesting thing to note about them is that they're not  
-
-
->exclusive.  If you do a query in Google Analytics, you can have many,  
-
-
->many segments and those segments can all be overlapping.  For example  
-
-
->a segment can be all of your users that are visiting from the United  
-
-
->States.  That is a segment of your users.  
-
-
->Now segments are again, they can be user segment or session  
-
-
->segments but they're not event segments.  They don't filter at that  
-
-
->level.  That is why there is a separate kind of filtering that also  
-
-
->exists and that is called filters.  
-
-
->Those filters, the difference between a filter and a segment is a  
-
-
->filter filters at the individual row level.  The individual event  
-
-
->level.  First, your segments and then you have faster piece of  
-
-
->filtering and that's your filters.  
-
-
->Two other key terms are aggregation and sampling.  The main thing  
-
-
->to know and a lot of people bitch about Google Analytics because all  
-
-
->of the metrics are aggregated metrics meaning they're calculations  
-
-
->that happen on all of these individual rows, all of these individual  
-
-
->page views and you never really get access to each individual event.  
-
-
->No, you only get access to the resulting calculations.  So they're  
-
-
->aggregated measures.  
-
-
->And the second thing about Google Analytics is to speed things up  
-
-
->it will do those calculations not on the entire dataset but on a  
-
-
->sample of that dataset a lot of the time.  It just makes the  
-
-
->calculations faster and really you don't really lose that much detail.  
-
-
->So the thing about this kind terminology or this kind of mental  
-
-
->model is that it really applies to almost any analytics package.  If  
-
-
->you think about ChartBeat, they have basically the same way of storing  
-
-
->data.  With Google Analytics sometimes you have to wait a couple of  
-
-
->hours before the data comes in.  With ChartBeat you get it live.  
-
-
->Some kind of analytics are defined by what they don't have.  
-
-
->Facebook insights data.  If you worked with it.  You have a huge bunch  
-
-
->of numbers but no way to filter it or segment it by users beyond the  
-
-
->segments that Facebook provided for you.  Even though people bitch  
-
-
->about Google Analytics you have a fancy filtering.  You don't get  
-
-
->those with Facebook.  
-
-
->Some analytics software is different because it allows you to go  
-
-
->beyond the aggregates.  With mixed panel you can run queries where you  
-
-
->ask what users haven't visited the site for a week and now give me  
-
-
->their e-mail addresses for logged in users, of course.  And you can  
-
-
->have those individual e-mail addresses and based off those you can  
-
-
->reactivate those users by sending them an e-mail.  You haven't visited  
-
-
->in a while.  What's up?  
-
-
->Some of them are more flexible.  And Heap and Keen are events  
-
-
->tracking systems.  They have the same structure as Google Analytics  
-
-
->but more flexible reporting.  Or AB testing.  That is the same kind of  
-
-
->analytics again.  The only exception is you do it against different  
-
-
->variants of the page or different variants of a title for an article.  
-
-
->Search logs are a kind of analytic too.  They are a different  
-
-
->event.  Instead of the page view eventer it's a search event.  And  
-
-
->sometimes it's just the terminology.  
-
-
->I don't know if some people here use Adobe Omniture at work.  If  
-
-
->you do I'll be happy to help you out with that later.  Instead of  
-
-
->talking about dimensions to specify that meta data they talk about  
-
-
->elements.  It's the same thing.  
-
-
->That's sort of a basic overview.  
-
-
->I guess my main piece of advice would be what I've seen so many  
-
-
->people do is they decide too soon that the free or cheap tools or  
-
-
->tools they're already using which a lot of the times is Google  
-
-
->Analytics because it's free, it's not enough and people search for  
-
-
->different tools that maybe make things easier for them.  I think a  
-
-
->good strategy is to really try to get as much as you can out of Google  
-
-
->Analytics until you're really getting really, really frustrated and  
-
-
->really think you're not going to be able to get the data out of there  
-
-
->you need.  And then think about there may be other tools that can do a  
-
-
->better job.  
-
-
->If you approach it that way you'll have a better idea of what you  
-
-
->need from those other tools.  When you go to the feature pages of  
-
-
->analytics too, X, Y or Z you know I absolutely need this feature  
-
-
->because this has been blocking me for the past month in Google  
-
-
->Analytics and I cannot get that data out of it.  
-
-
->You'll be much better informed if you keep a little bit of that  
-
-
->frustration in there.  
-
-
->The second thing is think about return on investment because a  
-
-
->lot of these analytics tools are really, really expensive and a lot of  
-
-
->news organizations are experimenting with using five or six different  
-
-
->ones and the cost adds up.  Why do you have these analytics?  Because  
-
-
->you want a return on them.  You want more users or more engaged users  
-
-
->and whatnot.  You need to make a return on that investment and very  
-
-
->often you don't.  
-
-
->So on these memory sticks for people who want to use them,  
-
-
->there's some data that we've been using from various organizations.  
-
-
->There is some data from the guardian on there.  Some data from the  
-
-
->Boston Globe that Sonia brought.  Some other pieces of data.  But I  
-
-
->guess a more interesting thing and what I hopefully most of you are  
-
-
->here is because you want to do something with your own data.  
-
-
->So that's sort of up to you.  And I guess --  
-
+So that's sort of up to you.  And I guess --  
 
 >&gt;Can we get a quick show of hands how many people have access  
 
 
->to their Google Analytics account who want to play with that today?  
+to their Google Analytics account who want to play with that today?  
 
+No?  Does anyone have access to their Facebook account and has  
 
->No?  Does anyone have access to their Facebook account and has  
+insights?  Wow.  That's interesting.  
 
-
->insights?  Wow.  That's interesting.  
-
-
->Why -- I'm curious now.  Wait ...  
-
+Why -- I'm curious now.  Wait ...  
 
 >&gt;We don't really use Google Analytics.  We have Omniture.  
 
@@ -906,8 +624,7 @@ Debrouwere.
 >&gt;Any data not just -- you have Omniture.  Would you like to  
 
 
->play with that data.  
-
+play with that data.  
 
 >&gt;That is why you get the data out of Omniture.  
 
@@ -915,101 +632,71 @@ Debrouwere.
 >&gt;I spent most of last year working at the guardian's Omniture  
 
 
->as well.  It's a really ugly API to use but because of that, I spent  
+as well.  It's a really ugly API to use but because of that, I spent  
 
+some time creating an API wrapper around it.  So you can actually sort  
 
->some time creating an API wrapper around it.  So you can actually sort  
+of access the data in a fairly clean way.  You may have to sort of  
 
+revisit it.  
 
->of access the data in a fairly clean way.  You may have to sort of  
+So I'd be happy to show that.  Although we'll do that on an  
 
+individual level.  People can work on what they want to work on.  
 
->revisit it.  
+So yeah, if you want to use your data and we hope you do, there  
 
+are two ways.  One, you can export it if you want to do analysis in  
 
->So I'd be happy to show that.  Although we'll do that on an  
+excel and stuff.  We can help you with that.  Or we can troubleshoot  
 
+you as you try to get access to, for example the Google Analytics API,  
 
->individual level.  People can work on what they want to work on.  
+well I guess nobody here wants to do that.  
 
+Or Omniture we can also help you get logged into that.  
 
->So yeah, if you want to use your data and we hope you do, there  
+So yeah, everyone can sort of work individually the kind of data  
 
+they want.  Whether you want to use the user interfaces or whether you  
 
->are two ways.  One, you can export it if you want to do analysis in  
+want to use the APIs or whether you want to use our data.  Or if you  
 
+don't want to code, you don't feel like coding or you're not a coder,  
 
->excel and stuff.  We can help you with that.  Or we can troubleshoot  
+then I think it would be great if there was a group or multiple groups  
 
+that can just do brainstorming around what kind of metrics do we need  
 
->you as you try to get access to, for example the Google Analytics API,  
-
-
->well I guess nobody here wants to do that.  
-
-
->Or Omniture we can also help you get logged into that.  
-
-
->So yeah, everyone can sort of work individually the kind of data  
-
-
->they want.  Whether you want to use the user interfaces or whether you  
-
-
->want to use the APIs or whether you want to use our data.  Or if you  
-
-
->don't want to code, you don't feel like coding or you're not a coder,  
-
-
->then I think it would be great if there was a group or multiple groups  
-
-
->that can just do brainstorming around what kind of metrics do we need  
-
-
->in our newsrooms and what are we not getting?  
-
+in our newsrooms and what are we not getting?  
 
 >&gt;We're small so maybe everyone can go around and give a 20 or  
 
 
->30 second spiel on why they're here, what they're interested in doing,  
+30 second spiel on why they're here, what they're interested in doing,  
 
-
->and what they need help with.  We'll start over here with you.  
-
+and what they need help with.  We'll start over here with you.  
 
 >&gt;I'm Sam.  I'm at courts (ph.).  I worked on a bunch of  
 
 
->different projects.  I've been playing -- we don't have much in the  
+different projects.  I've been playing -- we don't have much in the  
 
+way of our own dash board at check out or anything like that.  We've  
 
->way of our own dash board at check out or anything like that.  We've  
+been using ChartBeat.  That is all they use.  And then I've been  
 
+trying to put in a few extra things.  I have a data display with  
 
->been using ChartBeat.  That is all they use.  And then I've been  
+Tweets per hour.  I have a Tweet that mentions courts.  Parcels out  
 
+the ID of the link, you know or the post.  And then match that up with  
 
->trying to put in a few extra things.  I have a data display with  
+your data and calculates Tweets per hour for any of our articles.  
 
+So I would love to do the same thing with Facebook but I have not  
 
->Tweets per hour.  I have a Tweet that mentions courts.  Parcels out  
-
-
->the ID of the link, you know or the post.  And then match that up with  
-
-
->your data and calculates Tweets per hour for any of our articles.  
-
-
->So I would love to do the same thing with Facebook but I have not  
-
-
->found an easy way to do that?  
-
+found an easy way to do that?  
 
 >&gt;To find everyone mentioning Facebook.  
 
@@ -1026,14 +713,11 @@ Debrouwere.
 >&gt;One thing that Stijn has built that will go into our project  
 
 
->is you can talk about it, it's called Pollster.  It takes a stream of  
+is you can talk about it, it's called Pollster.  It takes a stream of  
 
+URLs and counts up how many times they're being shared across many net  
 
->URLs and counts up how many times they're being shared across many net  
-
-
->works.  Twitter, Facebook, REVIT, dig.  
-
+works.  Twitter, Facebook, REVIT, dig.  
 
 >&gt;Is it for all articles that are posted?  
 
@@ -1047,23 +731,19 @@ Debrouwere.
 >&gt;You give it a feed of articles and it follows that and keeps  
 
 
->tracking it for two weeks after publication.  
-
+tracking it for two weeks after publication.  
 
 >&gt;That is what I was playing with.  Facebook, I can't get every  
 
 
->share.  
-
+share.  
 
 >&gt;Although Michael and I were just told about something, crowd  
 
 
->tangle.  Crowd tangle.  And apparently they can give you a sense of  
+tangle.  Crowd tangle.  And apparently they can give you a sense of  
 
-
->the actual pages that you're content is showing up on.  
-
+the actual pages that you're content is showing up on.  
 
 >&gt;Keep going around.  
 
@@ -1071,17 +751,13 @@ Debrouwere.
 >&gt;I'm Allison, I work at academics center at Princeton  
 
 
->university and we're looking to ramp up the accessibility of digital  
+university and we're looking to ramp up the accessibility of digital  
 
+work we have.  Part of the reason we haven't been paying attention to  
 
->work we have.  Part of the reason we haven't been paying attention to  
+analytics, we wanted to find out who our audience is and segment it  
 
-
->analytics, we wanted to find out who our audience is and segment it  
-
-
->out and understand more about what we can do given that information.  
-
+out and understand more about what we can do given that information.  
 
 >&gt;Great.  What is your site like?  
 
@@ -1095,8 +771,7 @@ Debrouwere.
 >&gt;We'll be posting -- there's some content from courses and  
 
 
->articles, PDFs.  
-
+articles, PDFs.  
 
 >&gt;Cool.  All right.  Keep going.  
 
@@ -1104,29 +779,21 @@ Debrouwere.
 >&gt;I work for the international center for journalists.  We're a  
 
 
->nonprofit based in D.C.  We have a sister website that is published in  
+nonprofit based in D.C.  We have a sister website that is published in  
 
+7 languages.  We wanted -- we're going to be (inaudible) we've been  
 
->7 languages.  We wanted -- we're going to be (inaudible) we've been  
+talking about it.  We just want to know more like my dream would be to  
 
+have a tool that would tell me, I feed it a link and I would know when  
 
->talking about it.  We just want to know more like my dream would be to  
+it was shared, where, and then I can get it all, the metrics that are  
 
+important to me in one place.  
 
->have a tool that would tell me, I feed it a link and I would know when  
+We do Twitter searches, we search all the search media accounts  
 
-
->it was shared, where, and then I can get it all, the metrics that are  
-
-
->important to me in one place.  
-
-
->We do Twitter searches, we search all the search media accounts  
-
-
->and whatnot but it's not as easy as having it all in one place?  
-
+and whatnot but it's not as easy as having it all in one place?  
 
 >&gt;Yes.  Great.  
 
@@ -1134,8 +801,7 @@ Debrouwere.
 >&gt;I am Ringo and I work for the ICIDA.  I have been working with  
 
 
->ETLs -- extraction ...  
-
+ETLs -- extraction ...  
 
 >&gt;Okay.  
 
@@ -1143,11 +809,9 @@ Debrouwere.
 >&gt;And the ETL that I am using has some components to extract  
 
 
->data from the Google Analytics.  I wanted to know what question can I  
+data from the Google Analytics.  I wanted to know what question can I  
 
-
->do?  
-
+do?  
 
 >&gt;We can help you with that.  
 
@@ -1155,8 +819,7 @@ Debrouwere.
 >&gt;Mostly I'm curious about which ...  But I don't know anything  
 
 
->about the statistics anywhere.  
-
+about the statistics anywhere.  
 
 >&gt;I like to call what I do advanced applied counting.  
 
@@ -1164,17 +827,14 @@ Debrouwere.
 >&gt;Jessica Clark.  I'm a media strategist so I need to know how  
 
 
->to work with my clients who are documentary film makers.  I'm tracking  
+to work with my clients who are documentary film makers.  I'm tracking  
 
-
->new impact tools at media impact wonders.  
-
+new impact tools at media impact wonders.  
 
 >&gt;We've talked before.  It's nice to meet you in person.  I'm  
 
 
->sorry, hi.  Michael is back there, too.  
-
+sorry, hi.  Michael is back there, too.  
 
 >&gt;I'm here just to listen and learn.  
 
@@ -1185,59 +845,42 @@ Debrouwere.
 >&gt;I am Adrian from Boston Globe.  And I'm here -- it was just an  
 
 
->intellectual curiosity about what you've been working on.  I also  
+intellectual curiosity about what you've been working on.  I also  
 
+manage a site at the globe called BC wired.  It would be cool to get  
 
->manage a site at the globe called BC wired.  It would be cool to get  
+better understanding of that.  And I manage commenting and forums and  
 
+user engagement.  So it would be nice to also start looking at how our  
 
->better understanding of that.  And I manage commenting and forums and  
+engagement has been changing over time.  We went through a redesign  
 
+and everybody hates it of course.  But they -- but our comments have  
 
->user engagement.  So it would be nice to also start looking at how our  
+gone up even though we lost a huge percentage of our readership.  It's  
 
+an anomaly that we have to look into.  It would be nice not to log my  
 
->engagement has been changing over time.  We went through a redesign  
-
-
->and everybody hates it of course.  But they -- but our comments have  
-
-
->gone up even though we lost a huge percentage of our readership.  It's  
-
-
->an anomaly that we have to look into.  It would be nice not to log my  
-
-
->questions to the analytics team.  
-
+questions to the analytics team.  
 
 >&gt;I'm Jeff.  I run a group a called the American press  
 
 
->institute.  We work with publishers on innovation issues.  We built  
+institute.  We work with publishers on innovation issues.  We built  
 
+some sort of metric software that helps publishers track this stuff at  
 
->some sort of metric software that helps publishers track this stuff at  
+the story level and pull it up in new ways.  We're pulling Google  
 
+Analytics and only the social APIs.  I'm generally curious are there  
 
->the story level and pull it up in new ways.  We're pulling Google  
+other things I can add to this mix.  We're making this cocktail of  
 
+metrics from different places.  
 
->Analytics and only the social APIs.  I'm generally curious are there  
+I have one particularly weird Omniture bug that I'm trying to  
 
-
->other things I can add to this mix.  We're making this cocktail of  
-
-
->metrics from different places.  
-
-
->I have one particularly weird Omniture bug that I'm trying to  
-
-
->figure out that no one else will care about but I'll ask you?  
-
+figure out that no one else will care about but I'll ask you?  
 
 >&gt;Stijn can probably help.  
 
@@ -1245,29 +888,22 @@ Debrouwere.
 >&gt;My name is Fergus.  We work with impact and metrics.  These  
 
 
->guys are working on part of this.  That is primarily why I'm here.  
-
+guys are working on part of this.  That is primarily why I'm here.  
 
 >&gt;My name is Allison and I work -- I'm a web developer and I  
 
 
->work at the front line club and we underutilize our analytics  
+work at the front line club and we underutilize our analytics  
 
+packages.  We run 200 events open to the public every year and we  
 
->packages.  We run 200 events open to the public every year and we  
+don't pay attention to engagement on our website.  I'd like to learn  
 
+to hack around a bit with analytics.  
 
->don't pay attention to engagement on our website.  I'd like to learn  
+I'm having horrible problems with my wireless.  I can't get on  
 
-
->to hack around a bit with analytics.  
-
-
->I'm having horrible problems with my wireless.  I can't get on  
-
-
->the network.  If anybody is a networking GURU and wants to help me?  
-
+the network.  If anybody is a networking GURU and wants to help me?  
 
 >&gt;Is that a general problem.  Does no one have wifi?  
 
@@ -1275,8 +911,7 @@ Debrouwere.
 >&gt;It's been coming and going.  Working with APIs without the  
 
 
->internet.  That is fun.  
-
+internet.  That is fun.  
 
 >&gt;Maybe Sonia, would you want to start.  
 
@@ -1284,44 +919,32 @@ Debrouwere.
 >&gt;I wanted to get a sense of where we're at.  There are some  
 
 
->people interested in Google.  
+people interested in Google.  
 
+Sonia is going to talk about Facebook stuff.  Sonia was an open  
 
->Sonia is going to talk about Facebook stuff.  Sonia was an open  
+news fellow last year with Stijn and I at the Boston Globe and did  
 
-
->news fellow last year with Stijn and I at the Boston Globe and did  
-
-
->incredible work with Facebook.  
-
+incredible work with Facebook.  
 
 >&gt;Another one is stories added.  That means you may have (lost  
 
 
->internet connection).  
+internet connection).  
 
+(lost internet connection).  
 
->(lost internet connection).  
+You can export 400 or 500 rows each time.  If the newsroom  
 
+publishes a lot, it can only get ten days of data.  If you use API  
 
->You can export 400 or 500 rows each time.  If the newsroom  
+it's almost unlimited.  You can get dates and all the posts from those  
 
+dates.  
 
->publishes a lot, it can only get ten days of data.  If you use API  
+And the other is face query language.  I can show you how to use  
 
-
->it's almost unlimited.  You can get dates and all the posts from those  
-
-
->dates.  
-
-
->And the other is face query language.  I can show you how to use  
-
-
->that later?  
-
+that later?  
 
 >&gt;Aren't they getting rid of that with the version 2.0?  
 
@@ -1350,272 +973,187 @@ Debrouwere.
 >&gt;There are two typings of insights, one is page insights and  
 
 
->the other is post insights.  Have you ever played with those two?  Let  
+the other is post insights.  Have you ever played with those two?  Let  
 
+me try to distinguish them.  Post insights is once you post something  
 
->me try to distinguish them.  Post insights is once you post something  
+there is a comments likes about this one post when the post was  
 
+published.  
 
->there is a comments likes about this one post when the post was  
+The page insights is aggregate.  For you page you get 1 million  
 
+page views today or 100 comments today.  It's highly aggregated.  The  
 
->published.  
+good thing about the insights you would have a better sense of your  
 
+audience.  Where are they from?  Or even in the city, say Texas or  
 
->The page insights is aggregate.  For you page you get 1 million  
+Massachusetts.  Or how many of the fans are online.  They added that  
 
+last June.  If you map out the curve, say if you try to divide the  
 
->page views today or 100 comments today.  It's highly aggregated.  The  
+fans per hour by the total fan number, you can get the percentage.  
 
+For instance during a peak you may have 30 percent of the fans online.  
 
->good thing about the insights you would have a better sense of your  
+Following your advice you have to think about the session.  Maybe it's  
 
+50 minutes or 30.  No matter what that is a rough sense.  If you're in  
 
->audience.  Where are they from?  Or even in the city, say Texas or  
+the peak you have 30 percent of your fans online.  And then at night  
 
-
->Massachusetts.  Or how many of the fans are online.  They added that  
-
-
->last June.  If you map out the curve, say if you try to divide the  
-
-
->fans per hour by the total fan number, you can get the percentage.  
-
-
->For instance during a peak you may have 30 percent of the fans online.  
-
-
->Following your advice you have to think about the session.  Maybe it's  
-
-
->50 minutes or 30.  No matter what that is a rough sense.  If you're in  
-
-
->the peak you have 30 percent of your fans online.  And then at night  
-
-
->you may have 10 percent but generally day after day it's a big curve?  
-
+you may have 10 percent but generally day after day it's a big curve?  
 
 >&gt;Here I gave you some sense about very simple metrics combining  
 
 
->raw data.  When I look online very often people talk about  
+raw data.  When I look online very often people talk about  
 
-
->conversational ratio.  
-
+conversational ratio.  
 
 >&gt;Can you say the different between likes, shares, comments and  
 
 
->impressions as base book defines them.  
-
+impressions as base book defines them.  
 
 >&gt;Impressions are the unique, either it's unique or absolutely  
 
 
->total means I'm a very passionate user of Facebook.  I will be counted  
+total means I'm a very passionate user of Facebook.  I will be counted  
 
+ten times a day.  That will be, I get ten impressions of this  
 
->ten times a day.  That will be, I get ten impressions of this  
+particular page today.  
 
+If you talk about unique user, I'm counted as only one user.  I  
 
->particular page today.  
+don't contribute to that part.  If you want to know, am I building up  
 
+my audience you look at a unique user.  You see a rise or a decline.  
 
->If you talk about unique user, I'm counted as only one user.  I  
+But if you want to know if some of the stories are really popular or  
 
+not, you look at the total impressions.  
 
->don't contribute to that part.  If you want to know, am I building up  
+Maybe some people, okay, I left a comment and want to come back  
 
+to debate with people.  Then you look at impressions.  
 
->my audience you look at a unique user.  You see a rise or a decline.  
+And also, likes, shares, and comments are just numbers.  You can  
 
+see on the surface of Facebook, it's public.  Not only you but  
 
->But if you want to know if some of the stories are really popular or  
+everybody can see it.  The impressions you need the privilege with  
 
+Facebook insights.  
 
->not, you look at the total impressions.  
+Suppose you can see the number of impressions.  And then if you  
 
+divide like, shares and comments with it, you can get a ratio.  Very  
 
->Maybe some people, okay, I left a comment and want to come back  
+often impressions can be one million or those can be one or two  
 
+hundred, at the most one thousand most of the time.  And some people  
 
->to debate with people.  Then you look at impressions.  
+give a name.  That is conversational ratio.  Even though this story  
 
+has reached a lot of people, are people engaged.  
 
->And also, likes, shares, and comments are just numbers.  You can  
+That is why some of you have mentioned that you want to  
 
+understand how people are engaged in some stories and then the next  
 
->see on the surface of Facebook, it's public.  Not only you but  
+question would be, why some stories are more engaging than others.  
 
+Next metric I want to talk about is diffusion ratio.  There is a  
 
->everybody can see it.  The impressions you need the privilege with  
+dilemma here.  Say the Boston Globe, I talked to associate editors  
 
+over there and a woman says go Sox.  That works.  You cater to your  
 
->Facebook insights.  
+core readers well.  But a problem is nonfans wouldn't say go Sox.  
 
+They don't care about the story.  The diffusion ratio will tell you  
 
->Suppose you can see the number of impressions.  And then if you  
+how many new readers you will get with this story.  
 
+Suppose you have the privilege, you can use the number of nonfans  
 
->divide like, shares and comments with it, you can get a ratio.  Very  
+impression divided by the total impression.  I have this much amount  
 
+of impressions, part of it is from the fans and the other part is from  
 
->often impressions can be one million or those can be one or two  
+the nonfans.  The nonfans are potential fans the next day.  You want  
 
+to get a lot of them as well.  
 
->hundred, at the most one thousand most of the time.  And some people  
+But if we -- so definitely this is less than one.  If we use one  
 
+and then minus that ratio, you can get a shareable this story is.  
 
->give a name.  That is conversational ratio.  Even though this story  
+Shareable ratio.  We calculate this because sometimes some stories are  
 
+controversial but not sociable.  On social media people share a story  
 
->has reached a lot of people, are people engaged.  
+that are very positive that will show your best side of yourself.  Say  
 
+it's about fashion, fine art, interesting things, cool devices.  So  
 
->That is why some of you have mentioned that you want to  
+people will share that.  But if it's controversial, people will stay  
 
+within the post and comment on it.  
 
->understand how people are engaged in some stories and then the next  
+We can measure the shareable ratio.  Then another one is  
 
+likeable.  Sometimes there is kind of like sentiment conflict.  If  
 
->question would be, why some stories are more engaging than others.  
+it's about disaster or war or murder, have often people say I cannot  
 
+like it.  Even though I think the story is right, I just cannot like  
 
->Next metric I want to talk about is diffusion ratio.  There is a  
+it.  
 
+We will see some examples next.  
 
->dilemma here.  Say the Boston Globe, I talked to associate editors  
+Again, we tried to divide likes with engagement.  Engagement is a  
 
+raw number given by Facebook.  How many people have pegged this post  
 
->over there and a woman says go Sox.  That works.  You cater to your  
+anywhere.  That is engagement.  
 
+And another one this is a funny name.  Tantalizing ratio.  I  
 
->core readers well.  But a problem is nonfans wouldn't say go Sox.  
+think that's funny.  It's a link click.  Link clicks is within the  
 
+insights.  Divided by total clicks.  
 
->They don't care about the story.  The diffusion ratio will tell you  
+Sometimes it's a story, think about Huffington or Boston, five  
 
+things you should do in Philadelphia.  Ten whatever, one hundred  
 
->how many new readers you will get with this story.  
+whatever.  That means the information is not complete on Facebook.  
 
+But they give you a -- if you click it, I'll let you see something.  
 
->Suppose you have the privilege, you can use the number of nonfans  
+But I'll never give you a full picture.  That is why it's called  
 
+tantalizing.  People say, that's interesting, I'm going to click it.  
 
->impression divided by the total impression.  I have this much amount  
+If you reverse it that is information completeness.  How complete  
 
+the information is.  If you publish a score of a game, two to one,  
 
->of impressions, part of it is from the fans and the other part is from  
+somebody won and somebody didn't.  People won't click it.  Why do you  
 
-
->the nonfans.  The nonfans are potential fans the next day.  You want  
-
-
->to get a lot of them as well.  
-
-
->But if we -- so definitely this is less than one.  If we use one  
-
-
->and then minus that ratio, you can get a shareable this story is.  
-
-
->Shareable ratio.  We calculate this because sometimes some stories are  
-
-
->controversial but not sociable.  On social media people share a story  
-
-
->that are very positive that will show your best side of yourself.  Say  
-
-
->it's about fashion, fine art, interesting things, cool devices.  So  
-
-
->people will share that.  But if it's controversial, people will stay  
-
-
->within the post and comment on it.  
-
-
->We can measure the shareable ratio.  Then another one is  
-
-
->likeable.  Sometimes there is kind of like sentiment conflict.  If  
-
-
->it's about disaster or war or murder, have often people say I cannot  
-
-
->like it.  Even though I think the story is right, I just cannot like  
-
-
->it.  
-
-
->We will see some examples next.  
-
-
->Again, we tried to divide likes with engagement.  Engagement is a  
-
-
->raw number given by Facebook.  How many people have pegged this post  
-
-
->anywhere.  That is engagement.  
-
-
->And another one this is a funny name.  Tantalizing ratio.  I  
-
-
->think that's funny.  It's a link click.  Link clicks is within the  
-
-
->insights.  Divided by total clicks.  
-
-
->Sometimes it's a story, think about Huffington or Boston, five  
-
-
->things you should do in Philadelphia.  Ten whatever, one hundred  
-
-
->whatever.  That means the information is not complete on Facebook.  
-
-
->But they give you a -- if you click it, I'll let you see something.  
-
-
->But I'll never give you a full picture.  That is why it's called  
-
-
->tantalizing.  People say, that's interesting, I'm going to click it.  
-
-
->If you reverse it that is information completeness.  How complete  
-
-
->the information is.  If you publish a score of a game, two to one,  
-
-
->somebody won and somebody didn't.  People won't click it.  Why do you  
-
-
->click it, people know the result?  
-
+click it, people know the result?  
 
 >&gt;These are fantastic questions and ideas.  Is this commonly --  
 
 
->common language throughout the Facebook analytics community?  Where is  
+common language throughout the Facebook analytics community?  Where is  
 
-
->this from.  
-
+this from.  
 
 >&gt;Out of my head.  
 
@@ -1626,182 +1164,123 @@ Debrouwere.
 >&gt;First conversational posts.  In terms of the Boston Globes,  
 
 
->when you mention the Red Sox, people are like yeah.  The next is  
+when you mention the Red Sox, people are like yeah.  The next is  
 
+missed conversation.  They're about politics and other things.  People  
 
->missed conversation.  They're about politics and other things.  People  
+don't share, don't comment, don't like.  They're just like bombs that  
 
+go down.  
 
->don't share, don't comment, don't like.  They're just like bombs that  
+Most shareable.  Shareable things about social media are social.  
 
+You want to socialize with your peers through stories.  And then of  
 
->go down.  
+course concerts and fashion and then -- they're very sociable and show  
 
+the best side of yourself.  You may have another self online and also  
 
->Most shareable.  Shareable things about social media are social.  
+the red Sox because it's positive and you would like to share good  
 
+news and also Paris Hilton, like gossip, I want to talk about with my  
 
->You want to socialize with your peers through stories.  And then of  
+friends.  
 
+And then least shareable things are very often negative.  
 
->course concerts and fashion and then -- they're very sociable and show  
+Allegations about a murder suspect.  Accused of lying, guilty,  
 
+charges, justice and suspicion.  When you have negative words people  
 
->the best side of yourself.  You may have another self online and also  
+don't want to share it.  
 
+Most likeable posts.  They are very, very positive but there are  
 
->the red Sox because it's positive and you would like to share good  
+some subtle difference between the likeable stories and shareable  
 
+stories.  Like is a cheap commodity on Facebook.  Comment you have to  
 
->news and also Paris Hilton, like gossip, I want to talk about with my  
+write.  And share you have to click and share.  Like is another  
 
+phenomenon on Facebook.  Red Sox winning streak, losing streak.  
 
->friends.  
+That's the pattern of likeables.  
 
+The most tantalizing or the least information.  Serious car crash  
 
->And then least shareable things are very often negative.  
+and what.  Your have to click.  And then critically acclaimed and then  
 
+you have to click.  And 10 fastest or growing and declining.  
 
->Allegations about a murder suspect.  Accused of lying, guilty,  
+This is kind of like (inaudible) you have to just keep in mind  
 
+this promise.  
 
->charges, justice and suspicion.  When you have negative words people  
+And find one near you.  You have to click it.  And no longer post  
 
+job listings.  Why.  That is weird.  The story is not on Facebook.  
 
->don't want to share it.  
+And top things you have to do.  That's not on Facebook.  
 
+Least tantalizing.  That means the information is incomplete.  
 
->Most likeable posts.  They are very, very positive but there are  
+Which company, this company, what's the price, that's the price.  Why  
 
+is it necessary to click the link.  
 
->some subtle difference between the likeable stories and shareable  
+This is the last two slides for the metrics.  
 
+Most diffused posts.  People want to share it.  That means reach  
 
->stories.  Like is a cheap commodity on Facebook.  Comment you have to  
+a lot of nonfans.  Nonfans means they're not necessarily in Boston or  
 
+in the region.  Because the Boston Globe is still a local newspaper.  
 
->write.  And share you have to click and share.  Like is another  
+That means if you cover some national news or international news,  
 
+other people will also pay attention to sex tape star.  That is like  
 
->phenomenon on Facebook.  Red Sox winning streak, losing streak.  
+an international star.  Red Sox and this is a game between two teams.  
 
+Fans from the other team would also pay attention to the story.  The  
 
->That's the pattern of likeables.  
+wonder years.  These are all names.  Famous not only in Boston but in  
 
+the state, the country, and the world.  That is why you have this  
 
->The most tantalizing or the least information.  Serious car crash  
+story diffused more than the others.  
 
+The least diffused means they are really favored by the fans.  
 
->and what.  Your have to click.  And then critically acclaimed and then  
+Red Sox.  That's the pattern.  
 
+Here we have the question of a social sharing dilemma and the  
 
->you have to click.  And 10 fastest or growing and declining.  
+strategy.  If you want to cater to core readers but nonfans may not  
 
+like the story.  That is one problem.  Another problem is either you  
 
->This is kind of like (inaudible) you have to just keep in mind  
+want engagement on Facebook or actually you want to get people to your  
 
+own website.  That's another question.  
 
->this promise.  
+And also you want to share some bad news in order to attract  
 
+attention.  Or you want to share good news to attract likes and  
 
->And find one near you.  You have to click it.  And no longer post  
+shares.  That is another dilemma.  
 
+Also we need to understand that we have to give the context to  
 
->job listings.  Why.  That is weird.  The story is not on Facebook.  
+the news stories.  Stories perform differently.  How we can give  
 
+appropriate credit to our journalists.  
 
->And top things you have to do.  That's not on Facebook.  
+Last year this is a graduation where I wrote this post.  The  
 
+previous metrics are mostly based on this post.  I tried to quantify  
 
->Least tantalizing.  That means the information is incomplete.  
-
-
->Which company, this company, what's the price, that's the price.  Why  
-
-
->is it necessary to click the link.  
-
-
->This is the last two slides for the metrics.  
-
-
->Most diffused posts.  People want to share it.  That means reach  
-
-
->a lot of nonfans.  Nonfans means they're not necessarily in Boston or  
-
-
->in the region.  Because the Boston Globe is still a local newspaper.  
-
-
->That means if you cover some national news or international news,  
-
-
->other people will also pay attention to sex tape star.  That is like  
-
-
->an international star.  Red Sox and this is a game between two teams.  
-
-
->Fans from the other team would also pay attention to the story.  The  
-
-
->wonder years.  These are all names.  Famous not only in Boston but in  
-
-
->the state, the country, and the world.  That is why you have this  
-
-
->story diffused more than the others.  
-
-
->The least diffused means they are really favored by the fans.  
-
-
->Red Sox.  That's the pattern.  
-
-
->Here we have the question of a social sharing dilemma and the  
-
-
->strategy.  If you want to cater to core readers but nonfans may not  
-
-
->like the story.  That is one problem.  Another problem is either you  
-
-
->want engagement on Facebook or actually you want to get people to your  
-
-
->own website.  That's another question.  
-
-
->And also you want to share some bad news in order to attract  
-
-
->attention.  Or you want to share good news to attract likes and  
-
-
->shares.  That is another dilemma.  
-
-
->Also we need to understand that we have to give the context to  
-
-
->the news stories.  Stories perform differently.  How we can give  
-
-
->appropriate credit to our journalists.  
-
-
->Last year this is a graduation where I wrote this post.  The  
-
-
->previous metrics are mostly based on this post.  I tried to quantify  
-
-
->the issues I was covering in this post?  
-
+the issues I was covering in this post?  
 
 >&gt;I never noticed that picture.  It's a nice picture.  
 
@@ -1812,20 +1291,16 @@ Debrouwere.
 >&gt;After hearing about those metrics, do you have any ideas for  
 
 
->your own metrics?  Likes, shares, any combination of things?  Yes  
+your own metrics?  Likes, shares, any combination of things?  Yes  
 
-
->please.  
-
+please.  
 
 >&gt;You left, well maybe it's not available on insights but which  
 
 
->people use Facebook is to get participatory creation.  Post your  
+people use Facebook is to get participatory creation.  Post your  
 
-
->photos and we'll put them in this bank.  
-
+photos and we'll put them in this bank.  
 
 >&gt;We don't do that at the globe.  That's the short answer.  
 
@@ -1836,26 +1311,20 @@ Debrouwere.
 >&gt;I've noticed that base book recently offered insights into  
 
 
->video.  Like how many segments people have watched.  Some newsrooms  
+video.  Like how many segments people have watched.  Some newsrooms  
 
+post a lot of video.  You should check the time span.  How much people  
 
->post a lot of video.  You should check the time span.  How much people  
+watch through this video.  
 
+And another thing is photo, photo views.  Not only clicks but  
 
->watch through this video.  
-
-
->And another thing is photo, photo views.  Not only clicks but  
-
-
->photo views.  Those things also would matter?  
-
+photo views.  Those things also would matter?  
 
 >&gt;Know at some point you said you were trying to track when  
 
 
->people clicked the most?  
-
+people clicked the most?  
 
 >&gt;Yes.  
 
@@ -1866,38 +1335,27 @@ Debrouwere.
 >&gt;I tried to analyze the data.  I benefited from Brian's code.  
 
 
->The code to grab data every ten minutes and I built something upon it.  
+The code to grab data every ten minutes and I built something upon it.  
 
+It's not only about Facebook but also You Tube.  If a story takes up  
 
->It's not only about Facebook but also You Tube.  If a story takes up  
+within the first two or three hours you can see a sharp jump.  And  
 
+probably the story will ...  Later.  If it doesn't take off, that will  
 
->within the first two or three hours you can see a sharp jump.  And  
+just -- it will never take off.  The same for You Tube.  
 
+The first jump is really important.  Another thing is if you  
 
->probably the story will ...  Later.  If it doesn't take off, that will  
+share a story, it doesn't jump and you have confidence in the story,  
 
+this should be a popular story.  Maybe you didn't share it right or  
 
->just -- it will never take off.  The same for You Tube.  
+with the right picture or language on Facebook and try again after a  
 
+few hours.  After a few hours it's almost like a new story.  Facebook  
 
->The first jump is really important.  Another thing is if you  
-
-
->share a story, it doesn't jump and you have confidence in the story,  
-
-
->this should be a popular story.  Maybe you didn't share it right or  
-
-
->with the right picture or language on Facebook and try again after a  
-
-
->few hours.  After a few hours it's almost like a new story.  Facebook  
-
-
->would bury older stories?  
-
+would bury older stories?  
 
 >&gt;Do they dock if you post the same link?  
 
@@ -1905,59 +1363,45 @@ Debrouwere.
 >&gt;If it's too fast, yes.  After a few hours it's okay.  If the  
 
 
->story didn't talk off, base book will bury it any way.  
-
+story didn't talk off, base book will bury it any way.  
 
 >&gt;One interesting metric that I experimented with at the  
 
 
->Guardian was you can get at the filtering based off of some of the  
+Guardian was you can get at the filtering based off of some of the  
 
+metrics that are on Facebook insights.  So some posts are filtered out  
 
->metrics that are on Facebook insights.  So some posts are filtered out  
+more often.  Facebook will hide them from more people and other posts  
 
-
->more often.  Facebook will hide them from more people and other posts  
-
-
->get shared with more people.  
-
+get shared with more people.  
 
 >&gt;That's why the first couple of hours is really important.  
 
 
->Facebook I don't think has that kind of sophisticated algorithm to  
+Facebook I don't think has that kind of sophisticated algorithm to  
 
+recognize (inaudible) so what it depends on is people's behavior.  If  
 
->recognize (inaudible) so what it depends on is people's behavior.  If  
+a lot of people click share and like, Facebook goes that is  
 
+interesting and gives it a higher ranking to the story.  That is --  
 
->a lot of people click share and like, Facebook goes that is  
-
-
->interesting and gives it a higher ranking to the story.  That is --  
-
-
->it's like self-reinforced and it goes up.  
-
+it's like self-reinforced and it goes up.  
 
 >&gt;What I heard is Facebook, the way they handle it is to show  
 
 
->your post to a small subset of people that see your page.  And  
+your post to a small subset of people that see your page.  And  
 
+depending on how it performs in that small sample size, Facebook will  
 
->depending on how it performs in that small sample size, Facebook will  
-
-
->dictate how it disseminates it to your larger page audience.  
-
+dictate how it disseminates it to your larger page audience.  
 
 >&gt;There is a -- information flow there.  At the first step only  
 
 
->the fans will see the story.  
-
+the fans will see the story.  
 
 >&gt;Only a small subset of those fans.  
 
@@ -1965,23 +1409,18 @@ Debrouwere.
 >&gt;It depends on how many people are online at the moment.  There  
 
 
->are many factors.  That is why you should first look at the curve of  
+are many factors.  That is why you should first look at the curve of  
 
+the fans online numbers and then decide which is the best hour for  
 
->the fans online numbers and then decide which is the best hour for  
-
-
->you.  
-
+you.  
 
 >&gt;Cool.  Thank you so much ...(applause)...  
 
 
->Stijn, what do you think.  Should we break out.  Should I talk  
+Stijn, what do you think.  Should we break out.  Should I talk  
 
-
->about Twitter?  
-
+about Twitter?  
 
 >&gt;Yes, I'm looking forward to it.  
 
@@ -1989,77 +1428,53 @@ Debrouwere.
 >&gt;I didn't prepare much of anything but just talk about my  
 
 
->strategy working with Twitter and a couple of things I have learned.  
+strategy working with Twitter and a couple of things I have learned.  
 
+I spend a lot of time working with the Twitter API.  Whether it  
 
->I spend a lot of time working with the Twitter API.  Whether it  
+be for work.  
 
+Twitter's API at least when we're talking about getting sort of  
 
->be for work.  
+analytics-like data, I'm not going to go into how you make a bot or  
 
+Tweet.  I'm going to talk about strategies you can use for getting  
 
->Twitter's API at least when we're talking about getting sort of  
+more value out of Twitter.  
 
+The first thing that is the coolest thing and Sam talked about  
 
->analytics-like data, I'm not going to go into how you make a bot or  
+doing this is the streaming API.  
 
+What the streaming API lets you do is lets you search for  
 
->Tweet.  I'm going to talk about strategies you can use for getting  
+anything someone is sharing on Twitter in realtime.  You can subscribe  
 
+as a feed and get every relevant Tweet.  
 
->more value out of Twitter.  
+There's some limitations to that.  If you search for nothing, you  
 
+get 1 percent of everything on Twitter which is probably too much for  
 
->The first thing that is the coolest thing and Sam talked about  
+your computer to even handle.  But if you search for something that  
 
+represents less than 1 percent you get everything that matches that  
 
->doing this is the streaming API.  
+search term.  
 
+The easiest thing to do is doing like domain mentions.  How does  
 
->What the streaming API lets you do is lets you search for  
+this work?  Well, you don't actually -- you can't actually search with  
 
+a period or like a slash on Twitter.  So what you do is you create a  
 
->anything someone is sharing on Twitter in realtime.  You can subscribe  
+search term that looks like this.  Say I was looking for NY times.  
 
+It's NY times space, com.  You can get to the idea that this Tweet  
 
->as a feed and get every relevant Tweet.  
+will have NY times and com in it.  If you're interested in the short  
 
-
->There's some limitations to that.  If you search for nothing, you  
-
-
->get 1 percent of everything on Twitter which is probably too much for  
-
-
->your computer to even handle.  But if you search for something that  
-
-
->represents less than 1 percent you get everything that matches that  
-
-
->search term.  
-
-
->The easiest thing to do is doing like domain mentions.  How does  
-
-
->this work?  Well, you don't actually -- you can't actually search with  
-
-
->a period or like a slash on Twitter.  So what you do is you create a  
-
-
->search term that looks like this.  Say I was looking for NY times.  
-
-
->It's NY times space, com.  You can get to the idea that this Tweet  
-
-
->will have NY times and com in it.  If you're interested in the short  
-
-
->link you do NYTI MS.  
-
+link you do NYTI MS.  
 
 >&gt;Using a period -- am I doing something wrong?  
 
@@ -2073,44 +1488,31 @@ Debrouwere.
 >&gt;Yes.  The problem with this, the problems is that there are  
 
 
->times that people use Bitly links.  If they shorten it as a T code  
+times that people use Bitly links.  If they shorten it as a T code  
 
+link, the default Twitter link, you can search within that link.  Even  
 
->link, the default Twitter link, you can search within that link.  Even  
+if it shows up on the front end as T code blah, blah, blah, if you  
 
+search for NY times it will code that.  If you search for a Bitly link  
 
->if it shows up on the front end as T code blah, blah, blah, if you  
+or whatever, you can't search for that.  You can say give me every  
 
+Bitly link, too, and I'll figure out what to do with it later.  You  
 
->search for NY times it will code that.  If you search for a Bitly link  
+might then go over 1 percent.  
 
+The other way -- obviously then you can search for anything you  
 
->or whatever, you can't search for that.  You can say give me every  
+want.  You can search for mentions of your organization.  The great  
 
+thing is then you can store this and analyze it after the fact.  The  
 
->Bitly link, too, and I'll figure out what to do with it later.  You  
+other thing is just a search.  So you can do the same exact thing here  
 
+except in this case you can go backwards.  So you can -- you say back  
 
->might then go over 1 percent.  
-
-
->The other way -- obviously then you can search for anything you  
-
-
->want.  You can search for mentions of your organization.  The great  
-
-
->thing is then you can store this and analyze it after the fact.  The  
-
-
->other thing is just a search.  So you can do the same exact thing here  
-
-
->except in this case you can go backwards.  So you can -- you say back  
-
-
->fill mentions of domains or something.  You use the same syntax here.  
-
+fill mentions of domains or something.  You use the same syntax here.  
 
 >&gt;That doesn't go back that far, does it?  
 
@@ -2118,11 +1520,9 @@ Debrouwere.
 >&gt;I forget what the limits are.  You can go back pretty far.  It  
 
 
->might be up to like 1500.  I'm not sure.  I can't remember that.  
+might be up to like 1500.  I'm not sure.  I can't remember that.  
 
-
->One thing that I really like doing is working with lists.  
-
+One thing that I really like doing is working with lists.  
 
 >&gt;Why would you do back fill instead of Topsy?  
 
@@ -2130,23 +1530,17 @@ Debrouwere.
 >&gt;Topsy doesn't exist anymore.  You don't have to pay.  We're  
 
 
->doing free Twitter.  You want to pay you can go to a licensed  
+doing free Twitter.  You want to pay you can go to a licensed  
 
+provider.  The biggest challenge with Twitter is trying to get data  
 
->provider.  The biggest challenge with Twitter is trying to get data  
+from two years ago or something.  We won't have to worry about that  
 
+when the library of congress gets involved.  
 
->from two years ago or something.  We won't have to worry about that  
+Does anyone realize every time you Tweet that is going to the  
 
-
->when the library of congress gets involved.  
-
-
->Does anyone realize every time you Tweet that is going to the  
-
-
->library of congress.  Everyone is in the library of congress now?  
-
+library of congress.  Everyone is in the library of congress now?  
 
 >&gt;It's on tape.  
 
@@ -2154,104 +1548,73 @@ Debrouwere.
 >&gt;Like micro film.  I can go and look up my Tweets on micro  
 
 
->film.  
-
+film.  
 
 >&gt;They are not allowed to work with anyone externally on it.  
 
 
->You don't have to worry about that so much for now but it's all there.  
-
+You don't have to worry about that so much for now but it's all there.  
 
 >&gt;The other thing I like doing with Twitter are lists.  Lists  
 
 
->are cool because they're a nice hack for getting a lot of information  
+are cool because they're a nice hack for getting a lot of information  
 
+from Twitter without hitting the API limits.  The way lists work is  
 
->from Twitter without hitting the API limits.  The way lists work is  
+you can have a bunch of users, right, and you can put them in a list.  
 
+And any time you want to get any Tweet from any user, that equals one  
 
->you can have a bunch of users, right, and you can put them in a list.  
+API call.  
 
+And I think the limits are that you can have as a user 2,000  
 
->And any time you want to get any Tweet from any user, that equals one  
+lists of 5,000 members.  Which means you can get -- what is that  
 
+100,000?  A million.  I only do counting not multiplication.  
 
->API call.  
+That means like if I wanted to get every one of those users, I  
 
+would make a million API calls and now I only have to make 2,000 API  
 
->And I think the limits are that you can have as a user 2,000  
+calls.  So that's one reason it's cool.  
 
+The other reason it's cool is you can get this idea of  
 
->lists of 5,000 members.  Which means you can get -- what is that  
+communities.  So a lot of the hard work has been done here.  There are  
 
+lists out there that people have created.  Like journalists or every  
 
->100,000?  A million.  I only do counting not multiplication.  
+journalist at The New York Times or every member of congress or -- I  
 
+don't know, every important person in the climate change scene.  That  
 
->That means like if I wanted to get every one of those users, I  
+way you get an idea who are these communities of people.  And then if  
 
+you team it up with like this sort of stuff, right, you can be like  
 
->would make a million API calls and now I only have to make 2,000 API  
+when are people in congress Tweeting my articles.  When are people in  
 
+the climate change community Tweeting my articles.  
 
->calls.  So that's one reason it's cool.  
+And that gets at something more valuable than just like a number.  
 
+It can give you sort of something more meaningful.  
 
->The other reason it's cool is you can get this idea of  
+That's basically it.  You can also get a whole user's time line  
 
+but I would recommend going with this.  
 
->communities.  So a lot of the hard work has been done here.  There are  
+The API rate limits are every 15 minutes you can do 180 calls.  
 
+So that boils down to I think like one call per 10 seconds.  
 
->lists out there that people have created.  Like journalists or every  
+And then what you have to do is you have a script, you have to  
 
+sleep for whenever your rate limit is met.  But the library that I  
 
->journalist at The New York Times or every member of congress or -- I  
-
-
->don't know, every important person in the climate change scene.  That  
-
-
->way you get an idea who are these communities of people.  And then if  
-
-
->you team it up with like this sort of stuff, right, you can be like  
-
-
->when are people in congress Tweeting my articles.  When are people in  
-
-
->the climate change community Tweeting my articles.  
-
-
->And that gets at something more valuable than just like a number.  
-
-
->It can give you sort of something more meaningful.  
-
-
->That's basically it.  You can also get a whole user's time line  
-
-
->but I would recommend going with this.  
-
-
->The API rate limits are every 15 minutes you can do 180 calls.  
-
-
->So that boils down to I think like one call per 10 seconds.  
-
-
->And then what you have to do is you have a script, you have to  
-
-
->sleep for whenever your rate limit is met.  But the library that I  
-
-
->wrote for working with this stuff is (trailed off ...)  
-
+wrote for working with this stuff is (trailed off ...)  
 
 >&gt;What did you write it in?  
 
@@ -2259,20 +1622,15 @@ Debrouwere.
 >&gt;Python.  That is basically it.  Any questions?  Any things  
 
 
->that people have wondered about Twitter?  The other thing is URL  
+that people have wondered about Twitter?  The other thing is URL  
 
+unshortening is the absolute hardest thing.  What you literally have  
 
->unshortening is the absolute hardest thing.  What you literally have  
+to do is you have to recursively open the URL until it doesn't look  
 
+like a short URL any more and that is a slow and error-prone process.  
 
->to do is you have to recursively open the URL until it doesn't look  
-
-
->like a short URL any more and that is a slow and error-prone process.  
-
-
->My library does that too.  
-
+My library does that too.  
 
 >&gt;What's the name of your library?  
 
@@ -2283,26 +1641,20 @@ Debrouwere.
 >&gt;You can use pearl for one line and shorten it.  The creator of  
 
 
->pearl just put a comment -- blah, blah, blah and then space.  Space in  
+pearl just put a comment -- blah, blah, blah and then space.  Space in  
 
+the protocol is the last part of the URL that you use for that  
 
->the protocol is the last part of the URL that you use for that  
+request.  The URL is based on the code.  So the status code is not  
 
-
->request.  The URL is based on the code.  So the status code is not  
-
-
->200.  It's 300 something, temporarily removed or redistricted.  
-
+200.  It's 300 something, temporarily removed or redistricted.  
 
 >&gt;I use the location header.  That works.  And it's not as heavy  
 
 
->as downloading a whole page.  
+as downloading a whole page.  
 
-
->Any other questions?  
-
+Any other questions?  
 
 >&gt;How do you translate this to editors?  
 
@@ -2310,107 +1662,77 @@ Debrouwere.
 >&gt;We're just talking about getting the data.  Things I do with  
 
 
->this ...  Like being able to archive every single share of your  
+this ...  Like being able to archive every single share of your  
 
+contact.  Super useful.  You can search through them.  Sam has done  
 
->contact.  Super useful.  You can search through them.  Sam has done  
-
-
->counts.  
-
+counts.  
 
 >&gt;I was using it for a little while and the benefit wasn't that  
 
 
->great.  But I set it up to match it up with each post and we knew who  
+great.  But I set it up to match it up with each post and we knew who  
 
+the author was of each article and every author can log in and get a  
 
->the author was of each article and every author can log in and get a  
+list of all the Tweets that mentioned all of their articles.  It's  
 
+before we had an annotation system.  Twitter was the comments.  And  
 
->list of all the Tweets that mentioned all of their articles.  It's  
+then you could go on there and reply to people on Twitter.  You can  
 
-
->before we had an annotation system.  Twitter was the comments.  And  
-
-
->then you could go on there and reply to people on Twitter.  You can  
-
-
->add a watch list.  
-
+add a watch list.  
 
 >&gt;You can use Tweepdash to do this.  The problem of course is  
 
 
->that data is gone.  You don't store it anywhere.  
+that data is gone.  You don't store it anywhere.  
 
+The other thing that I like doing with Twitter, working off of  
 
->The other thing that I like doing with Twitter, working off of  
+lists and also users is doing stuff like if you have a list of every  
 
+journalist in your newsroom, you can know how much your own  
 
->lists and also users is doing stuff like if you have a list of every  
+journalists are sharing your content.  Which is I think a really  
 
+important approach because especially for something like courts.  
 
->journalist in your newsroom, you can know how much your own  
+Because so much traffic is being driven by social, if you have a team  
 
+of journalists, those are like, that is like your street team.  It's  
 
->journalists are sharing your content.  Which is I think a really  
+like a bunch of people that can go share your content.  And when I was  
 
+working at The New York Times looking at that, it turns out that was  
 
->important approach because especially for something like courts.  
+superimportant for how an article ultimately performed.  Not even just  
 
+did the main account with 8 million followers share it, but did Chris  
 
->Because so much traffic is being driven by social, if you have a team  
+share it and all these other people share it and if those people share  
 
+other articles they would get traffic, too.  
 
->of journalists, those are like, that is like your street team.  It's  
+That is a nice way of extracting a little more value out of  
 
-
->like a bunch of people that can go share your content.  And when I was  
-
-
->working at The New York Times looking at that, it turns out that was  
-
-
->superimportant for how an article ultimately performed.  Not even just  
-
-
->did the main account with 8 million followers share it, but did Chris  
-
-
->share it and all these other people share it and if those people share  
-
-
->other articles they would get traffic, too.  
-
-
->That is a nice way of extracting a little more value out of  
-
-
->Twitter than what is readily apparent?  
-
+Twitter than what is readily apparent?  
 
 >&gt;That was part of the innovation report.  They found out, they  
 
 
->wanted their journalists to share more than they were actually  
+wanted their journalists to share more than they were actually  
 
-
->sharing.  
-
+sharing.  
 
 >&gt;And interact with users and stuff like that.  Be kind of, I  
 
 
->don't know, spokes people for the organization.  Okay.  
+don't know, spokes people for the organization.  Okay.  
 
+On that note maybe let's start hacking if people aren't already  
 
->On that note maybe let's start hacking if people aren't already  
-
-
->exhausted.  We have like an hour?  
-
+exhausted.  We have like an hour?  
 
 >&gt;More like half an hour.  
 
@@ -2421,8 +1743,7 @@ Debrouwere.
 >&gt;So I mean I know Sam has something he is interested in.  Who  
 
 
->likes codes and wants to learn some stuff right now?  
-
+likes codes and wants to learn some stuff right now?  
 
 >&gt;Can we have a five minute break?  
 
@@ -2430,14 +1751,11 @@ Debrouwere.
 >&gt;Yes.  I want to know beforehand, if there's not many people  
 
 
->who code and don't want to work on stuff, then we'll figure out, maybe  
+who code and don't want to work on stuff, then we'll figure out, maybe  
 
+let's figure out what's the most amazing way we can combine everything  
 
->let's figure out what's the most amazing way we can combine everything  
-
-
->we learned today into the super-dashboard of the future.  
-
+we learned today into the super-dashboard of the future.  
 
 >&gt;That's my dream.  We should have a dashboard.  
 
@@ -2448,17 +1766,12 @@ Debrouwere.
 >&gt;Let's take a break and come back and we'll do that.  
 
 
->- - -  
+- - -  
 
+Break  
 
->Break  
+- - -  
 
+(doing individual work ...)  
 
->- - -  
-
-
->(doing individual work ...)  
-
-
->I guess we're kind of done.  Thank you all for coming.  
-
+I guess we're kind of done.  Thank you all for coming.  

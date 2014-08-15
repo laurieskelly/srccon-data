@@ -17,89 +17,62 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;Hi.  I'm Casey and this is AmyJo.  I do freelance journalism  
 
 
->here in Philadelphia.  I worked at the Inquirer and the local NPR  
+here in Philadelphia.  I worked at the Inquirer and the local NPR  
 
+affiliate.  The sort of root of this session is -- our sessions were  
 
->affiliate.  The sort of root of this session is -- our sessions were  
+combined but a lot of these questions we proposed in our sessions and  
 
+it's a lot of things I encountered and didn't know the answer to.  The  
 
->combined but a lot of these questions we proposed in our sessions and  
+session title is a question.  
 
-
->it's a lot of things I encountered and didn't know the answer to.  The  
-
-
->session title is a question.  
-
-
->Amy will explain.  
-
+Amy will explain.  
 
 >&gt;I'm AmyJo from Pittsburgh.  I'm a freelance journalist as well  
 
 
->and working on a new start up.  Hopefully announcing it in detail in  
+and working on a new start up.  Hopefully announcing it in detail in  
 
+the next few weeks.  I came across a lot of questions.  The mayor who  
 
->the next few weeks.  I came across a lot of questions.  The mayor who  
+is embracing the idea at least so far, I've been lurking on the open  
 
+date group and watching it and a friend of mine that works at the Post  
 
->is embracing the idea at least so far, I've been lurking on the open  
+has gotten involved.  Where are the lines.  The open data group had a  
 
+conversation.  He's the only news reporter there.  They were like can  
 
->date group and watching it and a friend of mine that works at the Post  
+we work on that during his work time.  The way they do that is if they  
 
+work with the Post Gazette.  There is a lot of resource and partnering  
 
->has gotten involved.  Where are the lines.  The open data group had a  
+with the Post Gazette.  There were a lot of conversations just around  
 
+that.  
 
->conversation.  He's the only news reporter there.  They were like can  
+And, actually, just this week I was getting in some local pack  
 
+files at the county office and discovered the open data group filed to  
 
->we work on that during his work time.  The way they do that is if they  
+be a pack.  That raises other questions about reporting involvement  
 
+and such.  
 
->work with the Post Gazette.  There is a lot of resource and partnering  
+What we decided to do, we found a bunch of questions, broad  
 
+questions, we wanted to brainstorm where the lines or boundaries might  
 
->with the Post Gazette.  There were a lot of conversations just around  
+be.  It's an open discussion and there is no right or wrong answer at  
 
+this point.  We wanted to provide context for news rooms.  If you're  
 
->that.  
+wrestling with these ideas, what should you think if you want to be a  
 
+beta tester for a city or join an advisory group.  
 
->And, actually, just this week I was getting in some local pack  
-
-
->files at the county office and discovered the open data group filed to  
-
-
->be a pack.  That raises other questions about reporting involvement  
-
-
->and such.  
-
-
->What we decided to do, we found a bunch of questions, broad  
-
-
->questions, we wanted to brainstorm where the lines or boundaries might  
-
-
->be.  It's an open discussion and there is no right or wrong answer at  
-
-
->this point.  We wanted to provide context for news rooms.  If you're  
-
-
->wrestling with these ideas, what should you think if you want to be a  
-
-
->beta tester for a city or join an advisory group.  
-
-
->I think because it's small, do you want to it do one by one?  
-
+I think because it's small, do you want to it do one by one?  
 
 >&gt;Sure.  
 
@@ -107,14 +80,11 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;We have post it notes and markers on each table and we'll  
 
 
->start with the first one.  One idea per post it.  You can think, write  
+start with the first one.  One idea per post it.  You can think, write  
 
+down ideas, stick it under the column that you think and we'll do a  
 
->down ideas, stick it under the column that you think and we'll do a  
-
-
->group discussion overall about everybody's concepts.  
-
+group discussion overall about everybody's concepts.  
 
 >&gt;Are we discussing at a table or individually.  
 
@@ -122,224 +92,163 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;We were going to break up into groups but some people may be  
 
 
->by themselves.  So as a group we'll go through and do it one by one.  
-
+by themselves.  So as a group we'll go through and do it one by one.  
 
 >&gt;The first thing we wanted to think about is should we provide  
 
 
->input to government on data releases or data services?  Examples to  
+input to government on data releases or data services?  Examples to  
 
+think about is if you're asked to be a beta tester or join an advisory  
 
->think about is if you're asked to be a beta tester or join an advisory  
+group.  You can think through what might be some pros to being  
 
+involved that early on in that process and cons in terms of getting  
 
->group.  You can think through what might be some pros to being  
+involved that early in the process.  
 
+Take a couple of minutes, think through, write your ideas on the  
 
->involved that early on in that process and cons in terms of getting  
-
-
->involved that early in the process.  
-
-
->Take a couple of minutes, think through, write your ideas on the  
-
-
->post its and then ...  
-
+post its and then ...  
 
 >&gt;Should we say what our role is, too.  I work for a print  
 
 
->newspaper which is different than mainstream media.  
-
+newspaper which is different than mainstream media.  
 
 >&gt;I think when you come up with your idea, you can say this is  
 
 
->why, or this is why I think this is a pro- or a con.  I think your  
+why, or this is why I think this is a pro- or a con.  I think your  
 
+interesting angles will bring up interesting ideas.  
 
->interesting angles will bring up interesting ideas.  
+Give you about one more minute.  
 
-
->Give you about one more minute.  
-
-
->Okay.  
-
+Okay.  
 
 >&gt;This is a little more stacked on the pro side than I thought.  
 
 
->I was asked to do beta testing for the City of Philadelphia and I  
+I was asked to do beta testing for the City of Philadelphia and I  
 
+initially said yes and then got access to all this data and felt  
 
->initially said yes and then got access to all this data and felt  
+weird.  It was very informal.  I thought if I take this data now, I  
 
+can just report on it.  But I was supposed to provide beta testing and  
 
->weird.  It was very informal.  I thought if I take this data now, I  
+it got weird.  
 
+On the pro side a lot of these are about informing the schema,  
 
->can just report on it.  But I was supposed to provide beta testing and  
+knowing what fields are useful.  What fields would be nice to have and  
 
+how that can make someone's job easier.  We might get a field that we  
 
->it got weird.  
+need rather than have him do it for you.  
 
-
->On the pro side a lot of these are about informing the schema,  
-
-
->knowing what fields are useful.  What fields would be nice to have and  
-
-
->how that can make someone's job easier.  We might get a field that we  
-
-
->need rather than have him do it for you.  
-
-
->On the con side.  This one says soul crushing time sink.  
-
+On the con side.  This one says soul crushing time sink.  
 
 >&gt;You can go around the room and talk about what you put up on  
 
 
->the post it and explain more you thinking.  Let's start with  
+the post it and explain more you thinking.  Let's start with  
 
+government really needs that help.  Who put that up there?  Tell us  
 
->government really needs that help.  Who put that up there?  Tell us  
-
-
->more about what you're thinking there.  
-
+more about what you're thinking there.  
 
 >&gt;Government really needs to help.  In many government agencies  
 
 
->particularly the ones down to a municipal level, they're using open  
+particularly the ones down to a municipal level, they're using open  
 
+data because someone told them they have to but they have no resource,  
 
->data because someone told them they have to but they have no resource,  
+no budget and only the IT staff they have if they have to time to do  
 
+with it.  By the time they produce something, they're land basted by  
 
->no budget and only the IT staff they have if they have to time to do  
+media or local geeks for not doing a good enough job.  It seems cruel  
 
+to me to say do this and do it well, we're not going to tell you what  
 
->with it.  By the time they produce something, they're land basted by  
+it means and if you don't do it up to our secret standards we're going  
 
-
->media or local geeks for not doing a good enough job.  It seems cruel  
-
-
->to me to say do this and do it well, we're not going to tell you what  
-
-
->it means and if you don't do it up to our secret standards we're going  
-
-
->to yell at you.  
-
+to yell at you.  
 
 >&gt;Anybody else want to share the reasoning behind what is up  
 
 
->there.  
-
+there.  
 
 >&gt;When you ask for something, you can tell them to provide  
 
 
->information to you.  You don't get terrible PDF database or something.  
-
+information to you.  You don't get terrible PDF database or something.  
 
 >&gt;Jeremy, you had creates a conflict of interest and I can't  
 
 
->read the example.  What were you thinking.  
-
+read the example.  What were you thinking.  
 
 >&gt;I think the stuff can be really hard.  And I was imagining a  
 
 
->releasing some dataset.  It's possible to mess it up.  We're  
+releasing some dataset.  It's possible to mess it up.  We're  
 
+conflicted on reporting on this mess up because we were involved in  
 
->conflicted on reporting on this mess up because we were involved in  
+it.  
 
+An example that I wrote is if we release information  
 
->it.  
+accidentally, personal identifying information that we didn't intend  
 
+to release or didn't anticipate the consequences of and feel bad about  
 
->An example that I wrote is if we release information  
-
-
->accidentally, personal identifying information that we didn't intend  
-
-
->to release or didn't anticipate the consequences of and feel bad about  
-
-
->it and complain about it?  
-
+it and complain about it?  
 
 >&gt;I think that is interesting because you're working with groups  
 
 
->of people who are not reporters and don't know our internal code so to  
+of people who are not reporters and don't know our internal code so to  
 
-
->speak on how to do this stuff.  
-
+speak on how to do this stuff.  
 
 >&gt;I can give you a really weird very current example.  I work  
 
 
->for the Philadelphia Inquirer, the complicated story is access Philly  
+for the Philadelphia Inquirer, the complicated story is access Philly  
 
+this local web entity wanted to keep alive this data archiving  
 
->this local web entity wanted to keep alive this data archiving  
+website.  Open data Philly.  In the process it sort of involves the  
 
+city.  At some point the city group of -- I don't know what the group  
 
->website.  Open data Philly.  In the process it sort of involves the  
+is officially called -- but it's essentially the data evangelists so  
 
+to speak.  They wanted to have a meeting of stake holders and I was  
 
->city.  At some point the city group of -- I don't know what the group  
+already on board.  I got carried over into this city meeting.  
 
+Suddenly I'm sitting among mostly government employees as they share  
 
->is officially called -- but it's essentially the data evangelists so  
+their entire wish list of the hundreds of datasets they want to  
 
+release and what stage everything is in.  I'm the investigative slash  
 
->to speak.  They wanted to have a meeting of stake holders and I was  
+data reporting reporter for the Philadelphia inquiry and I'm like this  
 
+is where they stand on everything they have a hope of and what is not  
 
->already on board.  I got carried over into this city meeting.  
+here, I know what they never want to release.  And it was like the  
 
+most awkward meeting ever.  And then to make it funnier they wanted to  
 
->Suddenly I'm sitting among mostly government employees as they share  
-
-
->their entire wish list of the hundreds of datasets they want to  
-
-
->release and what stage everything is in.  I'm the investigative slash  
-
-
->data reporting reporter for the Philadelphia inquiry and I'm like this  
-
-
->is where they stand on everything they have a hope of and what is not  
-
-
->here, I know what they never want to release.  And it was like the  
-
-
->most awkward meeting ever.  And then to make it funnier they wanted to  
-
-
->photograph the meeting.  
-
+photograph the meeting.  
 
 >&gt;Did they ask you to be off the record during the meeting.  
 
@@ -347,215 +256,159 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;It was so informal.  There were no ground rules set.  I was  
 
 
->sitting next to the head of the group who was getting promoted into  
+sitting next to the head of the group who was getting promoted into  
 
+this title.  I'm sitting next to them and they go and photograph  
 
->this title.  I'm sitting next to them and they go and photograph  
+everything.  And now this guy has an investigative reporter next to  
 
+him in the shot.  
 
->everything.  And now this guy has an investigative reporter next to  
+After the meeting I said to this person, what I wanted to make  
 
+sure our ground rules were.  I basically said totally -- I consider  
 
->him in the shot.  
+this off the record, I want to help.  I want to get the data out  
 
+there.  Please don't say anything gigantic in the meeting like the  
 
->After the meeting I said to this person, what I wanted to make  
+mayor is resigning.  Even though it's off the record, it would put me  
 
+in a weird situation.  They are supposed to meet again in a month and  
 
->sure our ground rules were.  I basically said totally -- I consider  
-
-
->this off the record, I want to help.  I want to get the data out  
-
-
->there.  Please don't say anything gigantic in the meeting like the  
-
-
->mayor is resigning.  Even though it's off the record, it would put me  
-
-
->in a weird situation.  They are supposed to meet again in a month and  
-
-
->I'm wondering 50/50 if I'll be invited back?  
-
+I'm wondering 50/50 if I'll be invited back?  
 
 >&gt;What kinds of conversations do you have with your bosses about  
 
 
->that?  
-
+that?  
 
 >&gt;We weren't sure if I was going to be involved in the beginning  
 
 
->because it's like how far do we want to go.  The original entity was  
+because it's like how far do we want to go.  The original entity was  
 
+not city controlled.  And at that point it was like well the city is  
 
->not city controlled.  And at that point it was like well the city is  
+involved but they don't control the website.  Therefore we didn't feel  
 
+like we couldn't also be involved.  
 
->involved but they don't control the website.  Therefore we didn't feel  
-
-
->like we couldn't also be involved.  
-
-
->And then that's moving a little bit.  This is?  
-
+And then that's moving a little bit.  This is?  
 
 >&gt;That doesn't have a conversation when the city did become more  
 
 
->involved.  
-
+involved.  
 
 >&gt;Technically that still hasn't changed but this meeting was  
 
 
->just an odd thing that came up and I wasn't going to say no.  
-
+just an odd thing that came up and I wasn't going to say no.  
 
 >&gt;Can I ask a maybe stupid question.  Why is there a difference  
 
 
->between the city involved and a private company involved for you to be  
+between the city involved and a private company involved for you to be  
 
-
->involved?  
-
+involved?  
 
 >&gt;It really -- it was an open data site, open data group.  The  
 
 
->city's data evangelist was going to be one of the advisers of this  
+city's data evangelist was going to be one of the advisers of this  
 
+board for the soul purpose of getting a grant piece moving.  Right.  
 
->board for the soul purpose of getting a grant piece moving.  Right.  
+And in the name of helping get open data moving for Philadelphia, it  
 
+was my paper, my bosses and I felt it was good to be included and we  
 
->And in the name of helping get open data moving for Philadelphia, it  
+were sort of overlooking that part of it.  And it just kind of ...  It  
 
+was worth it for the bigger picture.  That was kind of the thinking.  
 
->was my paper, my bosses and I felt it was good to be included and we  
+We didn't have it all worked out.  I'm not trying to betray anybody  
 
+either but once thaw tell me this, it's like I can't undo this.  Now I  
 
->were sort of overlooking that part of it.  And it just kind of ...  It  
-
-
->was worth it for the bigger picture.  That was kind of the thinking.  
-
-
->We didn't have it all worked out.  I'm not trying to betray anybody  
-
-
->either but once thaw tell me this, it's like I can't undo this.  Now I  
-
-
->know this list.  
-
+know this list.  
 
 >&gt;Who else?  We have government agencies don't know what is  
 
 
->useful?  Can you talk about that.  
-
+useful?  Can you talk about that.  
 
 >&gt;It's like what Waldo was saying.  Smaller agencies that want  
 
 
->to put something out they don't have an idea what data to put out,  
+to put something out they don't have an idea what data to put out,  
 
+what format it should be in, what is relevant and what is not.  Sort  
 
->what format it should be in, what is relevant and what is not.  Sort  
+of in a side gig in New Jersey I work for this group called hack  
 
+jersey and we have a seminar that walled do came and talked about but  
 
->of in a side gig in New Jersey I work for this group called hack  
+they don't know where to start.  It could be an opportunity to say, we  
 
+don't necessarily care about some obscure dataset.  These are the ones  
 
->jersey and we have a seminar that walled do came and talked about but  
+you want.  If you're going to put it out here are some things that  
 
-
->they don't know where to start.  It could be an opportunity to say, we  
-
-
->don't necessarily care about some obscure dataset.  These are the ones  
-
-
->you want.  If you're going to put it out here are some things that  
-
-
->would be helpful.  
-
+would be helpful.  
 
 >&gt;What about on the con side.  It introduced bias.  Can you talk  
 
 
->about that.  
-
+about that.  
 
 >&gt;Just to build off what you were just saying.  If a government  
 
 
->agency asks a particular person, what format is helpful.  What format  
+agency asks a particular person, what format is helpful.  What format  
 
+is useful and they get an answer which they might mistake for the  
 
->is useful and they get an answer which they might mistake for the  
+answer.  The other groups are like why did you bring that up?  I want  
 
+the raw data or who chose this format.  Everybody has a perspective  
 
->answer.  The other groups are like why did you bring that up?  I want  
+and the responsibility of that perspective is something to be aware  
 
-
->the raw data or who chose this format.  Everybody has a perspective  
-
-
->and the responsibility of that perspective is something to be aware  
-
-
->of.  
-
+of.  
 
 >&gt;It's interesting to see if they go through that process and  
 
 
->there is an advisory group, and they do publish things, is that going  
+there is an advisory group, and they do publish things, is that going  
 
+to be a way to make the information or the dataset harder.  So they're  
 
->to be a way to make the information or the dataset harder.  So they're  
+going to say, oh, it's already there for you so we're not going to  
 
+answer your request to provide it in another format.  It might be an  
 
->going to say, oh, it's already there for you so we're not going to  
-
-
->answer your request to provide it in another format.  It might be an  
-
-
->out to getting what you really want.  
-
+out to getting what you really want.  
 
 >&gt;It's setting a precedence of what you want and what you don't  
 
 
->want.  
-
+want.  
 
 >&gt;Few more on there.  Anyone else want to share what they put up  
 
 
->there?  
-
+there?  
 
 >&gt;Just my con was that if you want to report on the process of  
 
 
->opening data being involved in that process kind of is a conflict of  
+opening data being involved in that process kind of is a conflict of  
 
+interest.  Not that I think there's a lot of reporting on the open  
 
->interest.  Not that I think there's a lot of reporting on the open  
-
-
->data process.  
-
+data process.  
 
 >&gt;Not yet at least.  But potentially.  
 
@@ -563,32 +416,23 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;I had a pro and it turned into a con.  Particularly for beta  
 
 
->testing.  If you get involved with a beta program early on, you have  
+testing.  If you get involved with a beta program early on, you have  
 
+connections into the group that is forward enough to think about open  
 
->connections into the group that is forward enough to think about open  
+data, the challenging of that can look like bias when it comes out of  
 
+beta.  You have networking or friendship connections into the group  
 
->data, the challenging of that can look like bias when it comes out of  
+that put that together and maybe they're not on the right side of the  
 
+issue in the long run.  That can be weird.  Because you're in the beta  
 
->beta.  You have networking or friendship connections into the group  
+testing and you're chummy with the group.  Particularly to outside  
 
+resources.  You've been a part of that faction since the beginning and  
 
->that put that together and maybe they're not on the right side of the  
-
-
->issue in the long run.  That can be weird.  Because you're in the beta  
-
-
->testing and you're chummy with the group.  Particularly to outside  
-
-
->resources.  You've been a part of that faction since the beginning and  
-
-
->you're like, I didn't know there were factions.  
-
+you're like, I didn't know there were factions.  
 
 >&gt;That's true.  
 
@@ -596,158 +440,118 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;Let's tackle the second one.  The question that we put up  
 
 
->there is what are the ethical quandaries we might find ourselves in by  
+there is what are the ethical quandaries we might find ourselves in by  
 
+consuming city data services.  This is the idea of forward recording  
 
->consuming city data services.  This is the idea of forward recording  
-
-
->or using the apps that we build.  The example geo coding.  
-
+or using the apps that we build.  The example geo coding.  
 
 >&gt;This is something that the city opened up a geo coding  
 
 
->service.  Everyone has done geo coding and it sucks because have you  
+service.  Everyone has done geo coding and it sucks because have you  
 
+to pay after so long.  But this was free and it's based off the data  
 
->to pay after so long.  But this was free and it's based off the data  
+that I'm trying to reference.  Yes, they come from the same sources.  
 
+It's a perfect geo coding but it's like a city service.  We use city  
 
->that I'm trying to reference.  Yes, they come from the same sources.  
+data all the time but these are sort of new things that cities are  
 
+trying to do and I didn't know if it's cool to use it in the app or  
 
->It's a perfect geo coding but it's like a city service.  We use city  
-
-
->data all the time but these are sort of new things that cities are  
-
-
->trying to do and I didn't know if it's cool to use it in the app or  
-
-
->not.  
-
+not.  
 
 >&gt;If you want to take a few minutes and think through that and  
 
 
->again post any thoughts you might have on the subject.  
-
+again post any thoughts you might have on the subject.  
 
 >&gt;The two boxes there are quandaries or where you find yourself  
 
 
->ethically.  And the other side is maybe a way to get around one of  
+ethically.  And the other side is maybe a way to get around one of  
 
+those or find some happy medium.  
 
->those or find some happy medium.  
+Another example would be releasing open data in bulk form which  
 
+we all use and they release the data as an API which Philadelphia does  
 
->Another example would be releasing open data in bulk form which  
+a lot.  Would you build an app off a city API.  
 
+That is maybe updated every night as opposed to the data list  
 
->we all use and they release the data as an API which Philadelphia does  
+that is updated every month or something like that.  
 
-
->a lot.  Would you build an app off a city API.  
-
-
->That is maybe updated every night as opposed to the data list  
-
-
->that is updated every month or something like that.  
-
-
->A few more seconds ...  
-
+A few more seconds ...  
 
 >&gt;Okay.  Cool.  So this first one is interesting.  It says this  
 
 
->is a problem many places which is fair enough.  Who -- Tom.  
-
+is a problem many places which is fair enough.  Who -- Tom.  
 
 >&gt;I was thinking in most places particularly in New Jersey like  
 
 
->the data is so shitty, this is a dream problem.  An agency that  
+the data is so shitty, this is a dream problem.  An agency that  
 
+provides an API or some sort of machinery of data would be fantastic.  
 
->provides an API or some sort of machinery of data would be fantastic.  
+I would love to tackle that.  Philly is an awesome example of a place  
 
-
->I would love to tackle that.  Philly is an awesome example of a place  
-
-
->that is pretty far ahead.  
-
+that is pretty far ahead.  
 
 >&gt;This one says we use city APIs but as a news room we don't  
 
 
->control them.  If they shut them down or apps die.  
-
+control them.  If they shut them down or apps die.  
 
 >&gt;We have things like our interactive crime map that is updated  
 
 
->every night and all these other pieces.  And if they change something  
+every night and all these other pieces.  And if they change something  
 
+it breaks the app or if they decide they're not going to do it  
 
->it breaks the app or if they decide they're not going to do it  
+anymore, all of our time and energy went into something that is no  
 
-
->anymore, all of our time and energy went into something that is no  
-
-
->longer useful.  
-
+longer useful.  
 
 >&gt;Have you talked with the people that maintain it about making  
 
 
->changes to it?  
-
+changes to it?  
 
 >&gt;Yes.  We have had some luck.  The other thing sometimes is  
 
 
->there are things that are in there, you know, that aren't very  
+there are things that are in there, you know, that aren't very  
 
+explainable.  Internally the city knows what it means but what gets  
 
->explainable.  Internally the city knows what it means but what gets  
+released isn't always like ...  You know.  Some of that is like what  
 
-
->released isn't always like ...  You know.  Some of that is like what  
-
-
->the hell is this?  
-
+the hell is this?  
 
 >&gt;And then be wary of becoming over-reliant and not examining  
 
 
->unofficial data sources.  
-
+unofficial data sources.  
 
 >&gt;That was me again.  I would worry about if the city provides a  
 
 
->service of crime data, particularly if you're doing analysis for a  
+service of crime data, particularly if you're doing analysis for a  
 
+story and you're like I know this is what I can get from the city.  
 
->story and you're like I know this is what I can get from the city.  
+These are the fields that are available, those are the stories you do  
 
+over and over.  And you have to make sure you're constantly looking  
 
->These are the fields that are available, those are the stories you do  
-
-
->over and over.  And you have to make sure you're constantly looking  
-
-
->for other sources of data and reporting.  
-
+for other sources of data and reporting.  
 
 >&gt;The same downfall as them releasing bulk data.  
 
@@ -758,182 +562,132 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;Potential privacy violation.  For example a New York City  
 
 
->license cab number.  
-
+license cab number.  
 
 >&gt;I can speak to that.  This might have been just a New York  
 
 
->thing and I read just one story so I'm not an expert.  We have cabs in  
+thing and I read just one story so I'm not an expert.  We have cabs in  
 
+New York -- yellow cabs -- you can reverse engineer, you can reverse  
 
->New York -- yellow cabs -- you can reverse engineer, you can reverse  
+engineer and find out what cab by it was and how much money they're  
 
+making.  The technical river that put into obscuring their data wasn't  
 
->engineer and find out what cab by it was and how much money they're  
+strong enough.  And I can easily see myself building an entire project  
 
+off that and not realizing that flaw wasn't in there from the  
 
->making.  The technical river that put into obscuring their data wasn't  
+beginning.  So something we discussed at the times and began using the  
 
+data.  Double and triple checking to make sure it can't be broken by  
 
->strong enough.  And I can easily see myself building an entire project  
-
-
->off that and not realizing that flaw wasn't in there from the  
-
-
->beginning.  So something we discussed at the times and began using the  
-
-
->data.  Double and triple checking to make sure it can't be broken by  
-
-
->people who are going to be malicious with it.  
-
+people who are going to be malicious with it.  
 
 >&gt;Someone from the prior session in the room said the Bangor  
 
 
->Daily News was being sued because of unredacted social security  
+Daily News was being sued because of unredacted social security  
 
+numbers in it.  The secretary of state cannot be sued for that.  The  
 
->numbers in it.  The secretary of state cannot be sued for that.  The  
-
-
->Bangor News can.  
-
+Bangor News can.  
 
 >&gt;The risk the cities take on, Philadelphia just had to pay out  
 
 
->$1.4 million because they released the list of gun permit appeals.  
+$1.4 million because they released the list of gun permit appeals.  
 
+And it was up for four days.  And then, you know, they pulled it down.  
 
->And it was up for four days.  And then, you know, they pulled it down.  
+Everyone that was on that is now getting a small amount of money that  
 
+adds up to a lot for the city.  It's funny, the risk isn't all on the  
 
->Everyone that was on that is now getting a small amount of money that  
-
-
->adds up to a lot for the city.  It's funny, the risk isn't all on the  
-
-
->individuals but even the cities are taking risks.  
-
+individuals but even the cities are taking risks.  
 
 >&gt;New York had that with shredding of documents and dropping  
 
 
->them at public events.  There were full social security numbers in the  
+them at public events.  There were full social security numbers in the  
 
+confetti.  People collected it and were able to map out 10 or 15  
 
->confetti.  People collected it and were able to map out 10 or 15  
+individuals and police officers.  That is just municipal shredding.  
 
+It was like having all of the experts that you have available look it  
 
->individuals and police officers.  That is just municipal shredding.  
-
-
->It was like having all of the experts that you have available look it  
-
-
->over and look it over to smoke out potential issues.  
-
+over and look it over to smoke out potential issues.  
 
 >&gt;I just got that cab data for Philly and it's not -- it's just  
 
 
->raw data.  I wouldn't even have considered the thing that came from  
+raw data.  I wouldn't even have considered the thing that came from  
 
-
->New York because I just don't think about it.  
-
+New York because I just don't think about it.  
 
 >&gt;In that case it's easy not to include the license number.  But  
 
 
->if the city already says (inaudible) you might not think that it is.  
+if the city already says (inaudible) you might not think that it is.  
 
+I can include it so people have a bit more information.  That would be  
 
->I can include it so people have a bit more information.  That would be  
-
-
->a problem.  
-
+a problem.  
 
 >&gt;It's interesting, the decisions like we may get public  
 
 
->information but that doesn't necessarily mean we'll publish that  
+information but that doesn't necessarily mean we'll publish that  
 
+information.  There is a responsibility aspect.  Just because we can  
 
->information.  There is a responsibility aspect.  Just because we can  
+doesn't mean we should.  I have campaign finance data and I want to  
 
+map where the contributions are coming from.  Is a city counselor  
 
->doesn't mean we should.  I have campaign finance data and I want to  
+getting money from his district or is it outside the city.  I got  
 
+everyone's home addresses, the registration database and voters  
 
->map where the contributions are coming from.  Is a city counselor  
+database.  When I publish this I don't want to put everyone's  
 
+addresses out.  I don't want someone to reverse engineer it to find  
 
->getting money from his district or is it outside the city.  I got  
+someone's home address.  And that's what we're doing.  We may not have  
 
+any control about open data groups but that is an area.  Just because  
 
->everyone's home addresses, the registration database and voters  
+data is provided doesn't mean the world needs to have easy access to  
 
-
->database.  When I publish this I don't want to put everyone's  
-
-
->addresses out.  I don't want someone to reverse engineer it to find  
-
-
->someone's home address.  And that's what we're doing.  We may not have  
-
-
->any control about open data groups but that is an area.  Just because  
-
-
->data is provided doesn't mean the world needs to have easy access to  
-
-
->it maybe.  
-
+it maybe.  
 
 >&gt;This is a point where our interest as journalists can conflict  
 
 
->with the interests of open data groups.  Like the tax you data.  I  
+with the interests of open data groups.  Like the tax you data.  I  
 
+would trust me with that data but I can see why people don't want it  
 
->would trust me with that data but I can see why people don't want it  
+out for the entire world to know each Cabbies income.  We might ask  
 
+for it, get denied and get it informally.  You're working cross  
 
->out for the entire world to know each Cabbies income.  We might ask  
-
-
->for it, get denied and get it informally.  You're working cross  
-
-
->purposes with the open data world if we do that.  
-
+purposes with the open data world if we do that.  
 
 >&gt;Can I ask, this is a vaguely related topic.  I'm coming from  
 
 
->outside the world of journalism.  Speaking specifically to when you  
+outside the world of journalism.  Speaking specifically to when you  
 
+FOIA, they're going out of the way to try toll give me as little as  
 
->FOIA, they're going out of the way to try toll give me as little as  
+possible.  I have to question the thoroughness and accuracy of the  
 
+data I'm receiving.  Do you assume in an open data movement that the  
 
->possible.  I have to question the thoroughness and accuracy of the  
-
-
->data I'm receiving.  Do you assume in an open data movement that the  
-
-
->data can be trusted, complete and accurate?  
-
+data can be trusted, complete and accurate?  
 
 >&gt;No.  
 
@@ -941,590 +695,413 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;What process do you employ to interrogate that.  When you're  
 
 
->reporting based on data -- how do you question that.  
-
+reporting based on data -- how do you question that.  
 
 >&gt;I think we even had a particular conversation about this with  
 
 
->hackathons, data.  That's exciting.  There is not a lot of necessarily  
+hackathons, data.  That's exciting.  There is not a lot of necessarily  
 
+checking that that data is good data to use.  
 
->checking that that data is good data to use.  
-
-
->Anyone want to speak to the process?  
-
+Anyone want to speak to the process?  
 
 >&gt;A lot of the open data movement now is about experimenting and  
 
 
->getting data online.  So there's not actually a huge amount of  
+getting data online.  So there's not actually a huge amount of  
 
+examples of open data groups using data very successfully, I don't  
 
->examples of open data groups using data very successfully, I don't  
+think.  There is a lot of examples of people doing things with open  
 
+data but whether they're changing communities or really making an  
 
->think.  There is a lot of examples of people doing things with open  
+impact is debatable.  
 
+Open data now has the goal of opening data not necessarily making  
 
->data but whether they're changing communities or really making an  
-
-
->impact is debatable.  
-
-
->Open data now has the goal of opening data not necessarily making  
-
-
->that data useful?  
-
+that data useful?  
 
 >&gt;Even verifying, like if you had -- imagine you had to properly  
 
 
->source every row in a table, it's not scalable.  What middle ground is  
+source every row in a table, it's not scalable.  What middle ground is  
 
-
->there.  
-
+there.  
 
 >&gt;There is often talking and this hasn't been realized the idea  
 
 
->of open data is a two-way thing.  Not a one way.  The idea of feed  
+of open data is a two-way thing.  Not a one way.  The idea of feed  
 
+back and the feed back loop is some government agencies are sort of  
 
->back and the feed back loop is some government agencies are sort of  
+involved in that but many aren't.  That is definitely a part of the  
 
-
->involved in that but many aren't.  That is definitely a part of the  
-
-
->conversation but it's not happening.  
-
+conversation but it's not happening.  
 
 >&gt;I think it comes down to, for mainstream media when I'm  
 
 
->looking at data, however I got it, I want to go back to the stake  
+looking at data, however I got it, I want to go back to the stake  
 
+holder who is really going to be their feet to the fire if we write it  
 
->holder who is really going to be their feet to the fire if we write it  
+up.  And they are probably going to list me because of that.  That  
 
+means there is a barrier between me and the government that they're  
 
->up.  And they are probably going to list me because of that.  That  
+not going to be super-friendly to me.  Someone from the open data  
 
+world that the city might view as more of a partner won't be as  
 
->means there is a barrier between me and the government that they're  
+concerned about it.  It doesn't mean if you bring them a finding and  
 
+say it looks like crime is up a million percent, they should react the  
 
->not going to be super-friendly to me.  Someone from the open data  
+same.  If they care about the data integrity whether it's ewe or me  
 
+they should say that doesn't sound right.  Like bullet proofing for  
 
->world that the city might view as more of a partner won't be as  
+journalism is take that information back to them before you publish  
 
+and verify it and give them an opportunity to say, well you have that  
 
->concerned about it.  It doesn't mean if you bring them a finding and  
+wrong or thank you for telling us this.  We'll fix it.  
 
+Whatever it is.  The same process applies.  You should take from  
 
->say it looks like crime is up a million percent, they should react the  
+the journalism world that checklist that is out there.  There is a lot  
 
-
->same.  If they care about the data integrity whether it's ewe or me  
-
-
->they should say that doesn't sound right.  Like bullet proofing for  
-
-
->journalism is take that information back to them before you publish  
-
-
->and verify it and give them an opportunity to say, well you have that  
-
-
->wrong or thank you for telling us this.  We'll fix it.  
-
-
->Whatever it is.  The same process applies.  You should take from  
-
-
->the journalism world that checklist that is out there.  There is a lot  
-
-
->of them out there and take the parts that are tried and true?  
-
+of them out there and take the parts that are tried and true?  
 
 >&gt;A lot of it is really understanding that data source and  
 
 
->understanding how it's being collected.  If there is something you  
+understanding how it's being collected.  If there is something you  
 
+don't understand, journalists are often use the phrase don't make any  
 
->don't understand, journalists are often use the phrase don't make any  
+assumptions.  If there is anything you don't know 100 percent and you  
 
+can't say I swear on oath this is correct.  You go back and ask the  
 
->assumptions.  If there is anything you don't know 100 percent and you  
+question and come back.  
 
+The campaign finance data was incredibly dirty.  The law is not  
 
->can't say I swear on oath this is correct.  You go back and ask the  
+clear on some practices and county employees interpret it differently,  
 
+it was a lot of phone calls to the county.  How are you looking at  
 
->question and come back.  
+this.  And the candidates, how do you interpret this.  And making  
 
+notes saying this candidate filed the late contribution reports this  
 
->The campaign finance data was incredibly dirty.  The law is not  
+way and another this way.  When we released the data, we normalized it  
 
-
->clear on some practices and county employees interpret it differently,  
-
-
->it was a lot of phone calls to the county.  How are you looking at  
-
-
->this.  And the candidates, how do you interpret this.  And making  
-
-
->notes saying this candidate filed the late contribution reports this  
-
-
->way and another this way.  When we released the data, we normalized it  
-
-
->so you know our process for it.  
-
+so you know our process for it.  
 
 >&gt;I didn't put any up because it took a little listening to what  
 
 
->other people were saying to contextualize that.  Now I want to move  
+other people were saying to contextualize that.  Now I want to move  
 
+that one over there.  And poisoning the well with good intentions and  
 
->that one over there.  And poisoning the well with good intentions and  
+building off what you're saying.  How do I trust these rows of data  
 
+and I think that building like the bullet list, you can end up with a  
 
->building off what you're saying.  How do I trust these rows of data  
+due diligence area.  What is the best spread sheet you can have.  A  
 
+passive pipeline.  311 calls get dumped in there, nobody touches it.  
 
->and I think that building like the bullet list, you can end up with a  
+I have to truth.  The last session I was in we were talking about how  
 
+that led to a completely bizarre story about the greatest  
 
->due diligence area.  What is the best spread sheet you can have.  A  
+concentration of graffiti being in a nice neighborhood.  
 
+They publish it and it's like you didn't normalize based on how  
 
->passive pipeline.  311 calls get dumped in there, nobody touches it.  
+many calls per neighborhood.  There are assumptions you're putting in  
 
+there.  You might be making someone look stupid who is working to open  
 
->I have to truth.  The last session I was in we were talking about how  
+data for everybody.  I think that is a kind of ethical quandary  
 
+especially if we're talking about the relationships between the  
 
->that led to a completely bizarre story about the greatest  
+government, open data, and journalists because they all have cross  
 
+purposes.  But working towards somewhat similar goals but different  
 
->concentration of graffiti being in a nice neighborhood.  
-
-
->They publish it and it's like you didn't normalize based on how  
-
-
->many calls per neighborhood.  There are assumptions you're putting in  
-
-
->there.  You might be making someone look stupid who is working to open  
-
-
->data for everybody.  I think that is a kind of ethical quandary  
-
-
->especially if we're talking about the relationships between the  
-
-
->government, open data, and journalists because they all have cross  
-
-
->purposes.  But working towards somewhat similar goals but different  
-
-
->paths?  
-
+paths?  
 
 >&gt;I was speaking to his point about the two-way thing.  I'm from  
 
 
->New York and I'm working with some of the things that the city has  
+New York and I'm working with some of the things that the city has  
 
+done recently about opening up the building data.  Now, like you said,  
 
->done recently about opening up the building data.  Now, like you said,  
+it was all about open data open data.  People want this and that.  
 
+People are working towards just opening that data.  But the part which  
 
->it was all about open data open data.  People want this and that.  
+is now in conversation is about the New York City Department -- open  
 
+street map is much more current than their data sometimes.  It's a  
 
->People are working towards just opening that data.  But the part which  
+question of like if there's a new construction happening, like one of  
 
+us will find it before the city.  It gets reported to the city.  The  
 
->is now in conversation is about the New York City Department -- open  
+permits are still going through but the construction is starting.  All  
 
+that kind of stuff.  This whole process, the city to have someone go  
 
->street map is much more current than their data sometimes.  It's a  
+out there, report it, update the data, that kind of stuff.  The  
 
+conversation around, okay we give you all these things, you put it in  
 
->question of like if there's a new construction happening, like one of  
+there.  How can you feed it back to us.  So the loop of like if  
 
+there's a -- so then it speeds up their process.  Something new  
 
->us will find it before the city.  It gets reported to the city.  The  
+happened.  They're going to send someone immediately out there.  If  
 
+it's incorrect they stop it.  Like address changes and all those  
 
->permits are still going through but the construction is starting.  All  
+things.  That happens much faster than the city can do it.  
 
+And another thing is like recycling for example.  In the city,  
 
->that kind of stuff.  This whole process, the city to have someone go  
+people are -- on a neighborhood basis.  Somethings are happening.  If  
 
+you go to the city's website to get that data, all the current stuff  
 
->out there, report it, update the data, that kind of stuff.  The  
+isn't in there.  How to kind of converge the two so they're informing  
 
+each other.  There are other sources that are more current than the  
 
->conversation around, okay we give you all these things, you put it in  
+government.  So how to converge these two if someone wants a set of  
 
-
->there.  How can you feed it back to us.  So the loop of like if  
-
-
->there's a -- so then it speeds up their process.  Something new  
-
-
->happened.  They're going to send someone immediately out there.  If  
-
-
->it's incorrect they stop it.  Like address changes and all those  
-
-
->things.  That happens much faster than the city can do it.  
-
-
->And another thing is like recycling for example.  In the city,  
-
-
->people are -- on a neighborhood basis.  Somethings are happening.  If  
-
-
->you go to the city's website to get that data, all the current stuff  
-
-
->isn't in there.  How to kind of converge the two so they're informing  
-
-
->each other.  There are other sources that are more current than the  
-
-
->government.  So how to converge these two if someone wants a set of  
-
-
->data it can be as accurate as possible?  
-
+data it can be as accurate as possible?  
 
 >&gt;Interesting and raises that question of should we be feeding  
 
 
->accurate data directly back to the city.  I think I would struggle  
+accurate data directly back to the city.  I think I would struggle  
 
-
->with that.  
-
+with that.  
 
 >&gt;As long as it's like a two-way exchange.  I'm not sure about  
 
 
->the social security numbers and license plate information, if that  
+the social security numbers and license plate information, if that  
 
+should be exposed and who handles that.  That's a different thing all  
 
->should be exposed and who handles that.  That's a different thing all  
+together.  But if it's a loop and it's open, like the government is  
 
-
->together.  But if it's a loop and it's open, like the government is  
-
-
->pulling from the same things, and verifying the correct things.  
-
+pulling from the same things, and verifying the correct things.  
 
 >&gt;One of the quandaries I can see being raised is if you're  
 
 
->feeding information back and political decisions are made off that.  
+feeding information back and political decisions are made off that.  
 
+How do you -- now you've become part of that process.  So how do you  
 
->How do you -- now you've become part of that process.  So how do you  
+be transparent about your role and what if you did it wrong.  And now  
 
+you're the one that -- now you're reporting on yourself.  The city  
 
->be transparent about your role and what if you did it wrong.  And now  
+counsel is making this horrible decision and they did it based on your  
 
-
->you're the one that -- now you're reporting on yourself.  The city  
-
-
->counsel is making this horrible decision and they did it based on your  
-
-
->bad work.  
-
+bad work.  
 
 >&gt;Going back to that, getting involved with the government,  
 
 
->just -- there was concern about should you advise them on how to  
+just -- there was concern about should you advise them on how to  
 
+release data.  Just something like there are a lot of city agencies  
 
->release data.  Just something like there are a lot of city agencies  
+and in a city as big as this, they don't talk to each other.  They  
 
+have data that collectively would be more than the sum of its parts.  
 
->and in a city as big as this, they don't talk to each other.  They  
+They build these things in Silos.  One ID number here doesn't match  
 
+anything here and if those two talk to each other the city's  
 
->have data that collectively would be more than the sum of its parts.  
+efficiency would go up.  
 
+One of the things that I see not being a problem at all is for me  
 
->They build these things in Silos.  One ID number here doesn't match  
+to say, can you use one geo code structure for everything.  Can you  
 
+guys use one method for tracking, you know, whatever it may be, roads  
 
->anything here and if those two talk to each other the city's  
+or city boundaries so we don't, you know, we don't have these data  
 
+things that don't connect.  
 
->efficiency would go up.  
+I have my reasons for wanting the end result but for the city it  
 
-
->One of the things that I see not being a problem at all is for me  
-
-
->to say, can you use one geo code structure for everything.  Can you  
-
-
->guys use one method for tracking, you know, whatever it may be, roads  
-
-
->or city boundaries so we don't, you know, we don't have these data  
-
-
->things that don't connect.  
-
-
->I have my reasons for wanting the end result but for the city it  
-
-
->helps too?  
-
+helps too?  
 
 >&gt;I think that one thing is also, in our own city I hear a lot  
 
 
->of my community and I would include with us the open data people and  
+of my community and I would include with us the open data people and  
 
+tech outsiders wanted to love their city making weird assumptions that  
 
->tech outsiders wanted to love their city making weird assumptions that  
+I think are unfair.  I think we can attribute maliciousness or  
 
+stupidity when it's a giant old system built in pieces by a million  
 
->I think are unfair.  I think we can attribute maliciousness or  
+people over time.  And have a respect for that inefficient balance.  
 
+Sometimes if you shout loud enough, this is really important and you  
 
->stupidity when it's a giant old system built in pieces by a million  
+have to do it, they're going to be rebels.  Now we're dealing with, oh  
 
+gosh, any Chicago peeps?  We swished our transit payment system to  
 
->people over time.  And have a respect for that inefficient balance.  
+this awful thing.  Someone is like it should be this way and it's  
 
+going to be this wristband thing and it wasn't that great.  
 
->Sometimes if you shout loud enough, this is really important and you  
+I have a police detective friend and they were switching to, they  
 
+wanted more transparency in cops hours.  These cops with bad.  They're  
 
->have to do it, they're going to be rebels.  Now we're dealing with, oh  
+not working the hours they're charging for.  They started buying this  
 
+time card system and it was going to just throw awful wrenches in  
 
->gosh, any Chicago peeps?  We swished our transit payment system to  
+everything.  It was going to require precise, really precise note  
 
+taking on lunch breaks.  And like okay, who cares?  Well, if I like  
 
->this awful thing.  Someone is like it should be this way and it's  
+don't get -- if I didn't have my supervisor approve my lunch break  
 
+change in the system, then it couldn't go in.  We always have to be  
 
->going to be this wristband thing and it wasn't that great.  
+flexible.  Everybody is doing that.  If you have this many cops and  
 
+this many supervisors we need to hire three more supervisors to  
 
->I have a police detective friend and they were switching to, they  
+approve lunch breaks and if we don't hire them.  I can say I was  
 
+taking a statement and at lunch at the same time.  
 
->wanted more transparency in cops hours.  These cops with bad.  They're  
+So like we don't have the whole picture and I think that  
 
+humility.  This might not be the answer but this is what this looks  
 
->not working the hours they're charging for.  They started buying this  
+like or would this be asking questions other than yelling should be a  
 
-
->time card system and it was going to just throw awful wrenches in  
-
-
->everything.  It was going to require precise, really precise note  
-
-
->taking on lunch breaks.  And like okay, who cares?  Well, if I like  
-
-
->don't get -- if I didn't have my supervisor approve my lunch break  
-
-
->change in the system, then it couldn't go in.  We always have to be  
-
-
->flexible.  Everybody is doing that.  If you have this many cops and  
-
-
->this many supervisors we need to hire three more supervisors to  
-
-
->approve lunch breaks and if we don't hire them.  I can say I was  
-
-
->taking a statement and at lunch at the same time.  
-
-
->So like we don't have the whole picture and I think that  
-
-
->humility.  This might not be the answer but this is what this looks  
-
-
->like or would this be asking questions other than yelling should be a  
-
-
->priority?  
-
+priority?  
 
 >&gt;Should we be demanding, we as a community, certain kinds of  
 
 
->data, because hey, it would be cool to have that data but there are  
+data, because hey, it would be cool to have that data but there are  
 
-
->consequences of collecting that data.  
-
+consequences of collecting that data.  
 
 >&gt;I think it's your ratio of listening versus shouting and  
 
 
->cultivating a healthy balance.  
-
+cultivating a healthy balance.  
 
 >&gt;That is a lead in to the next question.  There are going to be  
 
 
->open data projects.  It's a new thing and you have new people coming  
+open data projects.  It's a new thing and you have new people coming  
 
+in that are going to go wrong.  We've all worked with crime data and  
 
->in that are going to go wrong.  We've all worked with crime data and  
+how messy it is.  And the differences if you're scraping something and  
 
+saying there is a lot of a particular crime in a neighborhood but it's  
 
->how messy it is.  And the differences if you're scraping something and  
+not coded correctly and whatnot.  
 
+We want to get thoughts on what do we do about a project that  
 
->saying there is a lot of a particular crime in a neighborhood but it's  
+seems to be going wrong.  Or the brigade publishes crime data and we  
 
+know it's flawed but it's getting a lot of attention in the community  
 
->not coded correctly and whatnot.  
+because it gets people sort of looking at that data and drawing  
 
+conclusions from it.  What do we do?  Should we be diving in to help  
 
->We want to get thoughts on what do we do about a project that  
+them fix that.  Critically reporting on the pieces that they're  
 
+putting out there?  We want to take everybody's pros and cons to  
 
->seems to be going wrong.  Or the brigade publishes crime data and we  
+either of those strategies.  
 
-
->know it's flawed but it's getting a lot of attention in the community  
-
-
->because it gets people sort of looking at that data and drawing  
-
-
->conclusions from it.  What do we do?  Should we be diving in to help  
-
-
->them fix that.  Critically reporting on the pieces that they're  
-
-
->putting out there?  We want to take everybody's pros and cons to  
-
-
->either of those strategies.  
-
-
->I'm going to give you a few minutes to think through that.  
-
+I'm going to give you a few minutes to think through that.  
 
 >&gt;I like the little illustration.  This is cool, too.  Right on  
 
 
->the line there.  
+the line there.  
 
+You put up a bunch of cards.  Do you want to go through your  
 
->You put up a bunch of cards.  Do you want to go through your  
-
-
->thoughts?  
-
+thoughts?  
 
 >&gt;So for a con, I think about maybe there is some criterion for  
 
 
->when it's necessary.  What is the consequence of this?  Is it like,  
+when it's necessary.  What is the consequence of this?  Is it like,  
 
+oh, I know this and you don't?  Or is it, our government should not  
 
->oh, I know this and you don't?  Or is it, our government should not  
+make a decision based on this because I something I see and you don't.  
 
+I think that it feels like this is new and fragile.  Hearing like  
 
->make a decision based on this because I something I see and you don't.  
+you're going to do it wrong will scare a lot of people out of trying  
 
+from all sides.  
 
->I think that it feels like this is new and fragile.  Hearing like  
+So in general, like, how can we help each other until maybe we  
 
+mature and then we can go at each other's throats when it's a fair  
 
->you're going to do it wrong will scare a lot of people out of trying  
+game.  
 
+And then the sailboat, thinking about people's time and doing  
 
->from all sides.  
+something in an efficient way that you can learn about whatnot to do  
 
+and you can tell on yourself and do it in a spirit.  I can say like  
 
->So in general, like, how can we help each other until maybe we  
+it's a lot easier to say you did that wrong if you're like here look  
 
+at this page where I really screwed up and what I had to do.  And  
 
->mature and then we can go at each other's throats when it's a fair  
+then, yeah, so the boat is for like the rising tide.  I don't remember  
 
+the stupid adage.  Raises all the boats.  If stuff is hard and there  
 
->game.  
+are a lot of got yeas, nobody is going to think of all of them.  We  
 
+have to make it okay to have an addendum to this story.  New  
 
->And then the sailboat, thinking about people's time and doing  
-
-
->something in an efficient way that you can learn about whatnot to do  
-
-
->and you can tell on yourself and do it in a spirit.  I can say like  
-
-
->it's a lot easier to say you did that wrong if you're like here look  
-
-
->at this page where I really screwed up and what I had to do.  And  
-
-
->then, yeah, so the boat is for like the rising tide.  I don't remember  
-
-
->the stupid adage.  Raises all the boats.  If stuff is hard and there  
-
-
->are a lot of got yeas, nobody is going to think of all of them.  We  
-
-
->have to make it okay to have an addendum to this story.  New  
-
-
->corrections.  
-
+corrections.  
 
 >&gt;The threshold for intervention.  Is that yours as well?  
 
@@ -1532,140 +1109,103 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;Yes.  I started with that, just like thinking about is this  
 
 
->important to act on?  
-
+important to act on?  
 
 >&gt;Would that be even going maybe to a hack -- or a weekly meet  
 
 
->up and sitting down and spending time.  
-
+up and sitting down and spending time.  
 
 >&gt;I think I was thinking what are the consequences of this  
 
 
->mistake?  Is this worth my time and publicly shaming someone?  
-
+mistake?  Is this worth my time and publicly shaming someone?  
 
 >&gt;Right.  In Philly there is a part of code for Philly and they  
 
 
->have a weekly hack session and there are 25 to 30 people there a week  
+have a weekly hack session and there are 25 to 30 people there a week  
 
+working on things and it's a good opportunity to show up and not try  
 
->working on things and it's a good opportunity to show up and not try  
+to be expert-ish but sit down.  A lot of these things are focused on  
 
+building something and not spending time fixing data because it's not  
 
->to be expert-ish but sit down.  A lot of these things are focused on  
+as fun to do that.  Well, some people think it's fun.  
 
-
->building something and not spending time fixing data because it's not  
-
-
->as fun to do that.  Well, some people think it's fun.  
-
-
->Someone has critical reporting.  
-
+Someone has critical reporting.  
 
 >&gt;That's me.  On the side of reporting on projects that are  
 
 
->misusing data.  There are two prongs of it.  Right.  One going back to  
+misusing data.  There are two prongs of it.  Right.  One going back to  
 
+the organization, next time you do this you can do this a little bit  
 
->the organization, next time you do this you can do this a little bit  
+better in a sort of thanks for the data, this was a good attempt  
 
+phrasing.  And the other is like educating the public about stuff.  
 
->better in a sort of thanks for the data, this was a good attempt  
+The project came to me like any of the mug shot websites.  Yes, you  
 
+want to see this but does it help you.  You know this is available but  
 
->phrasing.  And the other is like educating the public about stuff.  
+what does it serve as a public good to create something that is  
 
+ethically riff just because we have the data for it.  People reporting  
 
->The project came to me like any of the mug shot websites.  Yes, you  
+on open data projects and whether or not they were used well or  
 
+whatever is more the fact that it's out there and people can read it  
 
->want to see this but does it help you.  You know this is available but  
+and address their questions that they want to see their government  
 
-
->what does it serve as a public good to create something that is  
-
-
->ethically riff just because we have the data for it.  People reporting  
-
-
->on open data projects and whether or not they were used well or  
-
-
->whatever is more the fact that it's out there and people can read it  
-
-
->and address their questions that they want to see their government  
-
-
->reporting about or their groups reporting about.  
-
+reporting about or their groups reporting about.  
 
 >&gt;Right.  And then Jeremy, conflict of interest.  It is news but  
 
 
->it could endangerer our ability to report news, question mark.  
-
+it could endangerer our ability to report news, question mark.  
 
 >&gt;Maybe the solution is since we understand the conflict here,  
 
 
->is to try to report on it in a way that doesn't look at how awful this  
+is to try to report on it in a way that doesn't look at how awful this  
 
+is or how much better, it doesn't work great this time but it could be  
 
->is or how much better, it doesn't work great this time but it could be  
-
-
->better, that kind of angle.  
-
+better, that kind of angle.  
 
 >&gt;I guess I see what physically going to these groups and being  
 
 
->like hey, what do you think about this?  And working through the  
+like hey, what do you think about this?  And working through the  
 
+people there.  I mean so many of these things like the New York City  
 
->people there.  I mean so many of these things like the New York City  
+taxi thing got a million hits.  But there's so many that don't get any  
 
+traffic at all.  Spending time like ...  I think you want to get as  
 
->taxi thing got a million hits.  But there's so many that don't get any  
+close back to the root of the problem.  So go and fix it in the fourth  
 
+release but you have no idea if it's going to be popular.  Maybe you  
 
->traffic at all.  Spending time like ...  I think you want to get as  
+write a story about the taxi identification but it doesn't get as much  
 
-
->close back to the root of the problem.  So go and fix it in the fourth  
-
-
->release but you have no idea if it's going to be popular.  Maybe you  
-
-
->write a story about the taxi identification but it doesn't get as much  
-
-
->traffic.  I don't know ...  So ...  
-
+traffic.  I don't know ...  So ...  
 
 >&gt;I think there's also the we're smart but we aren't necessarily  
 
 
->the expert.  Say someone did something and you're like, whoa, they  
+the expert.  Say someone did something and you're like, whoa, they  
 
+didn't think about this or they didn't write about this caveat.  Maybe  
 
->didn't think about this or they didn't write about this caveat.  Maybe  
+they did think about that stuff.  Even if you're going to report, you  
 
-
->they did think about that stuff.  Even if you're going to report, you  
-
-
->still have to talk to them and see what they did and why they did it.  
-
+still have to talk to them and see what they did and why they did it.  
 
 >&gt;That's true.  
 
@@ -1673,107 +1213,76 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;I was going to say if there -- Tom, if you want to comment and  
 
 
->if anyone has questions that you're burning with for the group, let's  
+if anyone has questions that you're burning with for the group, let's  
 
-
->end the remaining time and talk about that.  
-
+end the remaining time and talk about that.  
 
 >&gt;I was going to say the nice thing in a lot of places outside  
 
 
->New York, these communities are pretty small and rarely does anything  
+New York, these communities are pretty small and rarely does anything  
 
+come up that is a big surprise.  There are opportunities for open  
 
->come up that is a big surprise.  There are opportunities for open  
+source projects for something coming down.  You can file a HIB issue  
 
+and say I've worked with this crime data, be aware of this or have you  
 
->source projects for something coming down.  You can file a HIB issue  
+thought about that.  I think it's fair to raise those questions while  
 
+something is in development.  And like wise if you're going to report  
 
->and say I've worked with this crime data, be aware of this or have you  
+on them, it's not a surprise to those people.  They're going to know  
 
+that you're watching and you're going to go to them.  I don't think  
 
->thought about that.  I think it's fair to raise those questions while  
+anybody wants to feel like they've been mistreated but if you write  
 
+the story and you're forthcoming with them, okay, here are issues that  
 
->something is in development.  And like wise if you're going to report  
+came up, let's talk about it.  I think it's fair to work both sides.  
 
+I don't think you need to be a core contributor but if you have  
 
->on them, it's not a surprise to those people.  They're going to know  
-
-
->that you're watching and you're going to go to them.  I don't think  
-
-
->anybody wants to feel like they've been mistreated but if you write  
-
-
->the story and you're forthcoming with them, okay, here are issues that  
-
-
->came up, let's talk about it.  I think it's fair to work both sides.  
-
-
->I don't think you need to be a core contributor but if you have  
-
-
->reporting and expertise on them, you should ...  
-
+reporting and expertise on them, you should ...  
 
 >&gt;How do you -- the historical reporting.  Copying a dataset and  
 
 
->you're responsible for what comes out of the dataset.  How do you keep  
+you're responsible for what comes out of the dataset.  How do you keep  
 
+up with the data as it moves from story to story using one story for  
 
->up with the data as it moves from story to story using one story for  
+another.  How does that echo down the pipeline?  It becomes  
 
+de-normalized and nobody is trying to track this story which is  
 
->another.  How does that echo down the pipeline?  It becomes  
+related to this story that reports on this story tracks back to this  
 
-
->de-normalized and nobody is trying to track this story which is  
-
-
->related to this story that reports on this story tracks back to this  
-
-
->open data source.  
-
+open data source.  
 
 >&gt;That is something that I'm working on in Pittsburgh.  It's  
 
 
->something we're looking to build.  I'm collecting all the campaign  
+something we're looking to build.  I'm collecting all the campaign  
 
+finance data.  Do we want to update that for every report.  We get to  
 
->finance data.  Do we want to update that for every report.  We get to  
+a point where we're collecting enough data and we have the historical  
 
+record.  You can look at the funding in this campaign back in 2009 and  
 
->a point where we're collecting enough data and we have the historical  
+compare it to the 2013 campaign and have that record.  But we don't --  
 
+we're still mutilating and talking through how do we ensure that is  
 
->record.  You can look at the funding in this campaign back in 2009 and  
+maintained and when you up load the data that it matches the data that  
 
+you've already got.  
 
->compare it to the 2013 campaign and have that record.  But we don't --  
+I don't know answers but it's something that we're noodlating, at  
 
-
->we're still mutilating and talking through how do we ensure that is  
-
-
->maintained and when you up load the data that it matches the data that  
-
-
->you've already got.  
-
-
->I don't know answers but it's something that we're noodlating, at  
-
-
->least starting to think about.  
-
+least starting to think about.  
 
 >&gt;Was that word "noodling"?  
 
@@ -1787,65 +1296,47 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;I think it's important to document, I got this data from this  
 
 
->source and here is the process that got me to this story.  And the  
+source and here is the process that got me to this story.  And the  
 
+more open you can be about that, the better it's going to be for  
 
->more open you can be about that, the better it's going to be for  
+anyone who take it is story further and it's great for yourself and  
 
+the organization.  Really starting at the source level and going each  
 
->anyone who take it is story further and it's great for yourself and  
-
-
->the organization.  Really starting at the source level and going each  
-
-
->step of the way.  
-
+step of the way.  
 
 >&gt;Any other burning questions someone has about open data or  
 
 
->working with open data groups?  
-
+working with open data groups?  
 
 >&gt;I'd be curious about the line between, going back to some of  
 
 
->the underlying questions, reporting on open data efforts.  
+the underlying questions, reporting on open data efforts.  
 
+Particularly ones that end up -- there is a lot of developers that go  
 
->Particularly ones that end up -- there is a lot of developers that go  
+and do their own projects.  But commenting on projects you see or the  
 
+projects that you're working on on your own.  The line between when  
 
->and do their own projects.  But commenting on projects you see or the  
+you're reporting on a project based just tech upon your tree, you have  
 
+personal developer problems about how a certain group provided data  
 
->projects that you're working on on your own.  The line between when  
+compared to like it's building into a story and reporting.  And  
 
+walking that line just so you aren't conflicting with your own self  
 
->you're reporting on a project based just tech upon your tree, you have  
+about it later on if something turns into a full story versus all of  
 
+the opinions you spatted on Twitter about it.  I don't know that I've  
 
->personal developer problems about how a certain group provided data  
+seen a lot of people walk that enough to say I have a good sense of  
 
-
->compared to like it's building into a story and reporting.  And  
-
-
->walking that line just so you aren't conflicting with your own self  
-
-
->about it later on if something turns into a full story versus all of  
-
-
->the opinions you spatted on Twitter about it.  I don't know that I've  
-
-
->seen a lot of people walk that enough to say I have a good sense of  
-
-
->what that is.  
-
+what that is.  
 
 >&gt;Any thoughts.  
 
@@ -1853,158 +1344,112 @@ Session leaders:  AmyJo Brown and Casey Thomas
 >&gt;It might be a total dead end question and that's fine.  I was  
 
 
->just thinking about it.  
-
+just thinking about it.  
 
 >&gt;Casey you're on the other side.  You work for the government.  
 
 
->You have the whole perspective.  You've done freelance, you worked for  
+You have the whole perspective.  You've done freelance, you worked for  
 
+the Inquirer and done other things what was it like when you worked  
 
->the Inquirer and done other things what was it like when you worked  
-
-
->for the city and saw it from the other side?  
-
+for the city and saw it from the other side?  
 
 >&gt;I mean, yeah ...  Philadelphia is such a big city that it's  
 
 
->hard to find larger groups that are aware of these things.  It's  
+hard to find larger groups that are aware of these things.  It's  
 
+mostly one or two people in the department that even care.  And maybe  
 
->mostly one or two people in the department that even care.  And maybe  
+they have a relationship for open data and are really excited and talk  
 
+to their boss.  But at the time I was working for the city it was --  
 
->they have a relationship for open data and are really excited and talk  
+open data wasn't that big.  And a lot of the data stuff, there was  
 
+data out there but there wasn't the open Philly.  It was too messy.  
 
->to their boss.  But at the time I was working for the city it was --  
+It wasn't a big campaign like it is now.  I feel like people in this  
 
+city have a good idea what is going on and what it means.  Not that  
 
->open data wasn't that big.  And a lot of the data stuff, there was  
+they're all sold on it.  I remember requests for Pennsylvania law on  
 
+the other side and the lawyers being like do we have this exact thing  
 
->data out there but there wasn't the open Philly.  It was too messy.  
+as they word it here?  No, but it would take five seconds to do a  
 
+query but we don't have it.  I don't know if that sort of initial  
 
->It wasn't a big campaign like it is now.  I feel like people in this  
+response kind of thing has changed.  Just because it seems like the  
 
+city is getting more comfortable.  Our chief data officer left because  
 
->city have a good idea what is going on and what it means.  Not that  
+he ran into department heads not wanted to release more important  
 
+datasets.  They released bike rack locations.  That is great, it's  
 
->they're all sold on it.  I remember requests for Pennsylvania law on  
+easy.  It's useful to some people but what about the salary data or  
 
+police internal affair investigations.  It's at that point where we  
 
->the other side and the lawyers being like do we have this exact thing  
+have bigger and more important datasets in the city and it got to a  
 
+point where it's more about politics than technology.  These things  
 
->as they word it here?  No, but it would take five seconds to do a  
+are being built but blocked because the city doesn't want them out  
 
+there.  
 
->query but we don't have it.  I don't know if that sort of initial  
+My time with the city, people didn't really know or care.  We  
 
+would respond, we had better luck doing it informally at least at the  
 
->response kind of thing has changed.  Just because it seems like the  
-
-
->city is getting more comfortable.  Our chief data officer left because  
-
-
->he ran into department heads not wanted to release more important  
-
-
->datasets.  They released bike rack locations.  That is great, it's  
-
-
->easy.  It's useful to some people but what about the salary data or  
-
-
->police internal affair investigations.  It's at that point where we  
-
-
->have bigger and more important datasets in the city and it got to a  
-
-
->point where it's more about politics than technology.  These things  
-
-
->are being built but blocked because the city doesn't want them out  
-
-
->there.  
-
-
->My time with the city, people didn't really know or care.  We  
-
-
->would respond, we had better luck doing it informally at least at the  
-
-
->water department?  
-
+water department?  
 
 >&gt;At one point we wanted to do something with water usage at the  
 
 
->parcel level.  It was something about city vacancies and the thinking  
+parcel level.  It was something about city vacancies and the thinking  
 
+is if there is water usage there is somebody there.  But the city  
 
->is if there is water usage there is somebody there.  But the city  
-
-
->couldn't give it to us.  
-
+couldn't give it to us.  
 
 >&gt;I know I gave chunks of it to students and stuff like that.  I  
 
 
->don't know, I mean it probably hasn't changed that much.  I had better  
+don't know, I mean it probably hasn't changed that much.  I had better  
 
+luck doing informal requests at that point and that seems to be one  
 
->luck doing informal requests at that point and that seems to be one  
+advantage that journalists have over mainstream media is that we then  
 
+can often turn to this back-door route.  Which is a little unfair  
 
->advantage that journalists have over mainstream media is that we then  
+because we're supposed to be just the public.  But sometimes  
 
+government agencies work with the media if they feel like, you know,  
 
->can often turn to this back-door route.  Which is a little unfair  
+there's something -- whatever their motive is.  The average person may  
 
-
->because we're supposed to be just the public.  But sometimes  
-
-
->government agencies work with the media if they feel like, you know,  
-
-
->there's something -- whatever their motive is.  The average person may  
-
-
->not think to go that route or have the ability.  
-
+not think to go that route or have the ability.  
 
 >&gt;So we are at time.  What we're going to do is take the notes  
 
 
->from the session, it was being transcribed and we have the notes from  
+from the session, it was being transcribed and we have the notes from  
 
+the post its and we'll create a document and organize it so it can  
 
->the post its and we'll create a document and organize it so it can  
+spark conversations in the news room.  So you can see where we fell  
 
+with pros and cons and hopefully that can help you talk through  
 
->spark conversations in the news room.  So you can see where we fell  
+working with open data groups.  
 
-
->with pros and cons and hopefully that can help you talk through  
-
-
->working with open data groups.  
-
-
->We'll release that later.  
-
+We'll release that later.  
 
 >&gt;Thank you so much for coming.  
 

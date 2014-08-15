@@ -14,11 +14,9 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;e're going to get started.  Could somebody get the door maybe in the back?  So we're here to talk about newsroom training.  Just a couple of housekeeping things, if you want to open up the etherpad where we've put some burning questions, a little bit of a guide to what we're hoping to do in this conversation today, it's bit.ly/train-your-newsroom.  So you can check that out.    
 
 
->We wanted to start out here by introducing ourselves, telling you very briefly about what we do.  And you know, as we said in the session discussion, we're really trying to learn from you guys, as well as sharing with you some of the things we've picked up as you go.  Feel free to jump in.  This is meant to be very participatory.    
+We wanted to start out here by introducing ourselves, telling you very briefly about what we do.  And you know, as we said in the session discussion, we're really trying to learn from you guys, as well as sharing with you some of the things we've picked up as you go.  Feel free to jump in.  This is meant to be very participatory.    
 
-
->My name is Jaeah, we're both at Mother Jones Magazine on the data team there, and I started in my job about two years ago, at which point there were still plenty of reporters and editors in our newsroom who did not know what a column or a row in a spreadsheet was, and so because we were fairly short-staffed, really short-staffed...  
-
+My name is Jaeah, we're both at Mother Jones Magazine on the data team there, and I started in my job about two years ago, at which point there were still plenty of reporters and editors in our newsroom who did not know what a column or a row in a spreadsheet was, and so because we were fairly short-staffed, really short-staffed...  
 
 >&gt;It's us.  
 
@@ -56,8 +54,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;Yeah.  
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;That's nice, I like that.  
 
@@ -137,8 +134,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt; 
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;Yes, I was there for that.  And like it just never like, some people they're real interested.  
 
@@ -200,8 +196,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt; 
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;But that doesn't work in a newsroom, but the thing that worked about that was that we have a physical space, and this is where you come to learn and work or your own project that may not be your day job, may not be your homework or whatever.  But having a place where you are forced to get into that mind set is really important.  People walk in, OK I'm here to learn for these three hours.  And I think that runs counter to what we were saying.  If you have a sort of collaborative space, I think -- I don't know --  
 
@@ -329,14 +324,12 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;Yeah,.  
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;Good question.  How do you handle that problem?  
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;I don't have that problem.  I don't work at a journalism organization, but --  
 
@@ -398,14 +391,12 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;I do want to get back to this question of like the top-down culture problem, because I think that that is so key.  And you know like Yuri, I know you've dealt with this.  For those of you who felt where the obstacle is you this is a grassroots organization, you had this mandate, did it work, did it not work?  What worked?  
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;I can tell you a lot of things that did not work.  You know, they put me in charge and I still couldn't push stuff through.  For me, fighting up is a lot easier than fighting down.  Because if it's not a shared mission, then it's hard.  The things that really worked for me was one-on-one, and then you do that with like 10 people and you get like an evangelist and then they go and say check out this cool thing I did.  When you get an evangelist, then it gets better, because then you have more and more evangelists and more and more people get excited.  But there's still going to be one desk that you can't break in.  I'll buy you lunch, I'll take you out for drinks.  What do you want?  You want a computer, here?  You don't like it because it's a Mac?  I mean, come on.  
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;There's a corollary to evangelism which is sort of competition or jealousy in some certain newsroom environments.  Like one reporter does some awesome thing with his story and the other reporter starts saying, how come I didn't do that?  Why does he get to do that?  
 
@@ -437,8 +428,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;But I mean like --  
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt;My executive editor has more commits at GitHub than I do, and it's crazy.  We get them to commit documentation.  Don't complain, contribute.  If you see a spelling error in documentation in code, you should have access to fix that and we want everybody to be part of this because we're all in it together, and if it tool doesn't work or a system is broken, that hurts us all.  
 
@@ -485,8 +475,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt; 
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt; 
 
@@ -515,8 +504,7 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt; 
 
 
->[laughter]  
-
+[laughter]  
 
 >&gt; 
 
@@ -554,5 +542,4 @@ Session Leaders:  Jaeah Lee and Tasneem Raja
 >&gt;I think we're out of time.  All right, thanks, guys, this has been really helpful.  
 
 
->[break]   
-
+[break]   
