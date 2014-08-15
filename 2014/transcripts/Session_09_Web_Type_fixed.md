@@ -28,20 +28,24 @@ Session leader(s): Allen Tan
 
 >[ Discussion ]  
 
+
 ALLEN:  Okay, so I think we're going to sort of go through each group and talk about the things you've come up with.  It also seems like a lot of people had very specific links for things they were talking about.  So I just started an etherpad.  You can go to it from shoutkey.com/mossy, and I think it would probably be useful for us to collect the different links that we were talking about and pointing people to.  
 
 
 >&gt;Shoutkey.com slash what?  
+
 
 ALLEN:  Shoutkey.com/mossy, M-O-S-S-Y.  So just add your links to the top of the document when you're presenting.  We should start with you guys.  
 
 
 >&gt;Um, so we had kind of like, a wishlist of things that we've both had problems with and things we want.  So the fonts are too large is, you know, a problem.  We're, I guess trying to pack a bunch of fonts into our sites.  A lot of times, there's almost, like, a performance budget that we have to have in terms of how many things are loaded.  So, you know, some websites have, like, subsetting where you can subset just English-language characters which helps with font size, a little bit.  So we were like, how big is too big?  And it's different depending on, like, mobile versus, you know, broadband connection.  We also have kind of an issue with licensing for individual posts.  So if, like, there's a big feature that we're doing, we don't want to, like, spend the money to license that as like a full website.  That's just a 1-off.  So kind of having this big yearly renewal thing is kind of a bit much for and a one post-tests -- bit much for one post.  So Typekit has à la cart licensing, but for the most part we've been using Google Fonts which are free but you get what you pay for.  Centralized place to find fonts is something that we've been having a little trouble with.  So, you know, where to find these things, and you know, as we're looking through one library we have no idea what another library has.  So being able to compare those would be great.  What effects can we apply?  So, like, it would be really nice to have, like, a library of effects and share a little bit more knowledge, in terms of those kinds of things.  Rendering's all over the map.  So halfway-consistent idea in terms of what rendering can be like in different browser.  Better printing support was something that came up.  A lot so printing can often result in missing characters and, like, weird glyphs, so making that better would be great.  Actual kerning support like JS, where it wraps in span.  We were having a really long discussion on, you know, how to make that work.  And no real answers but fascinating discussion.  And also, window controls.  So there's always like that widow at the end that is super annoying.  So yeah, that's kind of the stuff we came up with.  
 
+
 ALLEN:  I think that's part of the CSS 4 spec that's being worked on now.  One of the things that you'll be able to detect is how good your data connection is.  I think there's, like, shitty, okay, and good.  I think it's three levels.  
 
 
 >&gt;Yeah, that's what they're called.  
+
 
 ALLEN:  Yeah, so something that might be useful.  How about you guys in the middle?  
 
@@ -83,6 +87,7 @@ ALLEN:  Yeah, so something that might be useful.  How about you guys in the midd
 
 
 >&gt;It's 700 kilobytes, which, I guess on the desktop just sucks the first time, if you're a repeat visitor, it's probably fine but then there's team like mine where we build off of interactives where we might want to use more than that, or different ones than that.  So we get we've got that 700, or 800K off of the platform and then we're adding video, and then we're adding images.  It's not the most ideal tech implementation.  So I feel like having that very skinny baseline set of faces for your platform and then CSS being able to add certain faces as you go might be better performance-wise.  
+
 
 ALLEN:  Right now, we're selling Typekit and it's everything.  And we never had pages that loaded all of them, or that needed all of them so it doesn't make sense to do that.  
 
@@ -133,6 +138,7 @@ ALLEN:  Right now, we're selling Typekit and it's everything.  And we never had 
 
 
 >&gt;One character?  
+
 
 ALLEN:  Cool, well it seems like a lot of people have very solution-specific questions.  So I'm glad that we had that there.  And if you have any follow-up things, just talk to the person, or stick it on the back.  Thanks, guys.  
 

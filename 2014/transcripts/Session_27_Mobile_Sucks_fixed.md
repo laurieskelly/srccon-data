@@ -33,6 +33,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 
 >[group activity]  
 
+
 ... ... ... :  OK, about two minutes left.  Maybe start thinking about one person per group who's going to talk about what you've been talking about ... :  
 
 

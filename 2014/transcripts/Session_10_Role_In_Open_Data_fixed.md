@@ -8,6 +8,7 @@ whitecoatcaptioning.com
 July 24, 2014  
 
 What is our role in the open data movement?  
+
 12:30 to 1:30 p.m.  
 
 
