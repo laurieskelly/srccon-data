@@ -1,14 +1,8 @@
-
 This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
-
 Captioning by the wonderful people of White Coat Captioning, LLC  
-
 whitecoatcaptioning.com  
-
 7/25/14.  
-
 Session 21 - Toward web-native storytelling!  
-
 Session Leaders: Claire O'Neill and Tyler Fisher  
 
 >&gt;orning, everyone:  So this session was originally called "Cool data bro', but what's the story?" and that seemed kind of mean, so I changed it to web storytelling, whatever that means.  So I guess we can introduce ourselves first.  What we're thinking of doing is we'll introduce ourselves, we'll talk a little bit about our team, and we can sort of talk about a project you did, but then we thought it might be interesting to sort of talk about our design exercise, basically the exercise we do and then break into groups and do that design exercise for a story.    
@@ -85,8 +79,7 @@ Session Leaders: Claire O'Neill and Tyler Fisher
 
 ROOM WRANGLER:  We're trying to get somebody to turn on the microphone, but it's not likely and we're trying to get the white noise turned off, but that's not likely, either.  
 SESSION LEADER:  Right, so we zoom in on a person, a human who can sort of connect it us to the story and then we have a few detail shots of you knee know, recipes on border and then some action shots, you know, a story in essay proceedings speak about an actual episode that they had border control.  Some things were cool about this, some things weren't, but this is sort of our team's first collaborative project together.  
-
->How many people are on the team and what were the roles that they played in helping you build this?  
+How many people are on the team and what were the roles that they played in helping you build this?  
 
 >&gt;So our team in general or the team that worked on this.  
 

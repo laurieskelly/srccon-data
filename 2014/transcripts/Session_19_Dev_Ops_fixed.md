@@ -1,15 +1,9 @@
-
 This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
-
 Captioning by the wonderful people of White Coat Captioning, LLC  
-
 whitecoatcaptioning.com  
-
 July 24, 2014  
-
 Make your devs and teams braver through dev ops (God help us all.)  
 4:30 to 5:30 p.m.  
-
 Session Leader:  Chris Chang  
 
 >&gt;JP was supposed to be here but he got stuck in Pittsburgh.  

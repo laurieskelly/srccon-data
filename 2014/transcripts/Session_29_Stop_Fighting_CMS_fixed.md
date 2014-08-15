@@ -1,21 +1,12 @@
-
 This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
-
 Captioning by the wonderful people of White Coat Captioning, LLC  
-
 whitecoatcaptioning.com  
-
 SRCCON 2014  
-
 Session 29 7-25-14, 1500-1730  
-
 Franklin 2  
-
 "We can stop fighting the CMS, a round-table discussion"  
-
 Session leader(s): Chris Chang and Andrew Nacin  
-
->--  
+--  
 ANDREW:  All right.  Welcome to "We Need To Stop Fighting The CMS:  A Round-table Discussion."  Like all of these sessions, my name is Andy Mason.  I'm one of the lead developers for WordPress, which you may know.  So I come with a background from someone who builds software but also has been in the newsroom.  
 CHRIS:  I'm Chris Chang.  We have our own in-house CMS based off of Django, and so I support users next to me as opposed to millions of years...  
 ANDREW:  I prefer not to see them -- don't write that down!  We're going to start.  I think we'll start really quickly with some introductions because we kind of -- especially since this is not a huge group, which is good -- just a very quickly who you are, where you work, what do you use in your system, whether it's home-grown, or something else -- Django, or whatever.  And what you do?  In my case, Andy Mason, WordPress, and I build WordPress.  So -- but if you guys -- if we can all just do that all quickly and if you're a developer versus a user I think that will help a little bit.  We're going to start over here?  
@@ -85,8 +76,7 @@ ANDREW:  Next... he's a developer.
 >&gt;I'm Daniel, I do WordPress stuff.  That's it.  I want to use a different CMS.  
 
 ANDREW:  Dude, I'm with you.  
-
->[ Laughter ]  
+[ Laughter ]  
 
 >&gt;I'm sick of WordPress.  
 
@@ -381,18 +371,14 @@ ANDREW:  And maybe your group depending on who's in there.  Can break it down in
 >&gt;I think we may need to start with the big things and break it down.  
 
 ANDREW:  Sounds good.  This is flexible and we have time.  
-
->[ Group Work ]  
-
->Pick a side!  
+[ Group Work ]  
+Pick a side!  
 
 >&gt;I feel the structure of the room.  You guys should pick a side.  
 
 ANDREW:  That corner is collaboration and version control stuff and it looks like the content model is, like, everything else.  So you wanna go down and go over here?    
-
->[ Group Work ]  
-
->All right.  Do you guys wanna start?  
+[ Group Work ]  
+All right.  Do you guys wanna start?  
 
 >&gt;Does it make sense for us to start?  
 

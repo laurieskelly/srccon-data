@@ -1,23 +1,13 @@
-
 This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
-
 Captioning by the wonderful people of White Coat Captioning, LLC  
-
 whitecoatcaptioning.com  
-
 7/25/14  
-
 Session 27, Mobile sucks!  
-
 Session Leader: Alastair Coote  
-
->OK, so we're round about 4:30, so we might as well start.  See if anybody comes in a couple of minutes late.  So hi, my name is Alastair Coote. I am a developer at the New York Times.  I work on the interactive news team, often working with mobile, so I've spent way too much of my time staring at these stupid devices.  And mobile is great in many ways, the things that we can do now, sort of everyone has our content in their pocket, that's fantastic, but the real truth is that actually developing for mobile is awful.  It sucks.  All the different devices, all the different browsers on those devices for a minute it felt like we had desktop browsers sorted out, even IE was relatively OK, and then suddenly we're thrown back into this wild west where everything is awful, so I thought we could come together in a sort of group therapy style and we could talk out our problems and hopefully those people in the room with questions and there will be some other people in the room with answers to these questions, even if we haven't gotten answers maybe we can demystify things a little bit.  I don't know, we'll see.    
-
->The way I'm hoping we're going to structure this is now or in a minute everyone is going to grab a post-it note or two and they're going to write down a problem they've had in working with mobile.  It can be a technical thing or a philosophical thing or a conceptual thing, whatever you think.  And then we'll talk about it in groups for a few minutes.  Hopefully not for too long because I think it will be great to bring this back to a group discussion for a greater period of time.  Step 1, everybody grab a post-it note and if you've worked on mobile and there's something that's annoyed you about it and my colleague, Tiff and I will be walking around and collecting the post-it notes.  
-
->[group activity]  
-
->... ... ...  
+OK, so we're round about 4:30, so we might as well start.  See if anybody comes in a couple of minutes late.  So hi, my name is Alastair Coote. I am a developer at the New York Times.  I work on the interactive news team, often working with mobile, so I've spent way too much of my time staring at these stupid devices.  And mobile is great in many ways, the things that we can do now, sort of everyone has our content in their pocket, that's fantastic, but the real truth is that actually developing for mobile is awful.  It sucks.  All the different devices, all the different browsers on those devices for a minute it felt like we had desktop browsers sorted out, even IE was relatively OK, and then suddenly we're thrown back into this wild west where everything is awful, so I thought we could come together in a sort of group therapy style and we could talk out our problems and hopefully those people in the room with questions and there will be some other people in the room with answers to these questions, even if we haven't gotten answers maybe we can demystify things a little bit.  I don't know, we'll see.    
+The way I'm hoping we're going to structure this is now or in a minute everyone is going to grab a post-it note or two and they're going to write down a problem they've had in working with mobile.  It can be a technical thing or a philosophical thing or a conceptual thing, whatever you think.  And then we'll talk about it in groups for a few minutes.  Hopefully not for too long because I think it will be great to bring this back to a group discussion for a greater period of time.  Step 1, everybody grab a post-it note and if you've worked on mobile and there's something that's annoyed you about it and my colleague, Tiff and I will be walking around and collecting the post-it notes.  
+[group activity]  
+... ... ...  
 
 >&gt;OK, nobody has any others?  We're all good?  
 
