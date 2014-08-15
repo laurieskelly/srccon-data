@@ -16,6 +16,7 @@ Guest Presenters: Joe Germuska, Derek Willis, Jacob Harris
 --  
 RYAN: All right, it's 12:30 by my clock.  Hello, everyone, welcome to the Hitchhikers Guide to datasets session.  I'm Ryan.  I have a few people who are going to help me out during this session, but let's talk a little bit about why we're here, first of all.  So it will probably not come as a shock to anyone in this room if I were to tell you that data is a pretty awesome source to do journalism with.  Probably a lot of us in here who have done this kind of analysis ourselves, whether looking at crime data and a reporting on that or analyzing census data to talk about the way that demographics of our city are changing over time or maybe we write a bot that tweets out anonymous campaign finance donations. Or maybe we become once with the FEC dataset, and we just sense anomalies and we tweet them manually.  A lot of us have probably participated in the News Nerd Super Bowl, which is election night, delivering stories to our readers and there are probably a lot of people in this room who are very comfortable with doing journalism with data and we've been doing it for a long time.  I think it's also fair to say that over the past two or three years we've seen a real surge in interest in this type of data analysis.  There are a lot of reporters working now who wouldn't necessarily have identified as data analysts before, but they're definitely working data analysis in their beats.  There are entire sites launching with data analysis kind of the core of their DNA.  
 
+
 If any of you were at the last NICAR, it was like the biggest one ever.  There were like a thousand news nerds there, so data analysis is really of high interest right now.  So in thinking about SRCCON and getting together a bunch much smart people it felt like it would be cool for us to collect some of the knowledge about all of these datasets that we know about.  For a couple of reasons, both so that journalists know what's out there and what's available, because I run across interesting datasets that are interesting to me all the time.  You probably do the same thing.  So that we all embark into this kind of analysis that we're doing the right kind of work and that's something that's kind of worrisome, because it's true that the first time you look at a particular dataset it's kind of daunting.  You may not be real familiar with the meta data that they use, you might not understand the way one agency classifies certain things versus another agency.  You might not even know how the data is collected and that's pretty important before you actually start describing it to other people.  
 
 And so the risk that we have, if we're just kind of doing something for the first time, is that we'll make mistakes, so we ought to try to help each other avoid that.  I was trying to think of a good analogy for this, and the best thing I could come up would be, it's like trying to read an essay that's written in a language you took a couple of years of in high school and so you see these are letters on the page, I know that there are words made of these letters and maybe I understand a few of the words or phrases, but never in a million years would you turn to a person next to you and say, and here's what this essay actually means.  You would want to understand that language before you were trying to tell someone else what it means.  That's what we do as journalists.    
@@ -33,6 +34,7 @@ What I want is for everybody to walk out of this room having learned something n
 
 JOE GERMUSKA: So the US Census Bureau is a great provider of open data so that journalists can know about the world around them where they're reporting.  They do three big products and a lot of other ones.  The three big ones are the decennial census:  They vary in degrees of precision and timeliness.  We did sense reporter based mostly on the American Community Survey because we think it's the sweet spot in terms of timeliness versus precision.  First, the American Community Survey is a survey so you have to be aware that there's margins of error, talking about precision.  The more geographically precise you want to be, the more risk there is that the margin of error are problematic and so one of the things you need to come to terms with is what level of accuracy you can deal with and also just how to talk about it so when you write about data from the American Community Survey, rarely do you want to say one is the most or the least, but with the margin of order, the lists might change order.  But you can still get a lot of out of it as long as you're careful not to treat it as extremely precise data.  So every table has a different universe that is sort of what's being counted so most of them would be talking about these are all the people and of all the people, this many are men or women, this many are this age or that age.  But some tables have a different universe, for example there are tables about how people get to work and the universe for that is workers and specifically workers I think between the age of 15 and 50, and so when you compare numbers from a table like that to another table, if the universes aren't the same, then you have to be very careful that you're comparing apples to apples and not apples to oranges.  
 
+
 So I mentioned a little about about geographic precision.  One of the things that census data users have to come to terms with is what's called a summary level.  So summary levels are basically class of geography, so the obvious ones are states, counties, you may have heard of census tracks and block groups.  I think there's like 200 summary levels but some of that is overly complicated.  What you really need to know is there's about 20 of them.  A lot of the rest of them come to do with how those shapes are broken down and you can usually separate those out:  One of the sort of caveats that is a good one to know early on is that a lot of people want data for their city.  In sometimes that's called a place, city or town.  But sometimes it's like a town that doesn't have a government.  So there's a whole bunch of those called places but in certain parts of America, places don't really cover everything and there's another level which is called county subdivision which is a better way to use if you're doing things especially New England, Michigan and...[inaudible]  
 
 If you're using analysis just within those places you'll get more of the places that you're trying to think about if you don't use the summary that's called place.  Again, this is something in the repository so you don't have to get it from me trying to make it concise in five minutes.  Another kind of interesting wrinkles is in ever any year they actually do three different releases.  For big enough places they release data on them every year and big enough in that case means 65,000 people or more, so in that data, you can do year by year comparisons going back to 2005, but for places that are less than 65,000 people, the bureau doesn't believe that the margins of error and the sample sizes are good enough to get good results so they collect data for three years and use that for places that are 20,000 or more.  And they also have a release that collects data for five years and they have to use for ... again at the block group level you run a decent risk of margin of error problems, especially if you're trying to get a very specific sort of subculture, so the numbers of men versus women in a block group are pretty reliable estimates, but the number of, you know.  15- to 25-year-old men of Ecuadorian heritage is less likely to be a number that you can trust at the block group level and you need to get a bigger aggregate for that.  
@@ -43,6 +45,7 @@ It's also comparison over time is tricky with the ACS, for a couple of reasons. 
 
 So I think those are the main kind of points I want to talk about.  I could go on and on and if you get me the a the bar and ask me the wrong question you might get me to do that.  But for now that's kind of a brief introduction.  This and a lot more is in the repository that Ryan was talking about.  For now, I'll yield the floor to the next person.  
 DEREK WILLIS: So hey, I'm Derek Willis, I don't have any buttons to give away to you, so but I'll advertise the census reporting buttons.  So I want to introduce you a little bit to the Federal Election Commission data which is available, and the good news is that there's a lot of data.  The bad news is that there's a lot of data and it covers different things.  You wouldn't day it like a circle, you would draws it as like a house that you bought and then added the rooms on and then other people got to design some of those rooms or pick many so of those rooms and then maybe you leveled them off and there were different architects representing different styles that built onto that house so that it ended up looking like crazy town basically which is sort of a decent way to describe it because the Federal Election Commission covers House, Senate and presidential races, that's it.  And all the politics that goes along with it.  So automatically there's a stratification level of not all elections.  We don't do state elections.  So that's not there.  
+
 
 And then of course there are varying methods of how you get that information in, and schedules, and times that people file, and you can choose to file, and so it is not a -- again, like thanks to the constitution, it's a federalist system, it's more of an opt-in system for data than it is a required system for data in some respects.  So just to give you some brief example:  Candidates can choose to file, at a minimum, every quarter.  Every three months. But they also can choose to file monthly, and now monthly is better for us, I think as journalists and folks who build things.    
 
@@ -56,6 +59,7 @@ The Senate, in its infinite wisdom, as the world's greatest legislative body, th
 
 The problem is that unlike the careful, the really careful folks in the Census Bureau, the FEC folks, it's not that they're not careful, but they're not careful enough and there's too many filings for them to deal with, so there are mistakes or people make mistakes in filings and everything has to be greeted with or approached with fairly abiding skepticism that well, if something looks wrong, yeah, it probably is wrong.  So on again in the FEC data section of the repository, I'd love for people, you know, whether it's in here or outside of this session, to take a look at it and be like this part doesn't make sense to me or that part doesn't make sense to me or can you explain this a little more and that's sort of the way I feel that we will get kind of pushed forward on a larger front than simply me looking at findings all the time and tweeting out weird things.  On the other hand, if you enjoy this sort of stuff, maybe we can schedule shifts where can you tweet weird stuff from findings when I'm on vacation, which starts in 48 hours from now.  So thank you.  
 JACOB HARRIS: Ryan invited me to be on the panel, and he wanted me to give information on the AP.  Which I actually pushed back on a little bit.  
+
 
 >&gt;For a newspaper of 70 to 80,000 circulation, they were charging $5,000 for access.  
 
@@ -81,6 +85,7 @@ JACOB HARRIS: Ryan invited me to be on the panel, and he wanted me to give infor
 >[laughter]  
 JACOB: Sorry.  And usually there's just generally a slider of I mean the process of this whole thing this data is collected usually varies based on the laws of that state, the process in which the votes are tabulated, things like that.  The one thing I would say if you're ever with going to work with election data is you should acquaint yourself with the two concepts.  Which is one, you should assume nothing, you know, about the data unless you can sort of guarantee it, so a lot of people say, oh, well, I have a race one, there's only going to be one race winner for a given race, right?  Only one person can win a race.  Oh, you poor naive fool.  You know, sometimes you have races that have two winners, California has open primaries, for instance, OK, where the top two winners go on to general election, certain assembly races in New Jersey.  Sometimes states have these rules, well you have a winner if someone gets more than 50% of the vote, otherwise, we go to a runoff, OK, and then you have to say, OK, these two top candidates go for a runoff, so you have to flag for that.  Sometimes the race is literally too close to call.  You can't really put it that a race is called either.  It may not be called while you're still counting votes, OK?  It could go to recount later.    
 
+
 People also assume, well, candidates, these are people, right?  No, not always.  You have ballot initiatives, right, so those are your you're actually voting for two fake people, yes or no, affirm or reject, things like that, those aren't really people.  Some allow you to say none of the above.  You can vote for that.  And I think actually it was a Nevada where for the democratic primary "none of the above" won.  Now, under state law, that actually meant that the first candidate underneath actually won the race, but none of the above actually had the most votes.  They don't actually send nobody.  This is more of a protest thing.  But that's what they want to do in Nevada, so you've got to live with it. And similar other sort of things like that.    
 
 Results also, people think this actually represents the actual votes of the election and normally that's true except whenever you deal with basically presidential primaries or caucuses, your results may actually be like, you know, delegate allocations and stuff like that, so the other sort of point I would probably make about this is that you know, primaries themselves can be complicated and vary with rules from states to states, but presidential caucuses and presidential primaries are the most insane collection of edge cases and weird rules you will ever see, and so I hope if you ever find yourself doing election data, you don't do presidential primaries, because that's just nuts.  
@@ -89,9 +94,11 @@ Results also, people think this actually represents the actual votes of the elec
 
 JACOB: OK.  I mean, you know, and that's pretty much it.  I'm working on trying to sort of collect a document like the ones that are on the GitHub for now.  But I think it's just going to be a long listing of various ways in which you have to sort of be prepared for, you know, various exceptions arising, so we'll look for that.  
 
+
 >&gt;Awesome.  
 
 RYAN: OK. Does anybody have any questions about census or FEC or election data that you want to get out right now?  Sorry.  
+
 
 >&gt;Is there a way as an individual person that you could get AP election data?  
 
@@ -114,19 +121,26 @@ RYAN: OK. Does anybody have any questions about census or FEC or election data t
 >&gt;At the right price.  
 
 JACOB: I mean the real question I guess I would ask.  If you were reporting the election that night, if you were more interested in analyzing a prior election, you could go to something like open elections you know, which is a good resource.  
+
 DEREK: It will be when we're done.  
+
 JACOB: You know, or you can scrape -- yeah, I don't know.  
+
 DEREK: And academics, as well.  I mean like in the course of an open election, we found there's a professor at ivy state that keeps results of elections since 1967, like I don't know why.  It's probably his Ph.D., but he has it.  
+
 
 >&gt;Did you ask him why?  
 
 DEREK: Honestly I think I'd never get out of that conversation.  
+
 RYAN: All right, who else came with a cool dataset that you don't have to spend five minutes talking about, but that you at least want to throw out there and let us know that this thing exists and maybe give us a little bit of background so that we might be able to tell stories with it.  Anyone?  
+
 
 Jeff?  
 JEFF LARSON: NASA has two satellites, Landsat 7 and Landsat 8, and if you ever need relatively quick raster data, satellite data, the picture is not super high resolution, but it's really available and it's the largest dataset we are currently working with.  Al Shaw on his work computer has 320 gigabytes of raster data.  
 
 RYAN: When you say raster data?  
+
 JEFF: I mean pictures of the earth from space, so ProPublica used to do investigative journalism, and now we do investigative space journalism.  That's right, motherfuckers!  
 
 
@@ -136,6 +150,7 @@ JEFF: I mean pictures of the earth from space, so ProPublica used to do investig
 >&gt;I already have one. It smells kind of bad.  
 
 RYAN: What kind of stories are you going to tell with this -- with pictures of the earth from space?  
+
 JEFF: Uh, think about it.  Sorry, we don't talk about stories, but we do like playing with it, so we can show you a demo.  The fun part of this data is -- well, not for me, but for the designers in our crew -- is it's the only data that you get to play with in Photoshop, because you can do many things, most people think raster data is images, right, and it is imagery, but the other thing that you can do is you can create false color images to look at things like vegetation growth, because the way -- Here, I'll sort of draw it on the board.  Because the way that Landsat works, it's for a lot of scientists, but the way that Landsat works, is there's sort of this spectrum of light in, you know, the electromagnetic spectrum, and Landsat sort of picks up sort of like this stuff, right, so it picks up, there are these different bands.  It has like actually 8 different cameras or something like that, and it will pick up like the red band, the green band, and the blue band, and then you can also get ultraviolet, so you can do things like pick up vegetation, you can get infra -- a little bit of infrared, although that gets a little weird, and the way that you combine all of these different bands shows how you can, you know, defines what the picture that you're showing is.  And it's actually a dataset, right, when you think about a picture, it actually is, if you add geo reference coordinate to it, you're actually dealing with little itty-bitty grids of data, right, so this is maybe, you know, a gigabyte, so would that it be, you know, like 1,000 by 1,000 grids on the earth that contain like actual emanations of data.  People do all sorts of things like flood modeling with grids like this, where they'll just mask out all of the blue stuff and there's your water, and then all of a sudden you can feed that through, you know, like GPUs and things like that to do analysis on it.  
 
 
@@ -180,6 +195,7 @@ JEFF: Landsat, so the problem is, we had this great -- Landsat go back to the 80
 >&gt;But Landsat 8, has this great layer which is black and white.  It's very high res, so you can like see people walking around ...  
 
 RYAN: Anybody else who's got cool data?  
+
 DAVID YANOFSKY: Yeah, so I'm David Yanofsky.  My dataset that I always go back to is an an endless fount of stories for me, is this international trade databases, the [US has a great one](https://usatrade.census.gov/) that you have to pay for.  The International Trade Centre—which is a joint agency of the WTO and the UN—provide free access to journalists to [their database](http://www.trademap.org/), and in the international version you can get trade flows for very specific commodities, all categorized under the system called the [harmonized system](http://hts.usitc.gov/) and everything is in a hierarchy. At a high level is something like [petroleum products](http://hts.usitc.gov/Table%2027.xml) and all the way down to, you know, [soccer balls](http://hts.usitc.gov/Table%2095.xml#9506.62.4080) if you want to, you know, or I guess from soccer balls to toys, most generally.  And if you get access to the US dataset—which is really cheap, it's like for one seat it's like $300 bucks a year—you can get port level data at even more specific levels, where if you're doing local stories, you can see all of these items that are leaving, not just from your city, but from specific ports, you know, in this -- people, if you're familiar with the way that people talk about trade, they talk about the oh, the port of Los Angeles and long beach as like this one thing.  They're actually two separate ports, and the data shows it as two separate ports where like this is the stuff that's going through long beach and this is the stuff that's going through Los Angeles and that's a business story and you can talk about who has control of who docks where, if you know who's getting the tax revenue from those things, from the workers that are at those locations, the US data is anonymized, in that the census tries to protect business interests of the exporters and importers.  
 
 
@@ -199,15 +215,19 @@ DAVID: First off, who wouldn't read that, and second off, the miracle of the Ame
 >&gt;It seems like the least possible interesting explanation.  
 
 RYAN: Awesome, thank you for ending on that note.  
+
 DAVID: You're welcome.  
 
 RYAN: Who's going to follow that?  Anybody? Somebody else got cool data?  
+
 JUSTIN MYERS: Not that cool.  
 
 RYAN: All right.  
+
 JUSTIN: So one that I tend to use a lot at chronicle of higher education is called IPEDS.  It's the Integrated Post-Secondary Data System.  Basically if you're an institution that participants in federal student aid at all, you have to give them all of this data, and even if you don't participate in federal student aid, if you want to get listed on like at department websites for possible students other families, like college navigators, that they've been promoting, then in order to get in that, you have to participate in IPEDS, at least a little.  So they collect a bunch of stuff on really weird schedules throughout the year.  It's like nine or ten surveys spaced throughout the year.  Some of them are optional in different years, the schedules are weird:  But you've got things like tuition, professor pay, degree breakdowns by field and level, really narrow fields even, they have like these progressively smaller codes they call CIP codes, I forget, it's like classification of instructional programs or something.  But, you know, so if you want to see how many people in Arkansas got Ph.D.s in, you know, microbiology, like, you can do that, and you can get it by school.  And you know so there's attendance, there's all kinds of stuff.  So they have their own really weird online tool that takes some getting used to to access all of this stuff and they also have big CSVs broken down by year if you want to dig in.  They're a bit crazy to work with, I'm trying to start writing something up for Ryan's repo, but if you're interested hit me up.  
 
 RYAN: So this seems like a really good opportunity to talk about this repo.  Can we come full circle here?  We have about ten minutes left, so maybe not enough time to actually do small group work, but let me write this address up here.  This is where this thing -- this is where you can get to it right now.  Bit.ly/dataset guide.  
+
 
 There's a readme, and then there are two guides that I think are in a state of doneness, one of them is on American Community Survey, Joe and I teamed up on that one.  Derek has one in there about FEC data, like Ryan said, Chris Chang has already started on one about IPED data so we should totally hook you two guys up to work on that, and Jake who was going to work on something for elections.  
 
@@ -217,9 +237,11 @@ I mean I just want to listen about people talk about cool data.  I do want this 
 
 RYAN: The process, yeah, whatever is easiest for you honestly.  If you feel like e-mailing me and saying I can write something and I will email you, I will totally do that.  If you use GitHub and you can fork and do a pull request, that obviously is awesome, as well.  If you see a mistake, something like that, just get ahold of me, I will kind of try and carry this torch forward.  
 
+
 >&gt;Is that the same thing you people to do with I don't get this.  
 
 RYAN: Yeah, whichever way of communication is easiest for you.  
+
 
 So we have ACS, FEC in progress, is it IPEDS they have system in it. And elex is kind of in progress, as well.  
 
@@ -227,6 +249,7 @@ Is it actually called Landsat?
 JEFF: Yeah, I mean yeah, sure.  Space, space pictures.  
 
 RYAN: I think Jeff entered into a binding contract to write a guide on this.  We talked about, is it NED?  
+
 JEFF: Yeah, National Elevation Dataset.  
 
 
@@ -236,25 +259,31 @@ DAVID: International Trade Centre trade map, it's trademap.org, and it's center 
 
 RYAN: OK. All right, so those are the ones that people kind of talked about just now.  So we have a few minutes left.  What -- yeah?  
 
+
 >&gt;Probably UCR.  
 
 RYAN: UCR?  
+
 
 >&gt;The crime center.  
 
 RYAN: For people who are not familiar with UCR?  
 
+
 >&gt;Uniform Crime Report. The FBI gathers it from local police agencies.  
 
 RYAN: Is this a dataset you are familiar with and are you volunteering to write a guide?  
+
 
 >&gt;I hate that dataset.  
 
 RYAN: You're the perfect person.  
 
+
 >&gt;I don't have a dataset, but I was thinking there's a collaborate source and I've been taking notes on what people have been saying so we could put those and people could flesh it out ...  
 
 RYAN: What datasets frighten you that would love to tell stories from?  
+
 
 >&gt;The CDC Wonder dataset.  
 
@@ -266,15 +295,18 @@ RYAN: What datasets frighten you that would love to tell stories from?
 
 RYAN: CDC Wonder?  
 
+
 >&gt;Yeah, it's probably an acronym, but I don't know what it's for.  
 
 RYAN: Oh, that's even cooler.  
+
 
 >&gt;Time use dataset from BLS, which is like how Americans spend their day.  
 
 JEFF: Actually everything on BLS.  If I could get a dummy's guide to BLS, I would give you so many space pictures.  
 
 RYAN: Does anybody in the room know who should write that.  
+
 
 >&gt;I could write that.  I have it from BLS. send me those space pictures tomorrow.  
 
@@ -291,9 +323,11 @@ JEFF: OK, I will.
 
 RYAN: Absolutely.  I was kind of thinking if we divided up in small groups, something probably worth talking about is how is this going to end up being more useful from an architecture kind of perspective.  I don't know if it needs to get divided up.  Probably the thing to do would be to get more of these articles in and then a structure will just emerge.  
 
+
 >&gt;Well, the one that like I would be maybe able to do is Texas campaign finance, Texas ethics commission.  
 
 RYAN: I know that there is a -- that California recently -- they have basically their own FEC dataset now for at the state level, but Dan Welsh isn't here.  There might be somebody from --  
+
 
 >&gt;Yeah, I'm actually not familiar with it.  
 
@@ -308,21 +342,27 @@ RYAN: I know that there is a -- that California recently -- they have basically 
 
 RYAN: Cool. Yeah?  
 
+
 >&gt;I would love more information on the Federal Lobbyists Registration Datasets.  
 
 DEREK: It's actually a pretty simple guide to write:  "Don't use it."  But --  
 
+
 [laughter]  
 DEREK: That's actually useful information.  There's a lot of datasets that look legit, but stay away from them.  
+
 RYAN: Yeah, the ACS has datasets on health coverage but there's a lot better information than that.  
+
 
 >&gt;Federal Reserve Database.  
 
 DEREK: They have an iPad app; have you ever seen it?  
 
+
 >&gt;The Center for Medicare or Medicaid, or CMS, has a ton of data on hospitals.  There's a ton of stuff there.  
 
 RYAN: Awesome. Cool, we have a couple minutes left if there's more stuff to get on this list.  
+
 
 >&gt;SEC filings.  
 
@@ -337,9 +377,11 @@ RYAN: Awesome. Cool, we have a couple minutes left if there's more stuff to get 
 
 RYAN: Just like hitting them up and showing this kind of thing in progress.  Can we assign someone to do that?  
 
+
 >&gt;I can do that, yup.  
 
 RYAN: OK, these things are on there, any of you who are willing to be editors, did we tell you enough so you feel comfortable actually doing analysis?  These are in progress, these are ones that we will endeavor to recruit writers for, some of whom are right in this room.  Jake?  
+
 
 >&gt;Are you going to put this list up on the actual dataset guide.  
 
@@ -347,7 +389,12 @@ RYAN: OK, these things are on there, any of you who are willing to be editors, d
 >&gt;I can add it.  
 
 RYAN: And if you can write the etherpad link up there, yeah, keep adding to it.  Maybe by next SRCCON, we'll have a much more fleshed-out guide.  That will be awesome.  So cool.  Anybody have any last thoughts before we free everyone up for lunch?  
+
 JACOB: I totally forgot most of my presentation when I was giving it, but if you interested in elections or you just want to hear me just complain about caucuses, just feel free to talk to me or email me or whatever.  That's it all.  
+
 DEREK: When Jake says complain, he means say really smart things.  
+
 JACOB: Yeah, caucuses are the worst.  
+
 RYAN: Awesome, all right, well, I think we're at the end of our time, so make some coffee, eat some lunch, stretch your legs, all that kind of stuff.  Thank you for hanging out.  
+

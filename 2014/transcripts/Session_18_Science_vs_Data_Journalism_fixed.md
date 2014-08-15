@@ -18,13 +18,16 @@ Session leader(s): Noah Veltman
 --  
 NOAH:  Welcome, everyone.  All right.  So we're going to get started, I'm sure people will start to straggle in a little bit.  My name is Noah, for those who didn't know me.  I work for New York Public Radio.  I'm on the data news team.  So the name of the session is Data Journalism Versus Science, or Science Versus Data Journalism.  It's not meant to be like a wrestling match antagonism sort of thing.  My sort of inspiration for wanting to do this session started when I was talking at the Wilson Center, this place in D.C. for the science policy group and we got into it, a little bit on this subject much data journalism as kind of edging closer to science at least in appearance but often not in practice, not in form.  And I'm feeling increasingly sort of guilty about this sort of, subconscious about it.  Both in my work, or in others' work are sort of "sciencish" but don't actually have the rigor of real research science.  So I wanted to talk about it.  And I thought, so there's etherpad if you go to that link.  I have a lot of notes here but I did the want to put all that in there.  And I did not want to guide the discussion.  I wanted you guys to talk.  But I had these three kind of burning questions.  The first is, what are sort of the difference between sort of serious research science and data jury room as we tend to practice it.  And what are the similarities?  And out of that, are there things that we wish that we could move in one direction or the other.  Are there things that scientist do that we aspire to do more of, or value, or sort of adopt more fully from them, and from that wish list, how would we make that happen?  If we had pure view in the newsroom or something what would that actually look like?  How would that work, and jibe with business goals and actually get that done?  So that's kind of my plan.  So question one about what you see about the similarities and differences, I'm very messily going to scribe what you guys said, will she there's the first point that's the kudos norms, that this guy Robert Kimerton (phonetic) came up when trying to come up with what the this didn't of the scientific community are, and I think this was back in the 40s and the 50s.  It's commonalism -- but in this case, it's communalism.  Different sorts of politics in the sense that the things that you're doing are contributing to a shared body of knowledge.  So you make a scientific finding and it goes out into the world, you don't own it.  And it's shared knowledge.  U as in universalism.  It's not this prestood people that got to be called scientists, or the people at the top of universities who get to be so-called scientists.  D is disinterestedness.  That you're in it for the science, you're not in it to be famous.  Your goal for science, is science itself.  Originality.  You're striving for new knowledge, new information about the world that does not yet exist.  And S is skepticism.  Any finding, any claim deserves skepticism.  And it's only through that skepticism and that scrutiny that it becomes valid and sort of, more valuable and all those things sort of on the surface sound like values of journalists but I think there are just a lot of differences.  So what do you guys think?  Should I just go into my those?  Anyone have any --  
 
+
 >&gt;I have a question.  Do you mean, like, "science" like physics or biology, or chemistry as opposed to social science or data science?  
 
 NOAH:  No, no.  It could be social science.  It could be data science.  Not necessarily hard sciences but I mean "science" in the sense of research science.  Something that you would have more in an academic setting where your goal is to produce some new specific new piece of knowledge about the world and work through normal scientific processes to get there.  
 
+
 >&gt;Um, so I'm not actually very familiar with either field, but I know that at Mozilla, we recently started a project called the Mozilla Science Lab where, from everything that I have read about, and talked -- I have read about, and talked to the head about it, apparently, to the science world.  That's actually, like, this funky ideal that just like reading from that ideal, you think like, all scientists are open-source people or something like that.  But in fact, partly because of the way incentives are structured, they often will horde all of their information, and not release nifty before publishing because publishing is like this big, that's what actually gets you credit and able to move forward in your career, or stay in your career, or whatever.  And so it's not like it's not like they're, like, they have, like, get repo, and they are publishing all or the results as they're doing their research and clashing with each other.  In a lot of ways, it's actually very closed, and that's part of what the science lab is trying to do, is to try to make them work in a more open-sourcey way but that was interesting to me because I was always like yeah, scientists, it just sounds like open-source is just what they would be raised in, or something like that.  
 
 NOAH:  Okay, so you think -- which column would you even put that the, you think, sort of lack of openness, or lack of collaboration?  Sort of both?  
+
 
 >&gt;It seems that they are both heterogeneous in that, there's like a growing community in both that is trying to do things in a very open, rigorous, peer-reviewed kind of way but definitely in science, I think that Caitlin, head of the Mozilla Science Lab was saying that only about 2% of all researchers, or something actually, um, work in this sort of open kind of way.  It's just like a very small percentage and I have no idea what it is in journalism.  
 
@@ -33,9 +36,11 @@ NOAH:  Okay, so you think -- which column would you even put that the, you think
 
 NOAH:  Yeah?  
 
+
 >&gt;For the purpose of -- my question was going to be, like, for the purpose of this discussion and for, like, simplicity, are we thinking of, like, comparing ourselves, comparing journalism as idealized sciences as presented here or leaving the nitty-gritty of what science is actually doing to another conversation or should we be roll?  
 
 NOAH:  Yes, there's a lot of potential.  I mean we can probably spend an hour arguing over the definition of, "Science."  But I think we can too a little of both.  I think maybe it's more started to focus on ideals, right, on values and norms that people aspire to, maybe 'cause the question of, like -- and I put at the bottom of the ether pad, questions we won't get to, and we'll get to this, how scientists don't live up to their own norms and that it's probably a whole session for itself.  
+
 
 >&gt;The whole column, science is slow and for journalism, it's fast.  
 
@@ -44,13 +49,16 @@ NOAH:  Yes, there's a lot of potential.  I mean we can probably spend an hour ar
 
 NOAH:  You can just talk, Ben.  You can always talk.  
 
+
 >&gt;I think sort of just jumping off of the open-source analogy, it's interesting to think of the sort of the metaphor of forking in journalism versus science where, at least to a degree in science, there's in a given field there's, like, an universal, established literature, and there's this ongoing conversation where, like, a new paper will be a follow-up, or an experiment in new circumstances or a direct refutation, but, like, it's this ongoing -- everyone is aware of each other, at least in -- especially if the field is smaller where there's nothing wrong in journalism to outlets producing identical, especially, content but maybe -- essentially content but maybe they thought of the front-end visualization differently.  
 
 NOAH:  Sort of like duplicating?  
 
+
 >&gt;Versus --  
 
 NOAH:  Versus having a cannon, one thing kind of like --  
+
 
 >&gt;And then -- well, I don't have an "and then" yet but it's interesting.  
 
@@ -58,6 +66,7 @@ NOAH:  Versus having a cannon, one thing kind of like --
 >&gt;I wondering if a way of thinking about it, for as slow as science is, there's actually more of an import on publishing first in science than in journalism.  There is a big emphasis on publishing first in journalism but if you publish second or third, you can still be useful.  
 
 NOAH:  Sure.  
+
 
 >&gt;And science, you won't even get published second or third because no longer an use to having that paper in the world.  
 
@@ -69,9 +78,11 @@ NOAH:  Sure.
 
 NOAH:  So like, maybe messier road to progress for science or more unstable, everything is always in dispute.  Everything is always up for skepticism?  How would you phrase that?  
 
+
 >&gt;I don't know, I mean, 'cause that sounds good.  I mean, I really like what the person before me said about how -- I forget exactly the words that were used -- but I thought it kind of captured that spirit nicely about how in journalism there's -- you want to be more guarded, you're a little more cagey about your certainty because it's not all right to be like, "Oops."  
 
 NOAH:  And it's not a great story to say, "We may be found out this but we're not sure."  
+
 
 >&gt;Yeah.  
 
@@ -79,6 +90,7 @@ NOAH:  And it's not a great story to say, "We may be found out this but we're no
 >&gt;One kind of infrastructural thing that ties this together is because of publishing through journals there's a very set way of referencing previous work that you're building on, or responding to, or sort of mentioning.  And I mean, a lot of stories do, in their text kind of mention related developments but there isn't -- there's no -- it's not codified.  So you can't look it it in kind of the abstract.  There's to easy way to take an article and say, like, let's look at what this is based on methodologically, and what is this building on theorems of the body -- has this building on in terms of the body effects.  
 
 NOAH:  Yes, and there's a certain competitive angle there, about the willingness to talk about, "Oh, here's all the good stories that people have talked about on this topic."  
+
 
 >&gt;If somebody is attributing somebody else, it means that they think it might not necessarily be true.  
 
@@ -92,6 +104,7 @@ NOAH:  Yes, and there's a certain competitive angle there, about the willingness
 >&gt;There's not the experimental method but there is sort of like getting quotes from a certain set of people.  I think it's, I don't know.  Heuristics and the methods are probably --  
 
 NOAH:  In journalism, the methods are more established for classic, narrative journalism that's been around longer.  
+
 
 >&gt;Sure than for new stuff.  
 
@@ -109,12 +122,14 @@ NOAH:  In journalism, the methods are more established for classic, narrative jo
 
 NOAH:  Absolutely, the funding, that issue of grant-making and is what scientists need to do in order to, you know, pay the bills and have their work funded.  Not that journalism all has the same business model but certainly different.  
 
+
 >&gt;I feel they have very different approaches to ethics.  Science has come up with ethical frameworks for doing experiments whereas in journalism it's thought more of as the limits of what you can get away with rather than anything.  You very rarely hear people discuss ethics when they're talking about journalism, even beta journalism.  
 
 
 >&gt;I think slightly different audiences is a big thing.  And running with that, slightly different missions.  I think historically, journalism is a little more civic oriented, at least historically.  And I think that whereas, you know, with the scientists -- scientific journals you have sort of a ludry (phonetic) of a community who knows what you're talking about but in journalism, historically, the mission is to translate what the scientist is doing to the wider public.  
 
 NOAH:  And that goes back to the originality question.  Sometimes it's enough to take something that people already know and help people understand it.  
+
 
 >&gt;Journalism -- it has to be interesting.  I mean, people need to want to read it, and there's a lot of really important science that nobody cares.  I mean, no, there really is it's not a break-radio through.  It's just expanding a data set.  Skew I would say that's not although true.  It could be both it's really hard to publish null hypotheses in science because there's this idea that what you come up with has don't be novel horde to move forward.  
 
@@ -141,9 +156,11 @@ NOAH:  And that goes back to the originality question.  Sometimes it's enough to
 
 NOAH:  I put this in the shared column of intermediary results.  It looks like there are some different views on this.  The null hypothesis issue but this question of publication bias which may sort of apply to both.  It may be hard to get your paper published that's not saying anything interesting similarly if you look at a data set many a newsroom and the answer is, nothing was interesting -- that's --  
 
+
 >&gt;We face the same problem, though because it's like prosecute better or worse, you know, a writer's kind of gold star, or whatever is, they want a story, right?  And that's not going to change for a while, at least.  Or you know, depending on what publication, maybe it's the hundredth retweet, or whatever about a story, right?  But there is a degree where you're disincentivized trauma publishing an important but you know, not very buzzy result or something because, you know, people want the smoking gun.  People want, "Conclusive corruption after all."  
 
 NOAH:  I saw some more hands.  
+
 
 >&gt;Just sort of on the methodology and the secrecy thing.  I think in science there is, like, sort of an obligation to show your work just later that you have to explain how you did things so that somebody else can reproduce it in a way that I don't think is much the case in journalism.  
 
@@ -151,6 +168,7 @@ NOAH:  I saw some more hands.
 >&gt;In science, there's also a direct incentive not to publish your failed experiments because you don't want anybody to know what you're trying.  
 
 NOAH:  Sure, do you think that applies in journalism as well?  
+
 
 >&gt;Like like, you wouldn't publish a half of a story, if you decide to scrap it, or if it's not going anywhere.  But I don't think it's for the same reason, though.  You're not worried about that somebody else is going to put together something like that many.  You're just worried that it sucks, right?  
 
@@ -171,6 +189,7 @@ NOAH:  Sure, do you think that applies in journalism as well?
 
 NOAH:  And the question of expert audience versus an audience for laypeople.  It's also this, how interesting is it to drone on and on about methodology.  If you paper a scientific paper and you can assume expertise, and they will talk about methods and go into detail about what they did but maybe there's less of an appetite about that with a data journalism piece where they want to get to the findings, the interesting part, and they don't want to hear about the five pages of here's all the stuff that you did with this cool data.  
 
+
 >&gt;Shove it off into the nerd box at the bottom of the page, or something like that.  
 
 
@@ -181,6 +200,7 @@ NOAH:  And the question of expert audience versus an audience for laypeople.  It
 
 NOAH:  So on that visible on the rest of forever, do you think there's a difference in shelf life of a mistake that, say makes it into a scientific journal versus an article that's meant to be published and read and maybe not get a lot of audience after that?  Or do you think that's kind of similar, or both?  
 
+
 >&gt;I think it probably comes out in the wash because, you know, it's kind of like a huger audience.  So there's a lot of noise in journalism.  You know, just speaking -- in signal terms whereas, you know, if you have this narrow focus of research.  You know, if I'm looking at a specific gene doing whatever, whatever, all the people who follow in those foot footsteps are going to follow longer.  
 
 
@@ -188,12 +208,14 @@ NOAH:  So on that visible on the rest of forever, do you think there's a differe
 
 NOAH:  So it's different audience expectations, right?  
 
+
 >&gt;And different ways of conceiving knowledge.  I don't know, it might be interesting to look at science journalists where the two have already intermingled for a while, in that how scientists have figured out how to state scientific findings in ways, responsible and irresponsible for journalistic audiences.  
 
 
 >&gt;And people respect sciences scientists and they don't respect journalists.  
 
 NOAH:  So scientists get more of the benefit of the doubt?  
+
 
 >&gt;I think that's more of a reflection of what you're saying, though.  Whenever there's a public trust index, or whatever.  The journalists, and politician, and rapists, scientists are routinely held up to be, you know, paragons of exactly what you're saying.  
 
@@ -226,6 +248,7 @@ NOAH:  So scientists get more of the benefit of the doubt?
 
 NOAH:  You think the public is not so much their constituency?  
 
+
 >&gt;Yeah.  
 
 
@@ -257,12 +280,14 @@ NOAH:  You think the public is not so much their constituency?
 
 NOAH:  Public trust in an ideal that they're falling short of these apparent conflicts?  
 
+
 >&gt;But yeah, this is a huge problem in health care.  Your doctor taking pharmaceutical money and taking fees.  And lo and behold, that's the drug they're giving to all patients but I think more people trust their doctor on any of these surveys more than -- but suddenly that's also, people finding out more and more that, oh, well, there are reasons that they're prescribing you this thing, or that thing and that's sort of crumbling that trust.  
 
 
 >&gt;There's still a difference, though between science where we started, and shit scientists do, and journalism, and, like, shit journalists write, so we have to be careful about which ones we're actually talking about.  
 
 NOAH:  What about the question of where data comes from for findings.  Scientists being more comfortable designing their own experiments and getting new data new certain way as opposed to often, inheriting data, you know?  Sometimes from antagonistic parties, from governmental agencies and things like that.  Do you think that's a difference, or do you think that's exactly the...?  
+
 
 >&gt;Well, the scientists can't source them as honest sources.  Nominates sources -- anonymous sources.  
 
@@ -358,6 +383,7 @@ NOAH:  What about the question of where data comes from for findings.  Scientist
 
 NOAH:  The legal stuff is going to be different in each cultural context but one thing off of that is are journalists more likely to have enemies from what they're doing.  Are they more likely picking a human fight as opposed to disinterestedly pursuing knowledge?  
 
+
 >&gt;That's entirely true.  People make entire careers of being an enemy of someone else's career.  I'm an adversary for your organization.  
 
 
@@ -386,6 +412,7 @@ NOAH:  The legal stuff is going to be different in each cultural context but one
 
 NOAH:  So there's an educational requirement, there's not the same barrier of becoming a working, recognized journalist than there is to becoming a lab scientist.  
 
+
 >&gt;And that's becoming the other way, which is weird when you think about it.  
 
 
@@ -396,12 +423,14 @@ NOAH:  So there's an educational requirement, there's not the same barrier of be
 
 NOAH:  We have 14 minutes left.  You were talking about how data journalism is potentially supposed to represent this kind of, merger of these two, of the best of both, a little bit.  I think that's a very good segue to possibly spend the next ten or 15 minutes which is talking about.  Can we identify these differences?  Is there a wishlist?  Is there a list that we could possibly take from this side, as data journalists, as working journalists, where we can more proudly, and authentically wear scientist hats.  Rather than the illusion of...  
 
+
 >&gt;Well, I think the questions of these reliability and professional responsibility it seems like maybe we're aiming more in a direction of engineering than science 'cause if you're a scientist there's a sense that, like, you follow the process, you do things right and you hope for the best and that sort of protects you, whereas if you're engineering, you need to take into account that you're actually doing things that will affect people, directly.  And the same questions seem to sort of be raised in journalism when you're asserting things about the world in a way that journalists do.  
 
 
 >&gt;Is there any worry that data journalism could be the worst of both worlds and what I mean is that, you know, it all depends on which way we can combine these things, right?  Because in one sense we say that journalism is faster and there's like, you know, less embracement of uncertainty and things sort of moving like a linear progress and people read it, kind of -- it has, like, an agenda ask all these kind of things that we talk about in Swedish House Mafia.  The thing that I worry about with data journalism is yes, we often catch handicaps in the Nigerian kidnapping but the people that are catching them.  And the people that are aware of the corrections and redactions, are people like us.  The people in the Nieman lab, not like my parents, the people I grew up with, right?  But they might see the original headline, they might see the incorrect statement, they might see the skewed data set that didn't come out of malice, or negligence as much as simple handicaps, or bugs, or whatever.  Whereas in science, it's kind of insulated against that because you've got a peer review, you've got a provides that's lightyears away from actually -- I don't say that scientific mistakes don't hurt people, but it's lightkeys away from the beginning of the work drastically hurting somebody.  Whereas in journalism, the first stab at a graph or a map could mess things up.  You don't have that sense skepticism, or the peer reviewing, that mulling over, that insulation.  
 
 NOAH:  So would you say that possibly you wish that data journalists had sort of a professional standard or some fraction of something that does a little bit of peer review that was a little bit more proactive, a means of catching things before they're out in the public.  
+
 
 >&gt;But then you lose feed, you lose kind of the way we work.  'Cause we get a story, and hey, I need it in eight hours.  We don't have enough time, oh, can we pass it by the data science word, someone with a -- under with an Excel sheet saying, yes, yes, yes, that looks correct.  
 
@@ -412,6 +441,7 @@ NOAH:  So would you say that possibly you wish that data journalists had sort of
 >&gt;I think the quality of editors is even they will ever the problem, it's the fact that data journalism, being this new and shiny thing has somehow bypassed in edit y'all rose, it certainly has in the place that I I work.  And maybe it's just the organizations that we work for don't fully understand the risks inherent in some things that we're talked about.  
 
 NOAH:  And I think only now are some places starting to hire data editors, people that are meant to fulfill that role, specifically for those projects.  Propel has a very fortunate data-minded editor.  
+
 
 >&gt;I would like to see the citation list.  It would be very difficult and it would be a rabbit hole in journalism.  
 
@@ -426,6 +456,7 @@ NOAH:  And I think only now are some places starting to hire data editors, peopl
 
 NOAH:  So that's another question about the system, not a question about the system but maybe the culture.  
 
+
 >&gt;They're not real links, I mean, they're...  
 
 
@@ -433,9 +464,11 @@ NOAH:  So that's another question about the system, not a question about the sys
 
 NOAH:  Your hand's up.  
 
+
 >&gt;I like links, but the problem is links die because after a career, suddenly that link's broken.  There's this old site on New York Times that's called hyper wocky from annoyances, you know and half of the links are dead but I die a little inside when I see a link and it says 404, or whatever.  I wish we had some sort of --  
 
 NOAH:  Archiving?  
+
 
 >&gt;Kind of a way to say, kind of, you've got a 404, I'm going to automatically look on the Internet archive to see -- but yeah, I don't know.  
 
@@ -447,6 +480,7 @@ NOAH:  Archiving?
 
 NOAH:  I think, on my own list had something on that which was more consistency on the way things are documented and packaged because that's a key element of the reproducibility because, like, if every project is starting from zero and how they decided to tell you about it, and how they make their code and everything, it discourages people from making the effort to reproduce it, so the more that we can make it easier to look at what a project is, and apply that scrutiny, then the more people are going to do it, I hope.  
 
+
 >&gt;That's actually one of the problems that science lab is trying to fix because the reproducible code that's used, when executable code is part of some research project, that includes hard-coded paths and all this stuff, that makes it just completely not really useable.  
 
 
@@ -456,6 +490,7 @@ NOAH:  I think, on my own list had something on that which was more consistency 
 >&gt;And that kind of goes to what I was suggesting in the sense of, like, lots of times just because someone did an experiment that proves something in science, you know?  It's like lots of times it's not accepted as fact, or you know, even begun to be entertained as fact until it's reproducible, and reconfirmed by others in the scientific world and we've seen this in journalism, in a lot of ways where someone will crunch like some census numbers, and do some model or something like that, and start we see consensus among the journalists, where we start to see these things begun to be treated as facts whereas, when the worse comes to worst, the first model comes out, and the first model published -- it's not a paper, it's a newspaper, right?  And then people are like, well, you know, it obviously works but it's probably like me, having just learned how to model this thing, helpings it up in R and being like, "I think it's right."  I don't want to speak for everyone, but at least that's my method.  
 
 NOAH:  So you would like to see more journalists trying to validity one another's work, and trying to reproduce them?  
+
 
 >&gt;I think that --  
 
@@ -467,6 +502,7 @@ NOAH:  So you would like to see more journalists trying to validity one another'
 
 NOAH:  Having a hypothesis.  And to your point, also like would you like to see greater consultation between journalists that are sort of gathering information and actual scientists, of more advisory interactions between the two?  Is that somewhat the stress?  
 
+
 >&gt;But isn't that what traditional reporting is?  Making sure to call up the experts?  
 
 
@@ -474,9 +510,11 @@ NOAH:  Having a hypothesis.  And to your point, also like would you like to see 
 
 NOAH:  And I do think that in plenty of cases, it ends up being puddled in -- bundled in a science-y way.  But they didn't think of themselves as scientists and they didn't care to play it up that way.  
 
+
 >&gt;And we also have an degree of chart decoration, too, to get weeded outdoor before getting peer-reviewed content especially if you're handed data source.  You're just reproducing straight out.  There's an amount of churn that we all do.  Where there isn't any new work.  It's just munching other things together, and putting it out in a slightly different layout so long as there's going to be projects of that nature asking for some more rigor of this stuff because this is just a rehash of this work over here, but I think that gets into ethical issues as to why you're even rehashing.  So that's a separate thing.  Just a for the wishlist, I would put a better model of what scientists do 'cause it sounds like a few things here are kind of, like, guesses or imaginations and some of them are, like, based on other news stories about science, or at least the pressure Lisa said, so what is peer review and why is it slow?  It's slow because I'm handing my work to my competitors and they have to approve before I can publish it so if there was a different model, it might be more manageable.  And when I hear, oh, the scientist use silly arcane language because they're so insulated, well, it's often the most efficient way to communicate precisely exactly what we need to say.  So it seems kind of like an assumption oh we're journalists out in the air and active and we're together to work for a while and we're going to find a way to do things that are interesting, ethical, price, fast, and underbudget.  So it's like, whoa.  
 
 NOAH:  So how would you like to see that come about in practice?  And how would you like to see working journalists be forced to work more closely with that process and the differences in that process.  Would that be something that when they're in school, when they're taking classes, they're forced to produce original research?  
+
 
 >&gt;I mean, not to be adversarial, I imagine that you would learn by trial and error, and pretend that you invented it.  No, but yeah, I think talking to each other like everything else is a really good way.  
 
@@ -491,6 +529,7 @@ NOAH:  So how would you like to see that come about in practice?  And how would 
 
 NOAH:  That would be fascinating.  
 
+
 >&gt;I'm sure they would agree to everything that we said.  
 
 
@@ -500,3 +539,4 @@ NOAH:  That would be fascinating.
 >&gt;Go journalism!  I watched House of Cards.  
 
 NOAH:  It is now past 5:30.  But I thought this was very interesting.  I hope you all did too.  Thank you for coming.    
+

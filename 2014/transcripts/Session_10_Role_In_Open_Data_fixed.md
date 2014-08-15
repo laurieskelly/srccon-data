@@ -10,6 +10,7 @@ July 24, 2014
 What is our role in the open data movement?  
 12:30 to 1:30 p.m.  
 
+
 Session leaders:  AmyJo Brown and Casey Thomas  
 
 >&gt;Hi.  I'm Casey and this is AmyJo.  I do freelance journalism  

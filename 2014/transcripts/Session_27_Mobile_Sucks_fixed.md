@@ -34,6 +34,7 @@ The way I'm hoping we're going to structure this is now or in a minute everyone 
 >[group activity]  
 ... ... ... :  OK, about two minutes left.  Maybe start thinking about one person per group who's going to talk about what you've been talking about ... :  
 
+
 >&gt;OK, everybody ready to wrap up and talk to the group?  All right.  No, what I mean is you are ready to talk to the group.  All right, well, what's what's up with you guys?  
 
 
