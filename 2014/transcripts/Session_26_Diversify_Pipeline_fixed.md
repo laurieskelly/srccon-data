@@ -1,17 +1,10 @@
-
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
-
->Captioning by the wonderful people of White Coat Captioning, LLC  
-
->whitecoatcaptioning.com  
-
->SRCCON 2014  
-
->Session 26 7-25-14, 1230-1330  
-
->Franklin 2  
-
->"How to diversify the pipeline of journo-coders"  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
+SRCCON 2014  
+Session 26 7-25-14, 1230-1330  
+Franklin 2  
+"How to diversify the pipeline of journo-coders"  
 LATOYA:  All right.  Welcome, how are you?  
 
 >&gt;Great.  

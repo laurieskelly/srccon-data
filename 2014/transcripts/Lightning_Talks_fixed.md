@@ -1,11 +1,10 @@
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
+Lightning Talks, Thursday night  
 
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+>&gt;Hi, everyone.  You're at the lighting talks.  We've got a lot to do.  I'm just going to assume everyone's here, and if not, since we got limited time, and you know, for sure the short presentations but it's going to take up a fair amount of time.  If you could just look at where you are, who's in front of you.  That would be awesome.  I'm Allen, and this is Katie.  
 
->Captioning by the wonderful people of White Coat Captioning, LLC  
-
->whitecoatcaptioning.com  
-
->Lightning Talks, Thursday night  
 
 >&gt;Thanks for doing lighting talks.  I'll be timing people.  I'll give you a warning when you've got one minute left, and at five minutes, you're done.  
 

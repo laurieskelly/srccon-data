@@ -1,17 +1,10 @@
-
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
-
->Captioning by the wonderful people of White Coat Captioning, LLC  
-
->whitecoatcaptioning.com  
-
->SRCCON 2014  
-
->Session 20   7-25-14, 1100-1200  
-
->Franklin 2  
-
->"Make your own security blanket"  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
+SRCCON 2014  
+Session 20   7-25-14, 1100-1200  
+Franklin 2  
+"Make your own security blanket"  
 JEFF:  So I'm Jeff Larson, I work with ProPublica.  I have been living in -- let's just say -- sort of a high-security lifestyle for a year now.  Last June, a bunch of very nice British gentlemen came to our offices and asked us if we wanted to work on the Snowden story to which I freaked out because I didn't know how to communicate securely.  About two months before that, my boss and I spent a week setting up PGPT keys.  And funny story.  Klein, who's my boss, he has two PGPT keys because he forgot the password to the first one.  He is the smartest guy in the whole entire world.  Like, he knows Perl.  So he has a PGP, and he also forgot to generate a revocation certificate which is a thing that you have to do to take down a key.  So now, he has a permanent key that he can't use.  And a lot of people email him.  So I want to talk about that situation, right?  
 
 >I carry around two laptops.  I got an extra one here.  And it's a pain in the neck because, you know, it's a pain in the neck to use these things.  So two nights ago, there's a security tool that I use, and Bart Gellman uses, a tool called Tails which we'll get into but I want to whine about it, first.  Two nights ago, you know I learned that there was an upgrade for Tails and my wife and I came back from a lamaze class, and maybe have an nice night but I said, "No, I'm going to upgrade Tails."  I stay up until 2:00 in the morning trying to fight this stuff.  So it's really important to me that these security tools steal your life, right?  Everything that's easy -- everything that you do right now is easy and automatic and like, you don't have to worry about it but once you start reporting in -- you know, it doesn't have to be on the student stories.  If you're talking to people in war zones, or even if you're working on a story that might be under a threat of being subpoenaed, this kind of stuff might happen.  So that's just kind of the overarching theme of this talk, is that security's too hard.  I'm going to show you a bunch of tools.  But, you know, maybe start thinking about, like, as I go through all these tools, start thinking about if you've ever used any in the past, ways in which they were, like, hard to use or difficult to use, or not fun.  If you haven't used any in the past, please, by all means visit the websites and visit the websites as I go through them and think to yourselves, "Could I figure that out?"  And if the answer's no, then that security tool's a failure, right?  If you haven't used some of the tools, visit the website.  Try and figure out if you could figure it out.  And how long.  Try and budget it because at the end I want to do this sort of experiment where everybody goes through and says, "How many hours would they have to devote to, you know, having a second laptop and doing everything securely?"  So we're going to start with security tools.  Then we're going to do -- I'm going to do, actually, a fun example of how cryptography works.  We're going to talk about elliptic curve exchange because we're at a programming conference and everybody should at least know the underlying protocols.  And it's really easy, so don't worry about it and then we're going to talk about slow crypto, you know, this idea that you -- you can do it yourself.  You can also write in routines and then figure it out.  And then we're going to circle back and talk about how.  So first things first.  Throw out, can people start throwing out security tools that they've heard of?  So we've already talked about one which is Tails.  We're talking about that a little bit.  But anybody else?  

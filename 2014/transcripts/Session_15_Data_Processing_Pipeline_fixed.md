@@ -1,15 +1,9 @@
-
->This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
-
->Captioning by the wonderful people of White Coat Captioning, LLC  
-
->whitecoatcaptioning.com  
-
->July 24, 2014  
-
->Data Processing Pipeline show and tell  
-
->3 to 4 p.m.  
+This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.  
+Captioning by the wonderful people of White Coat Captioning, LLC  
+whitecoatcaptioning.com  
+July 24, 2014  
+Data Processing Pipeline show and tell  
+3 to 4 p.m.  
 
 >&gt;Shall we do this thing?  Enthusiasm.  All right.  Cool.  Data.  
 
