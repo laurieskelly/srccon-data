@@ -33,7 +33,6 @@ for filename in filenames:
             if gt_marker:
                 if not out_of_header: 
                     out_of_header = True
-                    continue
                 if named_speaker_line:
                     # special case for if there is accidentally an 
                     # angle bracket in front of a named speaker
@@ -41,7 +40,7 @@ for filename in filenames:
                 else:
                     line = '\n>&gt;'+line[len(gt_marker)+1:]+'\n'
 
-            if not gt_marker and not named_speaker_line:
+            if not gt_marker and not named_speaker_line and out_of_header:
                 # paragraph continuation for same speaker should not jump out of block quote
                 line = '\n>'+line
 
